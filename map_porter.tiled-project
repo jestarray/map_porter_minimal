@@ -1,0 +1,2203 @@
+{
+  "automappingRulesFile": "",
+  "commands": [],
+  "extensionsPath": "",
+  "folders": [
+    "tsd",
+    "custom_maps_REMAKE"
+  ],
+  "properties": [],
+  "propertyTypes": [
+    {
+      "color": "#ffaa0000",
+      "drawFill": true,
+      "id": 1,
+      "members": [],
+      "name": "BlockC",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffaa0000",
+      "drawFill": true,
+      "id": 2,
+      "members": [],
+      "name": "BlockP",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ff000000",
+      "drawFill": true,
+      "id": 3,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,FLY,JUMP"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "max_hp",
+          "type": "int",
+          "value": 700
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Boarded",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 36,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 0
+        },
+        {
+          "name": "jumpable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "pull",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Cade_0%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 32,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "jumpable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "pull",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Cade_100%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 35,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 175
+        },
+        {
+          "name": "jumpable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "pull",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Cade_25%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 34,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 350
+        },
+        {
+          "name": "jumpable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "pull",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Cade_50%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 33,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 525
+        },
+        {
+          "name": "jumpable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "pull",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Cade_75%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 65,
+      "members": [
+        {
+          "name": "light_pat",
+          "type": "int",
+          "value": 5
+        },
+        {
+          "name": "light_radius",
+          "type": "float",
+          "value": 5
+        },
+        {
+          "name": "link_id",
+          "type": "float",
+          "value": 0
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Candle",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 62,
+      "members": [
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "gas",
+          "type": "float",
+          "value": 100
+        },
+        {
+          "name": "hp",
+          "type": "int",
+          "value": 1000
+        },
+        {
+          "name": "max_hp",
+          "type": "int",
+          "value": 1000
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "car_hit"
+        }
+      ],
+      "name": "Car",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "collide_etypes",
+      "storageType": "string",
+      "type": "enum",
+      "values": [
+        "OPAQUE",
+        "MONSTER",
+        "MBOSS",
+        "AGILE",
+        "HUMAN",
+        "CADE",
+        "ITEM",
+        "PROJECTILE"
+      ],
+      "valuesAsFlags": true
+    },
+    {
+      "id": 68,
+      "name": "collide_motions",
+      "storageType": "string",
+      "type": "enum",
+      "values": [
+        "BUMP",
+        "WALK",
+        "FLY",
+        "JUMP"
+      ],
+      "valuesAsFlags": true
+    },
+    {
+      "id": 67,
+      "name": "crack",
+      "storageType": "int",
+      "type": "enum",
+      "values": [
+        "light",
+        "light2",
+        "dark"
+      ],
+      "valuesAsFlags": false
+    },
+    {
+      "color": "#ffffffff",
+      "drawFill": true,
+      "id": 5,
+      "members": [
+        {
+          "name": "boardable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "OPAQUE,MONSTER,MBOSS,AGILE,HUMAN,CADE,ITEM,PROJECTILE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,FLY,JUMP"
+        },
+        {
+          "name": "hp",
+          "type": "int",
+          "value": 300
+        },
+        {
+          "name": "max_hp",
+          "type": "int",
+          "value": 300
+        },
+        {
+          "name": "no_bullet_dmg",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "sfx_close",
+          "type": "string",
+          "value": "woodendoor_closed"
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_open",
+          "type": "string",
+          "value": "woodendoor_open"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Door",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 48,
+      "members": [
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE,ITEM,PROJECTILE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "WALK,FLY,JUMP"
+        },
+        {
+          "name": "hp",
+          "type": "int",
+          "value": 300
+        },
+        {
+          "name": "max_hp",
+          "type": "int",
+          "value": 300
+        },
+        {
+          "name": "no_bullet_dmg",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "sfx_close",
+          "type": "string",
+          "value": "woodendoor_closed"
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_open",
+          "type": "string",
+          "value": "woodendoor_open"
+        }
+      ],
+      "name": "DoorOpen",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ff00ff7f",
+      "drawFill": true,
+      "id": 6,
+      "members": [],
+      "name": "EvacZone",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 42,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 0
+        },
+        {
+          "name": "jumpable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "fence_hit"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Fence_0%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 38,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "jumpable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "fence_hit"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Fence_100%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 40,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 175
+        },
+        {
+          "name": "jumpable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "fence_hit"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Fence_25%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 41,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 350
+        },
+        {
+          "name": "jumpable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "fence_hit"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Fence_50%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 39,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 525
+        },
+        {
+          "name": "jumpable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "fence_hit"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Fence_75%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 43,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 0
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "pull",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "HeavyCade_0%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 44,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "pull",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "HeavyCade_100%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 45,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 175
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "pull",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "HeavyCade_25%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 46,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 350
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "pull",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "HeavyCade_50%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 47,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 525
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "pull",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "HeavyCade_75%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ff0055ff",
+      "drawFill": true,
+      "id": 8,
+      "members": [],
+      "name": "HeliSpawn",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ff0055ff",
+      "drawFill": true,
+      "id": 9,
+      "members": [],
+      "name": "HeliWayPoint",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 63,
+      "members": [
+        {
+          "name": "light_pat",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "light_radius",
+          "type": "float",
+          "value": 7
+        },
+        {
+          "name": "link_id",
+          "type": "float",
+          "value": 0
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "LightBulb",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 64,
+      "members": [
+        {
+          "name": "link_id",
+          "type": "float",
+          "value": 0
+        },
+        {
+          "name": "sfx_open",
+          "type": "string",
+          "value": "flashlight_fire"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "LightSwitch",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 10,
+      "members": [
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,JUMP"
+        },
+        {
+          "name": "death_tile",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 200
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 200
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Liquid",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 56,
+      "members": [
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "LiquidWave",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffaa00ff",
+      "drawFill": true,
+      "id": 11,
+      "members": [],
+      "name": "MobSpawn",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 12,
+      "members": [],
+      "name": "NPC",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 25,
+      "members": [
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "death_tile",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "hp",
+          "type": "int",
+          "value": 200
+        },
+        {
+          "name": "max_hp",
+          "type": "int",
+          "value": 200
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "terrain_destroy"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Obstruction",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 66,
+      "members": [],
+      "name": "PickupItem",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile",
+        "project"
+      ]
+    },
+    {
+      "color": "#ff00ff00",
+      "drawFill": true,
+      "id": 13,
+      "members": [],
+      "name": "PlayerSpawn",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ff555500",
+      "drawFill": true,
+      "id": 14,
+      "members": [],
+      "name": "RanAmmo",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 15,
+      "members": [],
+      "name": "RanHerb",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 16,
+      "members": [],
+      "name": "RanMelee",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 17,
+      "members": [],
+      "name": "RanPoster",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 18,
+      "members": [],
+      "name": "ScenarioSettings",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 55,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "HUMAN,CADE,ITEM,PROJECTILE,MELEE,MONSTER,AGILE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "WALK,FLY"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 0
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "no_bullet_dmg",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "sfx_close",
+          "type": "string",
+          "value": "shutter_closed"
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_open",
+          "type": "string",
+          "value": "shutter_open"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Shutter_0%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 51,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "OPAQUE,HUMAN,CADE,ITEM,PROJECTILE,MELEE,MONSTER,AGILE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,FLY"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "no_bullet_dmg",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "sfx_close",
+          "type": "string",
+          "value": "shutter_closed"
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_open",
+          "type": "string",
+          "value": "shutter_open"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Shutter_100%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 54,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "OPAQUE,HUMAN,CADE,ITEM,PROJECTILE,MELEE,MONSTER,AGILE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,FLY"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 175
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "no_bullet_dmg",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "sfx_close",
+          "type": "string",
+          "value": "shutter_closed"
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_open",
+          "type": "string",
+          "value": "shutter_open"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Shutter_25%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 53,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "OPAQUE,HUMAN,CADE,ITEM,PROJECTILE,MELEE,MONSTER,AGILE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,FLY"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 350
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "no_bullet_dmg",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "sfx_close",
+          "type": "string",
+          "value": "shutter_closed"
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_open",
+          "type": "string",
+          "value": "shutter_open"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Shutter_50%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 52,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "OPAQUE,HUMAN,CADE,ITEM,PROJECTILE,MELEE,MONSTER,AGILE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,FLY"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 525
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 700
+        },
+        {
+          "name": "no_bullet_dmg",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "sfx_close",
+          "type": "string",
+          "value": "shutter_closed"
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "mdoor_open"
+        },
+        {
+          "name": "sfx_open",
+          "type": "string",
+          "value": "shutter_open"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Shutter_75%",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ff0055ff",
+      "drawFill": true,
+      "id": 19,
+      "members": [],
+      "name": "SpawnBlue",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ff00ff00",
+      "drawFill": true,
+      "id": 20,
+      "members": [],
+      "name": "SpawnGreen",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ff000064",
+      "drawFill": true,
+      "id": 21,
+      "members": [],
+      "name": "SpawnLocator",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffffaaff",
+      "drawFill": true,
+      "id": 22,
+      "members": [],
+      "name": "SpawnPink",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffff0000",
+      "drawFill": true,
+      "id": 23,
+      "members": [],
+      "name": "SpawnRed",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ff9b0000",
+      "drawFill": true,
+      "id": 24,
+      "members": [],
+      "name": "SpawnTrigger",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 59,
+      "members": [
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK"
+        },
+        {
+          "name": "death_tile",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "hp",
+          "type": "int",
+          "value": 200
+        },
+        {
+          "name": "light_pat",
+          "type": "int",
+          "value": 2
+        },
+        {
+          "name": "max_hp",
+          "type": "int",
+          "value": 200
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "terrain_destroy"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "StreetLight",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 26,
+      "members": [],
+      "name": "Survivor",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 27,
+      "members": [
+        {
+          "name": "link_id",
+          "type": "float",
+          "value": 0
+        },
+        {
+          "name": "sfx_open",
+          "type": "string",
+          "value": "beep_success"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Switch",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 28,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "HUMAN,CADE,MELEE,MONSTER,AGILE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,JUMP"
+        },
+        {
+          "name": "death_item",
+          "type": "string",
+          "value": "boards"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 500
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 500
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "tree_death"
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "tree_hit"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Tree",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 60,
+      "members": [
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE,ITEM"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,FLY,JUMP"
+        },
+        {
+          "name": "death_tile",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "hp",
+          "type": "int",
+          "value": 200
+        },
+        {
+          "name": "max_hp",
+          "type": "int",
+          "value": 200
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "terrain_destroy"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "VoidAll",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile",
+        "project"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 57,
+      "members": [
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "MONSTER,MBOSS,AGILE,HUMAN,CADE,ITEM"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,FLY,JUMP"
+        },
+        {
+          "name": "death_tile",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "hp",
+          "type": "int",
+          "value": 200
+        },
+        {
+          "name": "max_hp",
+          "type": "int",
+          "value": 200
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "terrain_destroy"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Wall",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile",
+        "project"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 29,
+      "members": [
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "OPAQUE,MONSTER,MBOSS,AGILE,HUMAN,CADE,ITEM,PROJECTILE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,FLY,JUMP"
+        },
+        {
+          "name": "death_tile",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 200
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 200
+        },
+        {
+          "name": "no_bullet_dmg",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "terrain_destroy"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "WallTop",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 70,
+      "members": [],
+      "name": "WebTrap",
+      "type": "class",
+      "useAs": [
+        "property",
+        "map",
+        "layer",
+        "object",
+        "tile",
+        "tileset",
+        "wangcolor",
+        "wangset",
+        "project"
+      ]
+    },
+    {
+      "color": "#ffa0a0a4",
+      "drawFill": true,
+      "id": 30,
+      "members": [
+        {
+          "name": "animate_hp",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "boardable",
+          "type": "int",
+          "value": 1
+        },
+        {
+          "name": "collide_etypes",
+          "propertyType": "collide_etypes",
+          "type": "string",
+          "value": "HUMAN,CADE,ITEM,PROJECTILE,MELEE,MONSTER,AGILE"
+        },
+        {
+          "name": "collide_motions",
+          "propertyType": "collide_motions",
+          "type": "string",
+          "value": "BUMP,WALK,FLY,JUMP"
+        },
+        {
+          "name": "hp",
+          "type": "float",
+          "value": 64
+        },
+        {
+          "name": "max_hp",
+          "type": "float",
+          "value": 64
+        },
+        {
+          "name": "sfx_death",
+          "type": "string",
+          "value": "window_break"
+        },
+        {
+          "name": "sfx_hit",
+          "type": "string",
+          "value": "glass_hit"
+        },
+        {
+          "name": "static",
+          "type": "int",
+          "value": 1
+        }
+      ],
+      "name": "Window",
+      "type": "class",
+      "useAs": [
+        "object",
+        "tile"
+      ]
+    }
+  ]
+}

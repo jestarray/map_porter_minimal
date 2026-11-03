@@ -1,0 +1,15 @@
+{ "columns":10,
+ "image":"..\/tilesets\/indoor_floors_carpet_black.png",
+ "imageheight":96,
+ "imagewidth":320,
+ "margin":0,
+ "name":"indoor_floors_carpet_black",
+ "objectalignment":"topleft",
+ "spacing":0,
+ "tilecount":30,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

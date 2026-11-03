@@ -1,0 +1,24 @@
+{ "columns":3,
+ "image":"..\/tilesets\/testtube_114x64.png",
+ "imageheight":64,
+ "imagewidth":342,
+ "margin":0,
+ "name":"testtube_114x64",
+ "spacing":0,
+ "tilecount":3,
+ "tiledversion":"1.9.1",
+ "tileheight":64,
+ "tiles":[
+        {
+         "id":0,
+         "properties":[
+                {
+                 "name":"bypath",
+                 "type":"string",
+                 "value":"\/obj\/bestiary\/lab\/test_tube_under_4"
+                }]
+        }],
+ "tilewidth":114,
+ "type":"tileset",
+ "version":"1.8"
+}

@@ -1,0 +1,24 @@
+{ "columns":1,
+ "image":"..\/tilesets\/outdoor_rock64.png",
+ "imageheight":64,
+ "imagewidth":64,
+ "margin":0,
+ "name":"outdoor_rock64",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.10.2",
+ "tileheight":64,
+ "tiles":[
+        {
+         "id":0,
+         "properties":[
+                {
+                 "name":"bypath",
+                 "type":"string",
+                 "value":"\/turf\/enviroment\/deco\/park\/rocks\/rocks\/rocks_2"
+                }]
+        }],
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.10"
+}

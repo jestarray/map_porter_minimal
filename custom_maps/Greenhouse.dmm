@@ -1,0 +1,328 @@
+"aa" = (/turf/enviroment/floors/voids/void,/area/inside_player_block)
+"ab" = (/obj/effects/spawn_zone,/turf/enviroment/floors/floor_35,/area/outside/outside)
+"ac" = (/obj/effects/spawn_zone,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"ad" = (/turf/enviroment/floors/floor_35,/obj/effects/spawn_zone,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"ae" = (/turf/enviroment/floors/floor_35,/area/outside/outside)
+"af" = (/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"ag" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/deco/junk_1,/area/outside/outside)
+"ah" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/deco/park/rocks/rocks/rocks_1,/area/outside/outside)
+"ai" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/outside/objects/trees/tree_2/tf,/area/outside/outside)
+"aj" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/outside/objects/trees/tree_1/tf,/area/outside/outside)
+"ak" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/deco/park/rocks/rocks/rocks_2,/area/outside/outside)
+"al" = (/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"am" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"an" = (/obj/destructable/fences/fences_1/fencee,/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"ao" = (/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"ap" = (/obj/destructable/fences/fences_1/fencee,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"aq" = (/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_35,/area/outside/outside)
+"ar" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_35/others/atl,/area/outside/outside)
+"as" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/b_cades/cades/cades_1_b,/turf/enviroment/floors/floor_35/others/bt,/area/outside/outside)
+"at" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/b_cades/cades/cades_1,/turf/enviroment/floors/floor_35/others/bt,/area/outside/outside)
+"au" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_35/others/ctr,/area/outside/outside)
+"av" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_35/others/hl,/area/outside/outside)
+"aw" = (/obj/destructable/b_cades/cades/cades_1,/turf/enviroment/floors/floor_35,/area/outside/outside)
+"ax" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_35/others/dr,/area/outside/outside)
+"ay" = (/turf/enviroment/floors/floor_35,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/outside/outside)
+"az" = (/turf/enviroment/floors/floor_35,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/outside/outside)
+"aA" = (/turf/enviroment/floors/floor_35,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/outside/outside)
+"aB" = (/turf/enviroment/floors/floor_35,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/outside/outside)
+"aC" = (/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/floor_35,/area/outside/outside)
+"aD" = (/turf/enviroment/walls/top_2/wall_top_5,/area/inside)
+"aE" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/top_2/wall_top_11,/turf/enviroment/walls/wall_11/top,/area/outside/outside_in)
+"aF" = (/turf/enviroment/walls/top_2/wall_top_6,/area/inside)
+"aG" = (/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{dir = 4; icon_state = "sec_door"; l_id_num = 1; tag = "icon-sec_door (EAST)"},/turf/enviroment/walls/wall_11,/area/inside)
+"aH" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/windows/window_1,/turf/enviroment/deco/webs/web_1,/area/outside/outside_underlayer)
+"aI" = (/obj/destructable/windows/window_1,/turf/enviroment/floors/floor_8/grass,/area/outside/outside_underlayer)
+"aJ" = (/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{dir = 8; icon_state = "sec_door"; l_id_num = 1; tag = "icon-sec_door (WEST)"},/turf/enviroment/walls/wall_11,/area/inside)
+"aK" = (/turf/enviroment/floors/floor_8/grass,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/floor_35/others/dr,/area/outside/outside)
+"aL" = (/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{dir = 4; icon_state = "sec_door"; l_id_num = 1; tag = "icon-sec_door (EAST)"},/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/area/inside)
+"aM" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/area/inside)
+"aN" = (/turf/enviroment/deco/house/counters/counter_2/counter_1,/obj/other_cool/ran_stuff/melee,/turf/enviroment/deco/house/counters/counter_2/counter_7,/area/inside)
+"aO" = (/obj/other_cool/ran_stuff/melee,/turf/enviroment/deco/house/counters/counter_2/counter_3,/area/inside)
+"aP" = (/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/area/inside)
+"aQ" = (/obj/other_cool/ran_stuff/melee,/turf/enviroment/deco/house/counters/counter_2/counter_1,/area/inside)
+"aR" = (/turf/enviroment/deco/house/counters/counter_2/counter_3,/obj/other_cool/ran_stuff/melee,/turf/enviroment/deco/house/counters/counter_2/counter_7,/area/inside)
+"aS" = (/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{dir = 8; icon_state = "sec_door"; l_id_num = 1; tag = "icon-sec_door (WEST)"},/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/area/inside)
+"aT" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_35/others/gbl,/area/outside/outside)
+"aU" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_35/others/fb,/area/outside/outside)
+"aV" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_35/others/fb,/turf/enviroment/floors/floor_35/hl,/area/outside/outside)
+"aW" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_35/others/fb,/turf/enviroment/floors/floor_35/dr,/area/outside/outside)
+"aX" = (/turf/enviroment/floors/floor_8/grass,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/floor_35/others/fb,/area/outside/outside)
+"aY" = (/turf/enviroment/floors/floor_8/grass,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/floor_35/others/ebr,/area/outside/outside)
+"aZ" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/plants/plant_2,/area/inside)
+"ba" = (/turf/enviroment/deco/house/counters/counter_2/counter_4,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"bb" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/atl,/area/inside)
+"bc" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/bt,/area/inside)
+"bd" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_35/others/ctr,/area/inside)
+"be" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/top_2/wall_top_11,/turf/enviroment/walls/wall_11/top,/turf/enviroment/floors/floor_35/hl,/area/outside/outside_in)
+"bf" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_11/top,/turf/enviroment/walls/top_2/wall_top_11,/area/outside/outside_in)
+"bg" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/top_2/wall_top_11,/turf/enviroment/walls/wall_11/top,/turf/enviroment/floors/floor_35/dr,/area/outside/outside_in)
+"bh" = (/turf/enviroment/walls/top_2/wall_top_8,/area/inside)
+"bi" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/hl,/area/inside)
+"bj" = (/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/floors/floor_35,/area/inside)
+"bk" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/junk_2,/area/inside)
+"bl" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/dr,/area/inside)
+"bm" = (/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/floors/floor_8/grass,/area/outside/outside_underlayer)
+"bn" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/floors/floor_35/hl,/area/outside/outside_underlayer)
+"bo" = (/obj/destructable/doors/door_4,/turf/enviroment/floors/floor_35,/area/outside/outside_underlayer)
+"bp" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/floors/floor_35/dr,/area/outside/outside_underlayer)
+"bq" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/area/outside/outside_underlayer)
+"br" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/outside/objects/wires/wire_1/w2,/area/outside/outside_underlayer)
+"bs" = (/turf/enviroment/walls/wall_11,/area/inside)
+"bt" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/ctr,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"bu" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_35/others/hl,/area/inside)
+"bv" = (/turf/enviroment/floors/floor_35,/area/inside)
+"bw" = (/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{dir = 4; icon_state = "sec_door"; l_id_num = 1; tag = "icon-sec_door (EAST)"},/turf/enviroment/floors/floor_35,/area/inside)
+"bx" = (/turf/enviroment/floors/floor_35,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/area/inside)
+"by" = (/turf/enviroment/floors/floor_35,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"bz" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_8/grass_egdes/e3{ignore_seasons = 1},/area/inside)
+"bA" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/junk_1,/turf/enviroment/floors/floor_8/grass_egdes/e3{ignore_seasons = 1},/area/inside)
+"bB" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/markets/boxs/boxs_1/box_2,/turf/enviroment/floors/floor_8/grass_egdes/e3{ignore_seasons = 1},/area/inside)
+"bC" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/gbl,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/inside)
+"bD" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/fb,/area/inside)
+"bE" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/ebr,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside)
+"bF" = (/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_35,/area/inside)
+"bG" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/plants/plant_2,/area/inside)
+"bH" = (/obj/other_cool/ran_stuff/melee,/turf/enviroment/deco/house/counters/counter_2/counter_5,/area/inside)
+"bI" = (/turf/enviroment/floors/floor_35,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_8/grass_egdes/e3{ignore_seasons = 1},/area/inside)
+"bJ" = (/obj/other_cool/ran_stuff/melee,/turf/enviroment/deco/house/counters/counter_2/counter_6,/area/inside)
+"bK" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/junk_1,/area/inside)
+"bL" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_8/grass_egdes/e1{ignore_seasons = 1},/area/inside)
+"bM" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_8/grass_egdes/e4{ignore_seasons = 1},/turf/enviroment/floors/floor_8/grass_egdes/e3{ignore_seasons = 1},/area/inside)
+"bN" = (/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_35,/area/inside)
+"bO" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/top_2/wall_top_11,/turf/enviroment/walls/wall_11/top,/area/inside)
+"bP" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/ebr,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"bQ" = (/turf/enviroment/floors/floor_35,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_8/grass_egdes/e1{ignore_seasons = 1},/area/inside)
+"bR" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/gbl,/area/inside)
+"bS" = (/obj/havens{de_on = 1},/turf/enviroment/floors/floor_35,/area/inside)
+"bT" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_8/grass_egdes/e4{ignore_seasons = 1},/area/inside)
+"bU" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/plants/plant_2,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"bV" = (/turf/enviroment/floors/floor_35,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"bW" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/plants/plant_2,/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/deco/webs/web_1,/area/outside/outside)
+"bX" = (/turf/enviroment/floors/floor_35,/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/deco/plants/plant_2,/area/outside/outside)
+"bY" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/atl,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"bZ" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_8/grass_egdes/e2{ignore_seasons = 1},/area/inside)
+"ca" = (/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{dir = 8; icon_state = "sec_door"; l_id_num = 1; tag = "icon-sec_door (WEST)"},/turf/enviroment/floors/floor_35,/area/inside)
+"cb" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_35/others/atl,/area/inside)
+"cc" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/ctr,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/inside)
+"cd" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_35/others/gbl,/area/inside)
+"ce" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/ebr,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/inside)
+"cf" = (/turf/enviroment/floors/floor_35,/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_8/grass_egdes/e2{ignore_seasons = 1},/area/inside)
+"cg" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_35/others/dr,/area/inside)
+"ch" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/plants/plant_2,/turf/enviroment/outside/objects/trees/tree_1/tf,/area/inside)
+"ci" = (/turf/enviroment/floors/floor_35,/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_8/grass_egdes/e4{ignore_seasons = 1},/area/inside)
+"cj" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/gbl,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"ck" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/ebr,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside)
+"cl" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/atl,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"cm" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/walls/top_2/wall_top_9,/turf/enviroment/walls/wall_11/top,/area/inside)
+"cn" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/walls/top_2/wall_top_11,/turf/enviroment/walls/wall_11/top,/turf/enviroment/deco/plants/plant_2,/area/inside)
+"co" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/walls/top_2/wall_top_10,/turf/enviroment/walls/wall_11/top,/area/inside)
+"cp" = (/turf/enviroment/walls/wall_11,/area/outside/outside)
+"cq" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/deco/plants/plant_2,/area/outside/outside)
+"cr" = (/obj/destructable/windows/window_1,/turf/enviroment/walls/wall_11,/area/inside)
+"cs" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/deco/webs/web_4,/area/outside/outside)
+"ct" = (/turf/enviroment/walls/wall_11/top,/turf/enviroment/walls/top_2/wall_top_10,/area/inside)
+"cu" = (/turf/enviroment/walls/wall_11/top,/turf/enviroment/walls/top_2/wall_top_9,/area/inside)
+"cv" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/walls/top_2/wall_top_2,/turf/enviroment/walls/wall_11/top,/turf/enviroment/walls/top_2/wall_top_10,/area/inside)
+"cw" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/junk_1,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"cx" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/walls/wall_11/top,/turf/enviroment/walls/top_2/wall_top_9,/area/inside)
+"cy" = (/turf/enviroment/walls/wall_11,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/area/inside)
+"cz" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/area/inside)
+"cA" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/plants/plant_1,/turf/enviroment/floors/floor_8/grass_egdes/e2{ignore_seasons = 1},/turf/enviroment/floors/floor_8/grass_egdes/e1{ignore_seasons = 1},/area/inside)
+"cB" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/plants/plant_1,/turf/enviroment/floors/floor_8/grass_egdes/e4{ignore_seasons = 1},/turf/enviroment/floors/floor_8/grass_egdes/e1{ignore_seasons = 1},/area/inside)
+"cC" = (/turf/enviroment/deco/house/counters/counter_2/counter_1,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/deco/house/counters/counter_2/counter_7,/area/inside)
+"cD" = (/obj/other_cool/ran_stuff/herbs,/turf/enviroment/deco/house/counters/counter_2/counter_2,/area/inside)
+"cE" = (/turf/enviroment/deco/house/counters/counter_2/counter_2,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/area/inside)
+"cF" = (/obj/other_cool/ran_stuff/herbs,/turf/enviroment/deco/house/counters/counter_2/counter_3,/area/inside)
+"cG" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/plants/plant_2,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/area/inside)
+"cH" = (/obj/other_cool/ran_stuff/herbs,/turf/enviroment/deco/house/counters/counter_2/counter_1,/area/inside)
+"cI" = (/turf/enviroment/floors/floor_35,/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_8/grass_egdes/e2{ignore_seasons = 1},/area/inside)
+"cJ" = (/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_35,/area/inside)
+"cK" = (/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_35,/area/inside)
+"cL" = (/turf/enviroment/floors/floor_35,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/turf/enviroment/floors/floor_8/grass_egdes/e3{ignore_seasons = 1},/area/inside)
+"cM" = (/turf/enviroment/floors/floor_35,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_8/grass_egdes/e3{ignore_seasons = 1},/area/inside)
+"cN" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/industrial/barrels/barrels_1,/area/inside)
+"cO" = (/turf/enviroment/floors/floor_35,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_8/grass_egdes/e3{ignore_seasons = 1},/area/inside)
+"cP" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/markets/boxs/boxs_1/box_2,/turf/enviroment/floors/floor_8/grass_egdes/e3{ignore_seasons = 1},/turf/enviroment/floors/floor_8/grass_egdes/e4{ignore_seasons = 1},/area/inside)
+"cQ" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/house/counters/counter_2/counter_7,/turf/enviroment/deco/plants/plant_2,/area/inside)
+"cR" = (/turf/enviroment/floors/floor_35,/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_8/grass_egdes/e1{ignore_seasons = 1},/area/inside)
+"cS" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/junk_1,/turf/enviroment/floors/floor_8/grass_egdes/e1{ignore_seasons = 1},/area/inside)
+"cT" = (/turf/enviroment/floors/floor_35,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/turf/enviroment/floors/floor_8/grass_egdes/e1{ignore_seasons = 1},/area/inside)
+"cU" = (/turf/enviroment/floors/floor_35,/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_8/grass_egdes/e1{ignore_seasons = 1},/area/inside)
+"cV" = (/turf/enviroment/floors/floor_35,/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/floors/floor_8/grass_egdes/e1{ignore_seasons = 1},/area/inside)
+"cW" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/industrial/barrels/barrels_1,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/area/inside)
+"cX" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/ctr,/area/inside)
+"cY" = (/obj/other_cool/ran_stuff/herbs,/turf/enviroment/deco/house/counters/counter_2/counter_5,/area/inside)
+"cZ" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_8/grass_egdes/e2{ignore_seasons = 1},/area/inside)
+"da" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_8/grass_egdes/e4{ignore_seasons = 1},/area/inside)
+"db" = (/turf/enviroment/deco/house/counters/counter_2/counter_1,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/area/inside)
+"dc" = (/turf/enviroment/deco/house/counters/counter_2/counter_3,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/area/inside)
+"dd" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/area/inside)
+"de" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"df" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/itlc,/turf/enviroment/deco/plants/plant_1,/turf/enviroment/floors/floor_8/grass_egdes/e2{ignore_seasons = 1},/area/inside)
+"dg" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/jtrc,/turf/enviroment/deco/plants/plant_1,/turf/enviroment/floors/floor_8/grass_egdes/e4{ignore_seasons = 1},/area/inside)
+"dh" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/walls/top_2/wall_top_11,/turf/enviroment/walls/top_2/wall_top_9,/turf/enviroment/walls/wall_11/top,/area/inside)
+"di" = (/turf/enviroment/deco/house/counters/counter_2/counter_ct,/area/inside)
+"dj" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/gbl,/area/inside)
+"dk" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/fb,/turf/enviroment/deco/junk_2,/area/inside)
+"dl" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/ebr,/area/inside)
+"dm" = (/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/area/outside/outside)
+"dn" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/house/counters/counter_2/counter_7,/area/inside)
+"do" = (/turf/enviroment/floors/floor_35,/turf/enviroment/outside/objects/trees/tree_1/tf,/area/outside/outside)
+"dp" = (/turf/enviroment/floors/floor_35,/obj/other_cool/ran_stuff/rocks,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"dq" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/windows/window_1,/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/deco/webs/web_1,/area/outside/outside_underlayer)
+"dr" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/gbl,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"ds" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/ebr,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"dt" = (/turf/enviroment/deco/house/counters/counter_2/counter_1,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_7,/area/inside)
+"du" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_2,/area/inside)
+"dv" = (/turf/enviroment/deco/house/counters/counter_2/counter_3,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_7,/area/inside)
+"dw" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/atl,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"dx" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_35/others/bt,/area/inside)
+"dy" = (/turf/enviroment/deco/house/counters/counter_2/counter_1,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_7,/area/inside)
+"dz" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_2,/area/inside)
+"dA" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_3,/area/inside)
+"dB" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_35/others/hl,/area/inside)
+"dC" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_35/others/dr,/area/inside)
+"dD" = (/turf/enviroment/walls/top_2/wall_top_7,/area/inside)
+"dE" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/top_2/wall_top_10,/turf/enviroment/walls/wall_11/top,/area/inside)
+"dF" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/atl,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/inside)
+"dG" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_35/others/ctr,/area/inside)
+"dH" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/atl,/area/inside)
+"dI" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/ctr,/area/inside)
+"dJ" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_35/others/hl,/area/inside)
+"dK" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/dr,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_35/hl,/area/inside)
+"dL" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_35/hl,/area/inside)
+"dM" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/junk_1,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"dN" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/plants/plant_2,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/p_2,/area/inside)
+"dO" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/plants/plant_2,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"dP" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/gbl,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"dQ" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/fb,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/inside)
+"dR" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_35/others/ebr,/area/inside)
+"dS" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_8/grass_egdes/e2{ignore_seasons = 1},/turf/enviroment/floors/floor_8/grass_egdes/e4{ignore_seasons = 1},/area/inside)
+"dT" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/gbl,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"dU" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_5,/area/inside)
+"dV" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_3,/area/inside)
+"dW" = (/turf/enviroment/walls/top_2/wall_top_3,/area/inside)
+"dX" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/gbl,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside)
+"dY" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_35/others/fb,/area/inside)
+"dZ" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/floors/floor_35/others/ebr,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"ea" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/plants/plant_2,/turf/enviroment/deco/webs/web_2,/area/inside)
+"eb" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/plants/plant_2,/turf/enviroment/deco/webs/web_4,/area/inside)
+"ec" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_5,/area/inside)
+"ed" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_2,/area/inside)
+"ee" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_2,/area/inside)
+"ef" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_6,/area/inside)
+"eg" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_5,/area/inside)
+"eh" = (/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/counters/counter_2/counter_2,/area/inside)
+"ei" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/plants/plant_2,/turf/enviroment/deco/webs/web_3,/area/inside)
+"ej" = (/turf/enviroment/floors/floor_8/grass{ignore_seasons = 1},/turf/enviroment/deco/plants/plant_2,/turf/enviroment/deco/webs/web_1,/area/inside)
+"ek" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_11/top,/turf/enviroment/walls/top_2/wall_top_11,/turf/enviroment/floors/floor_8/grass_egdes/e2{ignore_seasons = 1},/turf/enviroment/floors/floor_8/grass_egdes/e4{ignore_seasons = 1},/area/inside)
+"el" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_8/grass_egdes/e2{ignore_seasons = 1},/obj/destructable/doors/door_4,/turf/enviroment/floors/floor_8/grass_egdes/e4{ignore_seasons = 1},/area/outside/outside)
+"em" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"en" = (/turf/enviroment/floors/voids/void,/turf/other/de_map_settings{de_set_map_author = "Darker Emerald"},/area/inside_player_block)
+"eo" = (/obj/power_sources/o_switch{invisibility = 43; l_id_num = 1},/turf/enviroment/floors/voids/void,/area/inside_player_block)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabacadabababacacacacababababacacacabababacacacacabababababababacacacabababababababababacacabababababababababababadababacacacababacacacabababaa
+aaaeafafafafafafafafafafaeaeafafagafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeafafafafafafafafafafafafafafafafafaeaa
+aaaeaeahafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagafafafafafafafafafafafafafafaiafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafaiafafagafafajafafafafafafafafafafafafafakafafafafafafafafafafafafafafafafafafakafafaeaeaa
+aaaeaeafafaiafafafafafafafafafajafafafahafafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafaiafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafakafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafahaeaeaa
+aaaeafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafafafahafajafafafafafafafafafafafafafafafafafafafafafafafafajafafafaeaeaa
+aaaeaeafagafafafafafafafafafafafafafafafafafahafafafafafafafafafamafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaiafafafagafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeajafafafafafahafafafalafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafagaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafaiafafafafafafafagafafafafafafafafafafafamafafafafafafafafafafafafafafafafafafafafafafafaiafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeafafafafafafafafafafafafafafafahafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafaeaeaa
+aaaeafafafafamafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeafafafafafafafafaiafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafaeaeaa
+aaaeaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoanafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafapafafafafafafafafafafafafafafafafafafafafafafafapafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaeaa
+aaaqaqaqaoaoaoaoaoaoaoaoaparasasatatasasatatasasatatasatatasasatatasasauanaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaqaoaqaa
+aaaeaeaeafafafahafafafafapavawaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeawaxapafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafaeaeaa
+aaaeaeafafafafafafafafafapavawaeaeaeaeaeaeaeayazazayaeaeaeayaeaeaeaeawaxapafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeaeaeafafafafafafafapavayaeaeaeaeayaeaeazaeaeazaeaeaeaAaeaeaeaeayaxapafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafapavayaeaeaBazayaeaeaeaeaeaeaeaeaeaAayayaeaeayaxapafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeafafafafafafafafafafapavayaeaeaBaCayaeaeaeaeaeaeaeaeaeayaeaeaeaeayaxaDaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaFafamafafafafafafafaeaeaa
+aaaeafafafafafafafafafafapavayaeaeaeaeaeaeaeayayayayayaeaeaeaeaeaeaeayaxaGaHaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaJafafafafafafahafafaeaeaa
+aaaeafafafafagafafafafafapavaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaCaKaLaMaMaMaMaMaMaMaMaMaMaMaMaNaOaPaPaQaRaMaMaMaMaSafafafafafafafafafaeaeaa
+aaaeafafafafafafafafafafapaTaUaUaUaUaUaUaVaeaeaWaUaUaUaUaUaUaUaUaUaUaXaYaLaZaZaZaZaZaZaZaZaZaZaZaZbabbbcbcbdbaaZaZaZaZaSafafafafafafafafafafaeaa
+aaaeafafafajafafafafafafanaoaoaoaDaEaEaEbebfbfbgaEaEaEaEaEaEaEaEaEaEaEaEbhaZaZaZaZaZaZaZaZaZaZaZaZbabibjbkblbaaZaZaZaZaSafajafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafaGbmbmbmbnbobobpbqbmbmbrbmbmbmbmbqbmbmbmbsbtaZaZaZaZaZaZaZaZaZaZaZbabubvbvblbaaZaZaZaZaSafafafafafagafafafaeaeaa
+aaaeaeafafafafafafafajafafafafafbwbvbvbvbvbvbvbvbxbvbvbybvbvbvbvbxbvbvbvbvbvbzbAbzbzbzbzbzbzbzbBaZbabCbDbDbEbaaZaZaZaZaSafafafafafafafafafafaeaa
+aaaeaeafafafafafafafafafafafafafbwbvbjbFbvbvbvbvbxbvbvbybGbGbvbvbxbvbGbvbvbvbvbvbvbvbvbFbvbvbvbvaZbHaObIbIaQbJaZaZaZaZaSafafafafafafafafafafaeaa
+aaaeaeafafafafafafafafafafafafafbwbvbGbvbvbGbvbKbxbGbvbybvbvbvbvbxbGbvbvbvbvbLbvbvbvbvbvbvbvbvbvbzbvbvbvbvbvbvbzbMaZaZaSafafafafafafafafafafaeaa
+aaaeaeafafafafafafafafafafafafafbwbvbNbvbvaDbObObObObObObObObObObObObObObhbPaZaNaObQbQaQaRbRbvbSbLbLbLbLbLbLbLbKbTaZaZaSafafafafafaiafafafaeaeaa
+aaaeaeamafafafafafakafafafafafafbwbUbVbVbVaJbWbXbXbXbXbXbXbXbXbXbXbXbXbXaGaZaZbabYbcbcbdbaaZbZbTaZaZaZaZaZaZaZbZbTaZaZaSafafafafafafafafafaeaeaa
+aaaeafafafafafafafafafafafafafafbwbvbvbvbGcaafafamafafafafafafafafafafafaLaZaZbabibvbkblbaaZbZbTaZaZaZaZaZaNaObQbQaQaRaSafafafafafafafafafaeaeaa
+aaaeafafafafafafafafafafafafafafbwbvbvbvbvcaafafafafafafafafafafafafajafaLaZaZbabibjbvblbaaZbZbTaZaZaZaZaZbacbbcbcccbaaSafafafafafafafafafaeaeaa
+aaaeafafafafafafafafafafafafafafbwbvbGbvbvcaajafafafafajamafafafafafafafaLaZaZbacdbDbDcebaaZcfbTaZaZaZaZaZbabibvbvblbaaSafafafafafafafafafafaeaa
+aaaeaeafafafafahafafafafafafafafbwbvbKbvbvcaafafafafafafafafafaiafafafafaLaZaZbHaOaPaPaQbJaZbZbTaZaZaZaZaZbabibkbjcgbaaSafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafafafafafbwbvbvbvbvcaafafaiafafafafafafafafafafafaLaZaZaZaZaZchaZaZaZbZciaZaZaZaZaZbacjbDbDckbaaSafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafbwbvbvbvbGcaafafafafafafafafafafafafafafaLaZaZaZaZaZaZaZaZclbvbvbtaZaZaZaZbHaOaPaPaQbJaSafafafafafafafafafafaeaa
+aaaeaeafafafafafafafafafafafafafbwbGbvbvbvcaafafafafafafalafafafafafajafcmcncncncncncncnaFbZbGbvbTaDcncncncncncncncncncoafafafafafafafafafafaeaa
+aaaeaeafafafafafafafafafafafafafbwbvbNbvbvcaafafafafafafafafajafafafamafcpcqcqcqcqcqcqcqaGbVbVbUbVcrcqcqcqcqcqcqcqcqcqcpafafafafafafafafafafaeaa
+aaaeaeafafafafafafamafafafafafafbwbvbvbvbGcaafafafajafafafafafafafafafafafafafafafafafafbwbvbGbvbvcaafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafbwbVbUbVbVcaafafamafafafafafafafafafafafafafajafafafafafbwbGbvbGbvcaafajafafafafafafafafafafafajafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafbwbvbvbvbvcaafafafafafafafafaiafafajafafafafafafafafafafbwbvbGbjbvcaafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafajafafafafafafafafafbwbvbvbGbvcaafajafafafafafafafafafafafafagafafafafafafafbwbvbvbvbGcaafafafafafafajafafafafafafafafafafafafafaeaa
+aaaeaeafafafafafafafafafafafafafbwbGbvbvbvcaafafafafafajafafafafafafafafafafafafafajafafbwbGbvbGbvcacsafafafafafafafafafafafafafafafafafafafaeaa
+aaaeaeafafafaDaEaEaEaEaEaEaEaEaEctbvbvbvbvcuaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEcvbVbVcwbVcxaEaEaEaEaEaEaEaEaEaFafafafafafahafafafaeaeaa
+aaaeafaeafafaGbmbmbmbqbmbmbmbmbmcybvbvbvbvbsbmbmbmbqbmbmbmbqbmbmbmbmbmbmbqbmbmbmbmbmbmbmcybvbvbvbvbsbmbmbmbmbmbmbmbmbmaJafafafafafafafafafaeaeaa
+aaaeaeaeafafaLaMaMaMczaMaMaMaMaMczcAbvbvcBaMaMaMaMczaMaMaMczaMaMaMaMaMaMczaMaMaMaMaMaMaMczcAbvbvcBaMaMaMaMaMaMaMaMaMaMcaafafafafafafafafafaeaeaa
+aaaeaeafafafaLaZcCcDcEcFaZaZaZaZcGaZbZbTaZaZcHcDcDcEcDcFaZcGaZaZaZaZaZaZcGcHcDcDcDcDcDcFcGaZcIbTaZaZaZaZaZaZaZaZaZaZaZcaafafafafafafagafafaeaeaa
+aaaeaeafafafaLaZbacJbxcKbzbzbzbzcLbzbvbvbzbzbvbvbvbxbvbvbzcMbzbzbAbzbzbzcLbvcNbvbvbvbvbvcObzbvbvbzbzbzbzbzcPcQaZaZaZaZcaafafafafafafafafafaeaeaa
+aaaeaeafafafaLaZbacJbxcKcRbLbLcScTbLcUcVbvbvbvbvbLcWbvbFbvbxbLbvbSbvbvbvbxbvbFbvbvbvbvbvbxbvbjbvbvbNbvbKbvbvbabbbcbccXcaafafafafafafafafafaeaeaa
+aaaeafafafafaLaZcYcDcEcFaZaZaZaZcGaZaZaZcZbvbvdaaZdbcDcDcDdcaZcZbvbvddcHcEcDcDcFaZaZcHcDcEcDcFaZaZaZaZbRbvbvbabidedeblcaafafafafajafafafafaeaeaa
+aaaeafamafafaLaZaZaZcGaZaZaZaZaZcGaZaZaZdfbvbvdgaZcGaZaZaZcGaZdfbvbvdgaZcGaZaZaZaZaZaZaZcGaZaZaZaZaZaZaZbZbvbabidedeblcaafafafafafafafafafaeaeaa
+aaaeafafafafdhcncncncncncncncncncncncnaFbvbvbkbvaDcncncncncnaFbvbvbvbkaDcncncncncncncncncncnaFaZaZaZaZaZbZbvdidjbDdkdlcaafafafafafafafafafafaeaa
+aaaeafafafafcpdmdmdmdmdmdmdmdmdmdmdmdmaGbvbvbvbvaJdmdmdmdmdmaGbvbvbvbvaJdmdmdmdmdmdmdmdmdmdmaGbbbcbccXdncfbTaZaZaZaZaZcaafafafafafafafafafafaeaa
+aaaedoafafafafafafafafafafafafafafafafbwbGbvbvbvcaafafafafafbwbGbvbGbvcaafafafafafafafafafafbwbidedpblbabZbTaZaZaZaZaZcaafafafafafafafafamafaeaa
+aaaeaeaeafafafafafafafafafafafajamafafbwbVbVbUbVcaafagafajafbwbvbvbvbGcaafajafafamafafafajafbwbidedeblbabZbTaZaZaZaZaZcaafafafafajafafafafaeaeaa
+aaaeaeaeafafafaiafafafafafafafafafafafbwbvbvbvbGcaafafafafafbwbvbNbGbvcaafafafafafafafagafafbwdjbDbDdldibZbTcQbbbcbccXcaafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafbwbvbGbvbvcaafaiafafafbwbGbvbvbGcaafagafafafafafafafafbwaZaZaZaZaZbZbjbabidedeblcaafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafamafafaiafafafafafbwbkbGbNbvcaafafafafafbwbvbGbGbvcaafafafaiafafafafafambwaZaZaZaZaZbZbvbabidedeblcaafafafafafafafafafaeaeaa
+aaaeafafafafafafafafafafafafafafafafafbwbvbjbGbvcaafafafafagbwbGbvbjbvcaafafafafafafafafafafbwaZaZaZaZdfbvbvdidjbDbDdlcaafafafafafafafafafafaeaa
+aaaeafafafafafafafafafafafafafafafafafbwbvbvbvbGcaajafafafafbwbvbvbGbGcaafafafafafalafajafafcmcncncnaFbvbvbvbvaDcncncncoafafafafafafafafafafaeaa
+aaaeafafafafafaiafafafafafafafafafafafbwbGbvbvbvcaafafafafafbwbvbGbvbvcaafajafafafafafafafafcpdmdmdmaGbvbvbKbvaJdmdmdmcpafafafafafafafafafafaeaa
+aaaeafafafafafafafafafafafafafafafajafbwbvbvbGbvcaafafaiafafbwbGbvbvbvcaafafafafafafafafafafafafafafbwbGbvbvbGcaafafafafafafafafafafafafafaeaeaa
+aaaeafafafaiafafafafafafafafafafamafafbwbvbGbvbvcaafamafafafbwbVbVbUbVcaafafafagafaiafafafafafajafafbwbVbVbUbVcaafafafafafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafamafaDaEaEaEaEaEaEctbvbvbvbvcuaEaEaEaEaEctbvbvbvbKcuaEaEaFafafafafagafafafafafafbwbvbGbvbGcaafafafafafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafaGdqbmbmbmbmbmbsbvbvbKbvbsbmbmbmbmbmbsbvbvbvbvbsbmbmaJafafafafafafafafafafafbwbGbvbvbvcaafafagafafafafafafafafafafaeaeaa
+aaaeaeafafafafafagafafafaLaMaMaMaMaMaMaMdrbvbvdsdtdududududvaMdrbvbvdsaMaMaMaSafafafafafafaiafafafafbwbvbGbvbvcaafafafafafafajafafafafafafafaeaa
+aaaeaeafafafafafafajafafaLaZaZaZaZaZaZaZaZbZbTaZbadwdxdxccbaaZaZbZbTaZaZaZaZaSafajafafafamafafafafafbwbvbvbGbGcaafafafafafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafaLaZaZaZaZaZaZaZaZbZbTaZbabibvbvblbaaZaZbZbTaZaZaZaZaSafafafafafafafafafajafbwbkbGbvbvcaafafafafafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafaLaZaZdydzdzdzdAaZcfbTaZdidBcKcKdCdiaZaZbZbTaZaZaZaZdDaEaEaEaEaEaEaEaEaEaEaEdEbGbvbvbGcaafafafafafafafafafafafahafaeaeaa
+aaaeaeaeafafafafafafafafaLaZaZbadFbcbcdGdHbvbvdIaZdjbDbDdlaZaZdHbvbvdIaZaZclbsbmbmbmbmbmbrbmbmbmbqbmbsbvbFbGbvcaafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafaLaZaZbadJbkbvdKdLbjbvbvbzbzbzbzbzbzbzbvbvbvbvbzbzbvbvbvbvbvbvbvbybvbvbvbxbvbvbvbGbvbGcaafafafafafafafaiafafafafaeaeaeaa
+aaaeaeafajafafafafafafafaLaZaZbabibvbvdKbvbvbvbFbvbvbvbvbSbvbvbvbNbjbvbvbvbvbvbvbGbvbvbGdMbvbvbvdNbvbvbGbNbjbvcaafafafafafafafafafafafafaeaeaeaa
+aaaeaeafafafafafafafafafaLaZaZbadJbvbvdKbLbvbLbLbLbLbLbLbLbLbLbLbLbLcUbLbLbvbvbGbvbGbvbvdObvbvbGbxbGbvbvbGbGbGcaafafafafafafafafafafafafafafaeaa
+aaaeaeafafafafafafafafafaLaZaZbadPbDdQdRaZdSaZaZbbbcbccXaZaZaZbbbcbccXaZaZdTdDcncncncncncncncncncncncncncncncncoafafafafafafafafafafafafaeaeaeaa
+aaaeaeafafafafafamafafafaLaZaZdUdudududVaZdSaZaZbibvbvblaZaZaZbibvbKblaZaZaZdWbXbXbXbXbXbXbXbXbXbXbXbXbXbXbXbXcpafafafafafafafafafajafafaeaeaeaa
+aaaeaeafafafafafafafafafaLaZaZaZaZaZaZaZaZdSaZcQbibkbvblcQaZcQbibvbvblcQaZaZaJafafafafafafafafafafafafafafafafafafafafafafafafamafafafafafaeaeaa
+aaaeaeafafafafafafafafafaLaZaZaZaZaZaZaZaZdSaZbadXdYdYdZbaaMbabCdYdYdZbaaZaZaSafafamafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeamafafamafafafafafaLaZaZaZeaebaZaZaZdSaZecedeeeeeeefaMegehehehehefaZaZaSafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafaLaZaZaZeiejaZaZaZdSaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaSafafafafafafahafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafcmcncncncncncncncnekcncncncncncncncncncncncncncncncncoafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafcpcqcqcqcqcqcqcqcqelcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcpafafafafafafafafafafafafafaiafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeaeafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafaeaeaeaa
+aaaeaeafafafafafafafagafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaeaeaa
+aaaeaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaiafafafafafafafafafafafafaeaa
+aaaeaeafaeaeaeafafafaeaeafaeafaeaeaeaeaeaeafaeaeaeaeaeafafaeaeaeaeafafaeafemaeaeaeaeafafaeaeafaeaeafafaeaeafaeaeaeaeaeaeaeaeaeafafafaeaeaeafaeaa
+aaaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaa
+eneoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

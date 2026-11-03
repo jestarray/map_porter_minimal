@@ -1,0 +1,15 @@
+{ "columns":12,
+ "image":"..\/tilesets\/floors_liquid_lava.png",
+ "imageheight":64,
+ "imagewidth":384,
+ "margin":0,
+ "name":"floors_liquid_lava",
+ "objectalignment":"topleft",
+ "spacing":0,
+ "tilecount":24,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

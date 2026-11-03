@@ -1,0 +1,165 @@
+"aa" = (/turf/enviroment/floors/voids/void,/area/inside)
+"ab" = (/turf/enviroment/floors/floor_7,/obj/effects/spawn_zone,/turf/enviroment/floors/road_lines/road_line_3,/area/outside/outside_player_block)
+"ac" = (/turf/enviroment/floors/floor_7,/obj/effects/spawn_zone,/turf/enviroment/floors/road_lines/road_line_4,/area/outside/outside_player_block)
+"ad" = (/turf/enviroment/floors/floor_7,/obj/effects/spawn_zone{invisibility = 101},/turf/enviroment/floors/road_lines/road_line_3,/area/outside/outside_player_block)
+"ae" = (/turf/enviroment/floors/floor_7,/obj/effects/spawn_zone{invisibility = 101},/turf/enviroment/deco/junk_1,/area/outside/outside)
+"af" = (/obj/effects/spawn_zone{invisibility = 101},/turf/enviroment/floors/floor_7,/area/outside/outside)
+"ag" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_3,/area/outside/outside_player_block)
+"ah" = (/turf/enviroment/floors/floor_7,/area/outside/outside)
+"ai" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/junk_1,/area/outside/outside)
+"aj" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/junk_3,/area/outside/outside)
+"ak" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_1,/turf/enviroment/deco/gore/blood/blood_1/blood_3,/area/outside/outside)
+"al" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_2/blood_1,/turf/enviroment/deco/gore/blood/blood_3/blood_1,/area/outside/outside)
+"am" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"an" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_1,/turf/enviroment/deco/gore/blood/blood_3/blood_2,/turf/enviroment/deco/gore/blood/blood_1/blood_2,/area/outside/outside)
+"ao" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_2,/area/outside/outside)
+"ap" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_2,/turf/enviroment/deco/gore/blood/blood_3/blood_1,/area/outside/outside)
+"aq" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_2,/turf/enviroment/deco/gore/blood/blood_1/blood_2,/area/outside/outside)
+"ar" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_1,/area/outside/outside)
+"as" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_2/blood_4,/turf/enviroment/deco/gore/blood/blood_3/blood_1,/turf/enviroment/deco/gore/blood/blood_1/blood_3,/area/outside/outside)
+"at" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_1,/turf/enviroment/deco/gore/blood/blood_1/blood_4,/area/outside/outside)
+"au" = (/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_7,/area/outside/outside)
+"av" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_2,/turf/enviroment/deco/gore/blood/blood_1/blood_1,/area/outside/outside)
+"aw" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_1,/turf/enviroment/deco/gore/blood/blood_3/blood_2,/turf/enviroment/deco/gore/blood/blood_1/blood_1,/area/outside/outside)
+"ax" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_2/blood_4,/area/outside/outside)
+"ay" = (/turf/enviroment/floors/floor_7,/obj/destructable/vehicle/tl{gas = 0},/turf/enviroment/floors/road_lines/road_line_3,/area/outside/outside_player_block)
+"az" = (/obj/destructable/vehicle/tl{gas = 0},/turf/enviroment/floors/floor_7,/area/outside/outside)
+"aA" = (/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/floors/floor_7,/area/outside/outside)
+"aB" = (/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_7,/area/outside/outside)
+"aC" = (/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_7,/area/outside/outside)
+"aD" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_1,/area/outside/outside)
+"aE" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_2,/area/outside/outside)
+"aF" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_2,/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/floors/road_lines/road_line_1,/area/outside/outside)
+"aG" = (/turf/enviroment/floors/floor_7,/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/floors/road_lines/road_line_2,/area/outside/outside)
+"aH" = (/turf/enviroment/floors/floor_7,/obj/other_cool/ran_stuff/rocks,/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/floors/road_lines/road_line_2,/area/outside/outside)
+"aI" = (/turf/enviroment/floors/floor_7,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/road_lines/road_line_3,/area/outside/outside_player_block)
+"aJ" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_2/blood_3,/area/outside/outside)
+"aK" = (/turf/enviroment/floors/floor_7,/turf/locations/begin,/area/outside/outside)
+"aL" = (/turf/enviroment/floors/floor_7,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/outside/outside)
+"aM" = (/turf/enviroment/floors/floor_7,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/outside/outside)
+"aN" = (/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/floor_7,/area/outside/outside)
+"aO" = (/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_7,/area/outside/outside)
+"aP" = (/obj/havens{de_on = 1},/turf/enviroment/floors/floor_7,/area/outside/outside)
+"aQ" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/junk_3,/turf/locations/begin,/area/outside/outside)
+"aR" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_1,/turf/locations/begin/pink,/area/outside/outside)
+"aS" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_1,/turf/locations/begin/red,/area/outside/outside)
+"aT" = (/turf/enviroment/floors/floor_7,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/road_lines/road_line_2,/area/outside/outside)
+"aU" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_1,/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/floors/road_lines/road_line_2,/area/outside/outside)
+"aV" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_3,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/outside/outside_player_block)
+"aW" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_3,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/outside/outside_player_block)
+"aX" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_3,/turf/enviroment/deco/industrial/barrels/barrels_1,/area/outside/outside_player_block)
+"aY" = (/turf/enviroment/floors/floor_7,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/industrial/barrels/barrels_1,/area/outside/outside)
+"aZ" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_3,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/industrial/barrels/barrels_1,/area/outside/outside_player_block)
+"ba" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_4,/turf/enviroment/deco/industrial/barrels/barrels_1,/area/outside/outside_player_block)
+"bb" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_4,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/industrial/barrels/barrels_1,/area/outside/outside)
+"bc" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_4,/area/outside/outside)
+"bd" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_4,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/outside/outside)
+"be" = (/turf/enviroment/floors/floor_7,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/road_lines/road_line_4,/area/outside/outside)
+"bf" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_4,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/outside/outside)
+"bg" = (/turf/enviroment/floors/floor_7,/obj/destructable/b_cades/cades/cades_1{j_disable = 0; pull_disable = 1},/turf/enviroment/floors/road_lines/road_line_4,/area/outside/outside)
+"bh" = (/turf/enviroment/floors/floor_7,/obj/destructable/b_cades/cades/cades_1{j_disable = 0; pull_disable = 1},/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/floors/road_lines/road_line_4,/area/outside/outside)
+"bi" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_4,/turf/enviroment/deco/industrial/barrels/barrels_1,/area/outside/outside)
+"bj" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_4,/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/deco/industrial/barrels/barrels_1,/area/outside/outside_player_block)
+"bk" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_4,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/outside/outside)
+"bl" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_3,/obj/other_cool/ran_stuff/melee,/turf/enviroment/deco/industrial/barrels/barrels_1,/area/outside/outside_player_block)
+"bm" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_3,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/outside/outside_player_block)
+"bn" = (/turf/enviroment/floors/floor_7,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/outside/outside)
+"bo" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_1,/turf/locations/begin/blue,/area/outside/outside)
+"bp" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_1,/turf/locations/begin/green,/area/outside/outside)
+"bq" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_1,/turf/enviroment/deco/junk_1,/area/outside/outside)
+"br" = (/turf/enviroment/floors/floor_7,/mob/player/NPC/Mob/Soldier,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"bs" = (/turf/enviroment/floors/floor_7,/turf/enviroment/floors/road_lines/road_line_3,/turf/enviroment/deco/gore/blood/blood_2/blood_2,/area/outside/outside_player_block)
+"bt" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_2/blood_1,/area/outside/outside)
+"bu" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_2,/turf/enviroment/deco/gore/blood/blood_3/blood_1,/turf/enviroment/deco/gore/blood/blood_1/blood_2,/area/outside/outside)
+"bv" = (/turf/enviroment/floors/floor_7,/obj/effects/spawn_zone,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"bw" = (/obj/effects/spawn_zone,/turf/enviroment/floors/floor_7,/area/outside/outside)
+"bx" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_2/blood_2,/area/outside/outside)
+"by" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_2,/obj/effects/spawn_zone,/turf/enviroment/deco/gore/blood/blood_1/blood_2,/area/outside/outside)
+"bz" = (/turf/enviroment/floors/floor_7,/turf/enviroment/deco/gore/blood/blood_3/blood_1,/turf/enviroment/deco/gore/blood/blood_3/blood_2,/area/outside/outside)
+"bA" = (/turf/enviroment/floors/floor_7,/obj/effects/spawn_zone,/turf/enviroment/deco/junk_3,/area/outside/outside)
+"bB" = (/turf/enviroment/floors/floor_7,/obj/effects/spawn_zone,/turf/enviroment/deco/gore/blood/blood_2/blood_3,/area/outside/outside)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabacacacacacacacacacacacacacacacacacacacacacacacacacacacacabaa
+aaadaeafafafafafafafafafafafafafafaeafafafafafafafafafafafafadaa
+aaadafafafafafafafafafafafafafafafafafafafafafafafafafafafafadaa
+aaagahahahahahahahahahahahahahahahahahahahahahahahahahahaiahagaa
+aaagahahahahahafahahahahahahahahahahahahahahajahahahahahahahagaa
+aaadahakahahahahahahahahahahahahahahafahahahahahahahahahahahagaa
+aaagahalahahamahakahahahahahahahahahahahahahahahahahafahahahagaa
+aaagahanaoaoaoaoapaqahahahahahahahahahahahahahahahahahahahahagaa
+aaagahakahahahaharahahahafahahahahahahamahahahahahahahahahahagaa
+aaagahahahahahahasahahahahahahahahahahahahahafahahahahahahahagaa
+aaagahahahahafajahahahahahahahahahahahahahahahatahahahahafahagaa
+aaagahahahahahahahahahahahahahahauahahahahahaharahahahahahahagaa
+aaagahahahahahahahahahahahahahahahahavaoaoaoaoawahahahahahahagaa
+aaagahahahahahahahahahahaiahahahahaharahahahaharahahahahahahagaa
+aaagahahahahahahahahahahahahaxahahaharahahahahatahahahahahahagaa
+aaagahahahahahahahahahahahahahahahaharahahahahahahahahahahahagaa
+aaagahahahahahahahahahahahahahahahaharahahahahahahahahahahahagaa
+aaagahahahahahahahahahahahahavaoaoaoavahahahahahahahahahahahagaa
+aaagahahahahahahahahahahahahahahahahahahahahahahahaiahahahahagaa
+aaagahamahahahahahahahahahahahahahahahahahahahahahahahahahahagaa
+aaagahahahahahahahahahahahahahahahahajahahahahahahahahahahahagaa
+aaagahahahahahahahahahahahahahahahahahahahahahahahahahaxahahagaa
+aaagahahahahahahahahahahaiahahahahahahahahahahahahahahahahahagaa
+aaagahahahahahahahahahahahahahahahahahahahamahahahahahahahahagaa
+aaayahahahahahahahahahahahahahahahahahahahahahahahahahahahazagaa
+aaagahaAaAahazahahaAaAahazahahaAaAahazahahaAaAahazahahaAaAahagaa
+aaagaBaBaBaBahahaBaBaBaBahahaBaBaBaBahahaBaBaBaBahahaBaBaBaBagaa
+aaagaBaBaBaBahahaBaBaBaBahahaBaBaBaBahahaBaBaBaBahahaBaBaBaBagaa
+aaagahaCaCahaDahahaCaCahahahahaCaCahahahahaCaCahahaDahaCaCahagaa
+aaagaEaEaEaEaFaEaEaEaEaEaEaEaEaGaHaEaEaEaEaEaEaEaEaFaEaEaEaEaIaa
+aaagahahaJahaDahahahahahahahahahahahahahahahahahahaDahahahahagaa
+aaagahahahajaDahahahahahahahahahahahahahahahahahahaDahahahahagaa
+aaagahahahaKaDahahaLaMaNahahaOahaPahahahaNaMaLahahaDaQahahahagaa
+aaagahahahahaRaOahaLaAahahahahahahahahahahaAaLaJahaSahahahahagaa
+aaagahahahahaDahaMaLahahamahahahahahahahaiahaLaMahaDahahahahagaa
+aaagahahahahaDahahajahahahahahahahahahahahahahahahaDahahahahagaa
+aaaIaTaEaEaEaUaEaEaEaEaEaEaEaEaGaGaEaEaEaEaEaEaEaEaUaEaEaEaEagaa
+aaaVaLahahamaDahahahahahahahahahahahahahahajahahahaDahahamahaWaa
+aaaXaLahahahaDahahahahahahahaLaYaYaMaNahahahahahaLaDahahahaMaZaa
+aababbbcbcbcbdbebfbgbgbhbgbcbbbibibibfbgbhbgbgbfbdbdbcbcbdbbbaaa
+aabjbbbkbcbcbdbkbfbgbgbgbgbfbbbibibibdbgbgbgbgbfbebdbcbcbfbbbjaa
+aablaMahahahaDaLahahahahahaNaMaYaYaLahahahahahajahaDahahahaMaZaa
+aabmahahahahaDahahahahahahahahahbnahahahahahahaiahaDahahahaNaIaa
+aaagaEaEaEaEaUaEaEaEaEaEaEaEaEaGaGaEaEaEaEaEaEaEaEaUaEaEaEaEagaa
+aaagahahahahaDahahahahahahamahahahahahahahahahahahaDahahahahagaa
+aaagahahahahaDahaMaLahahahahahahahahahahahahaLaMahaDahahahahagaa
+aaagahahahahboahahaLaAahahauahajahahahahahaAaLahahbpahahahahagaa
+aaagahahahaKbqahahaLaMaNahahahaPahahahahaNaMaLahahaDaKahahahagaa
+aaagahahahahaDahahahahahahahahahahahahahahahahahahaDahajahahagaa
+aaagahahajahaDahahahahahahahahahahahahahahahahahahaDahahahahagaa
+aaagaEaEaEaEaUaEaEaEaEaEaEaEaEaGaGaEaEaEaEaEaEaEaEaUaEaEaEaEagaa
+aaagahaCaCahaDahahaCaCahahahahaCaCahahahahaCbrahahaDahaCaCahagaa
+aaagaBaBaBaBahahaBaBaBaBahahaBaBaBaBahahaBaBaBaBahahaBaBaBaBagaa
+aaagaBaBaBaBahahaBaBaBaBahahaBaBaBaBahahaBaBaBaBahahaBaBaBaBagaa
+aaayahaAaAahazahahaAaAahazahahaAaAahazahahaAaAahazahahaAaAazagaa
+aaagahahahahahahahahahahahahahahahahahahahahahahaJahajahahahagaa
+aaagahahahahahahahahahahahahahahamahahahahahahahahahahahaiahagaa
+aabsahamahahahahahahahahahaxahahahahahahahahahahahahahahahahagaa
+aaagahahahahahahahahahahahajahahahahahahahahahahahahahahahahagaa
+aaagahahahahahahbtahahahahahahahahahahahahahahahahahahahahahagaa
+aaagahahahahahahahahahahahahahahahahahahahajahahahahahahahahagaa
+aaagahahahahahahahahahahahahahahahahahahahahahahatahahbtahahagaa
+aaagahahahahahahahahahahahahahahahahahahahahahaharahahahahahagaa
+aaagahahajahahaiahahahahahahaJahahahahahatahahaharahahahahahagaa
+aaagahahahahahahahahahahahahahahahahahahbuaoaoaoanahahahahahagaa
+aaagahahahahahahahahahahahahahbvahahahaharahaiahatahahahahahagaa
+aaagahbwbxahahahatahahahahahahahahahahauatahahahahahahahahahagaa
+aaagahahahahahaharahahahahahahahahahahahahahahahahahahahahahagaa
+aaagahahahahahaharahahahatahahahahahahahahahahahahahahahaxahagaa
+aaagahahahahahbybzaoaoaobuahahahahahahahahahahahahbwahahahahagaa
+aaagahahahahahahatahahaharahahahahahahahahahahahahahahahahahagaa
+aaagahahahamahahahahahahatahahahahahbwahahahahahahahahahbwahagaa
+aaagahahahahahaxahahahahahahahahaiahahahahahahahahajahahahahagaa
+aaagahahahahahahahahahahahahahahahahahahahahahahahahahahahahagaa
+aaagahbtahahahahahahahahahahahahahahahahahahahahahahahahahahagaa
+aaagahahahahahahahahahahbAahahahahahahahahbtahahahahahahahbxagaa
+aaagahahahahahahahahahahahahahahahahahahahahahahahahamahahahabaa
+aaabbwbwbwbwbBbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwabaa
+aaabbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwbwabaa
+aaabacacacacacacacacacacacacacacacacacacacacacacacacacacacacabaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

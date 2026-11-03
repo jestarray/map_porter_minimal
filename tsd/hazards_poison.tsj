@@ -1,0 +1,24 @@
+{ "columns":11,
+ "image":"..\/tilesets\/hazards_poison.png",
+ "imageheight":32,
+ "imagewidth":352,
+ "margin":0,
+ "name":"hazards_poison",
+ "spacing":0,
+ "tilecount":11,
+ "tiledversion":"1.10.1",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":0,
+         "properties":[
+                {
+                 "name":"bypath",
+                 "type":"string",
+                 "value":"\/obj\/other_cool\/ran_stuff\/traps\/poison_mist_trap"
+                }]
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

@@ -1,0 +1,287 @@
+"aa" = (/turf/enviroment/floors/voids/void,/area/inside)
+"ab" = (/obj/effects/spawn_zone,/turf/enviroment/floors/floor_8/grass,/area/outside/outside_player_block)
+"ac" = (/turf/enviroment/floors/floor_8/grass,/area/outside/outside_player_block)
+"ad" = (/turf/enviroment/floors/floor_24,/area/outside/outside_player_block)
+"ae" = (/obj/effects/spawn_zone,/turf/enviroment/floors/floor_24,/area/outside/outside_player_block)
+"af" = (/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"ag" = (/turf/enviroment/floors/floor_8/grass,/area/outside/outside_team_block)
+"ah" = (/turf/enviroment/floors/floor_24,/area/outside/outside_team_block)
+"ai" = (/turf/enviroment/floors/floor_24,/area/outside/outside)
+"aj" = (/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"ak" = (/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_24,/area/outside/outside)
+"al" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_1{pull_disable = 1},/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"am" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_1{pull_disable = 1},/turf/enviroment/floors/floor_24,/area/outside/outside)
+"an" = (/turf/enviroment/walls/top_2/wall_top_5,/area/inside)
+"ao" = (/turf/enviroment/walls/wall_14/top,/turf/enviroment/walls/top_2/wall_top_1,/area/inside)
+"ap" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/wall_14/top,/turf/enviroment/walls/top_2/wall_top_11,/area/outside/outside_in)
+"aq" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/top_2/wall_top_11,/turf/enviroment/walls/wall_14/top,/area/outside/outside_in)
+"ar" = (/turf/enviroment/walls/wall_14/top,/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/walls/lines/line_5,/area/inside_team_block)
+"as" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/walls/lines/line_4,/area/inside_team_block)
+"at" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top_2/wall_top_1,/area/inside)
+"au" = (/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/walls/wall_2/top,/area/inside)
+"av" = (/turf/enviroment/floors/floor_24,/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top_2/wall_top_11,/area/outside/outside_in)
+"aw" = (/turf/enviroment/walls/top_2/wall_top_6,/area/inside)
+"ax" = (/turf/enviroment/walls/top_2/wall_top_3,/area/inside)
+"ay" = (/obj/enviroment/wall_shadows,/turf/enviroment/walls/wall_14,/area/inside)
+"az" = (/turf/enviroment/walls/wall_14,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/inside)
+"aA" = (/obj/destructable/windows/window_1,/turf/enviroment/floors/floor_8/grass,/area/outside/outside_underlayer)
+"aB" = (/turf/enviroment/walls/wall_14,/turf/enviroment/deco/house/poster/poster_1/poster_1,/turf/enviroment/walls/lines/line_1,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"aC" = (/turf/enviroment/walls/wall_14,/turf/enviroment/deco/house/poster/poster_1/poster_3,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/inside)
+"aD" = (/turf/enviroment/walls/wall_14,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/inside)
+"aE" = (/turf/enviroment/walls/wall_14,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/inside_team_block)
+"aF" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/inside_team_block)
+"aG" = (/obj/enviroment/wall_shadows,/turf/enviroment/walls/wall_2,/area/inside)
+"aH" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/inside)
+"aI" = (/obj/destructable/windows/window_1,/turf/enviroment/floors/floor_24,/area/outside/outside_underlayer)
+"aJ" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/inside)
+"aK" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/deco/house/clocks/clock_1/clock_1,/area/inside)
+"aL" = (/turf/enviroment/walls/wall_2,/turf/enviroment/walls/lines/line_2,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"aM" = (/turf/enviroment/walls/wall_2,/turf/enviroment/deco/house/poster/poster_1/poster_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/inside)
+"aN" = (/obj/enviroment/shadow_effects/l,/turf/enviroment/floors/floor_24,/area/outside/outside)
+"aO" = (/turf/enviroment/floors/floor_2,/obj/other_sources/candles/candle_2,/obj/enviroment/shadow_effects/tl,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"aP" = (/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_2,/area/inside)
+"aQ" = (/turf/enviroment/floors/floor_2,/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/obj/enviroment/shadow_effects/t,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"aR" = (/turf/enviroment/floors/floor_2,/obj/other_cool/ran_stuff/items_ammo,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"aS" = (/turf/enviroment/floors/floor_2,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"aT" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/junk_1,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside_team_block)
+"aU" = (/turf/enviroment/floors/floor_22,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside_team_block)
+"aV" = (/turf/enviroment/floors/floor_22,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside)
+"aW" = (/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_22,/area/inside)
+"aX" = (/turf/enviroment/floors/floor_22,/obj/other_cool/ran_stuff/items_ammo,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"aY" = (/turf/enviroment/floors/floor_22,/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/obj/enviroment/shadow_effects/t,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"aZ" = (/turf/enviroment/floors/floor_22,/obj/other_sources/candles/candle_2,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"ba" = (/turf/enviroment/floors/floor_2,/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/obj/enviroment/shadow_effects/l,/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"bb" = (/turf/enviroment/floors/floor_2,/area/inside)
+"bc" = (/turf/enviroment/floors/floor_2,/obj/power_sources/lights/normal_lights/light_1,/mob/player/NPC/Mob/Soldier,/turf/enviroment/deco/junk_1,/area/inside)
+"bd" = (/turf/enviroment/floors/floor_2,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"be" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"bf" = (/obj/power_sources/lights/normal_lights/light_1,/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_2,/area/inside)
+"bg" = (/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/turf/enviroment/floors/floor_2,/area/inside)
+"bh" = (/turf/enviroment/floors/floor_2,/area/inside_team_block)
+"bi" = (/turf/enviroment/floors/floor_22,/area/inside_team_block)
+"bj" = (/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/turf/enviroment/floors/floor_22,/area/inside)
+"bk" = (/turf/enviroment/floors/floor_22,/area/inside)
+"bl" = (/obj/power_sources/lights/normal_lights/light_1,/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_22,/area/inside)
+"bm" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/house/tables/table_2/table_2,/turf/enviroment/deco/junk_1,/area/inside)
+"bn" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"bo" = (/turf/enviroment/floors/floor_22,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"bp" = (/turf/enviroment/floors/floor_22,/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"bq" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_1{pull_disable = 1},/obj/enviroment/shadow_effects/l,/turf/enviroment/floors/floor_24,/area/outside/outside)
+"br" = (/turf/enviroment/floors/floor_2,/obj/destructable/windows/window_1,/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"bs" = (/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/obj/enviroment/shadow_effects/l,/turf/enviroment/floors/floor_2,/area/inside)
+"bt" = (/turf/enviroment/floors/floor_2,/turf/locations/begin,/area/inside)
+"bu" = (/turf/enviroment/floors/floor_22,/turf/locations/begin,/turf/enviroment/deco/junk_2,/area/inside)
+"bv" = (/turf/enviroment/floors/floor_22,/obj/destructable/windows/window_1,/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"bw" = (/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/walls/wall_14/top,/area/inside)
+"bx" = (/turf/enviroment/walls/top_2/wall_top_6,/area/inside_team_block)
+"by" = (/turf/enviroment/walls/top_2/wall_top_5,/area/inside_team_block)
+"bz" = (/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top_2/wall_top_1,/area/inside)
+"bA" = (/turf/enviroment/floors/floor_22,/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top_2/wall_top_1,/area/inside)
+"bB" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/junk_2,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"bC" = (/turf/enviroment/floors/floor_2,/obj/other_cool/ran_stuff/items_ammo,/obj/enviroment/shadow_effects/l,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"bD" = (/turf/enviroment/floors/floor_2,/turf/locations/begin,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"bE" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/inside)
+"bF" = (/turf/enviroment/walls/wall_14,/obj/enviroment/wall_shadows,/turf/enviroment/deco/house/poster/poster_1/poster_2,/area/inside)
+"bG" = (/obj/enviroment/wall_shadows,/obj/power_sources/lights/normal_lights/light_1,/turf/enviroment/walls/wall_14,/area/inside)
+"bH" = (/turf/enviroment/walls/wall_14,/obj/enviroment/wall_shadows,/turf/enviroment/deco/house/poster/poster_1/poster_1,/area/inside)
+"bI" = (/turf/enviroment/walls/top_2/wall_top_3,/area/inside_team_block)
+"bJ" = (/obj/enviroment/wall_shadows,/obj/power_sources/lights/normal_lights/light_1,/turf/enviroment/walls/wall_2,/area/inside)
+"bK" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/deco/house/poster/poster_1/poster_3,/area/inside)
+"bL" = (/turf/enviroment/floors/floor_22,/obj/enviroment/shadow_effects/l,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside)
+"bM" = (/turf/enviroment/floors/floor_22,/turf/locations/begin,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"bN" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/junk_1,/area/inside)
+"bO" = (/turf/enviroment/floors/floor_22,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"bP" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside)
+"bQ" = (/turf/enviroment/floors/floor_2,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/enviroment/shadow_effects/tl,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"bR" = (/turf/enviroment/floors/floor_2,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"bS" = (/turf/enviroment/floors/floor_22,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/enviroment/shadow_effects/tl,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"bT" = (/turf/enviroment/floors/floor_22,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"bU" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/obj/enviroment/shadow_effects/l,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside)
+"bV" = (/obj/havens{de_on = 1},/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"bW" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/junk_1,/area/inside)
+"bX" = (/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/walls/wall_14/top,/turf/enviroment/walls/top_2/wall_top_10,/turf/enviroment/walls/lines/line_5,/area/inside)
+"bY" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/tables/table_2/table_2,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/enviroment/shadow_effects/l,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"bZ" = (/turf/enviroment/floors/floor_22,/obj/enviroment/shadow_effects/l,/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"ca" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/house/tables/table_2/table_2,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"cb" = (/turf/enviroment/floors/floor_22,/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top_2/wall_top_9,/turf/enviroment/walls/lines/line_4,/area/inside)
+"cc" = (/obj/havens{de_on = 1},/turf/enviroment/floors/floor_24,/area/outside/outside)
+"cd" = (/turf/enviroment/walls/wall_14,/obj/enviroment/wall_shadows,/obj/power_sources/lights/normal_lights/light_1,/turf/enviroment/walls/lines/line_2,/area/inside)
+"ce" = (/obj/havens,/turf/enviroment/floors/floor_2,/area/inside)
+"cf" = (/turf/enviroment/floors/floor_19,/obj/destructable/doors/door,/turf/enviroment/walls/top_2/wall_top_12,/area/inside_team_block)
+"cg" = (/turf/enviroment/floors/floor_22,/obj/enviroment/shadow_effects/l,/turf/locations/begin,/area/inside)
+"ch" = (/obj/havens,/turf/enviroment/floors/floor_22,/area/inside)
+"ci" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/obj/power_sources/lights/normal_lights/light_1,/turf/enviroment/walls/lines/line_1,/area/inside)
+"cj" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/deco/house/poster/poster_1/poster_2,/area/inside)
+"ck" = (/obj/enviroment/shadow_effects/l,/turf/enviroment/floors/floor_22,/area/inside)
+"cl" = (/turf/enviroment/floors/floor_2,/obj/destructable/doors/door,/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"cm" = (/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/obj/enviroment/shadow_effects/tl,/turf/enviroment/floors/floor_2,/area/inside)
+"cn" = (/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_2,/area/inside)
+"co" = (/turf/enviroment/floors/floor_2,/obj/enviroment/shadow_effects/tlc,/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"cp" = (/turf/enviroment/floors/floor_2,/turf/locations/begin/blue,/area/inside)
+"cq" = (/turf/enviroment/floors/floor_2,/turf/locations/begin/green,/area/inside)
+"cr" = (/turf/enviroment/floors/floor_22,/turf/locations/begin/pink,/area/inside)
+"cs" = (/turf/enviroment/floors/floor_22,/turf/locations/begin/red,/area/inside)
+"ct" = (/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_22,/area/inside)
+"cu" = (/turf/enviroment/floors/floor_22,/obj/destructable/doors/door,/obj/enviroment/shadow_effects/t,/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"cv" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/tables/table_2/table_2,/obj/other_cool/ran_stuff/items_ammo,/obj/enviroment/shadow_effects/l,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"cw" = (/turf/enviroment/floors/floor_2,/obj/power_sources/lights/normal_lights/light_1,/turf/locations/begin/green,/area/inside)
+"cx" = (/turf/enviroment/floors/floor_2,/obj/other_sources/candles/candle_2,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"cy" = (/turf/enviroment/floors/floor_22,/obj/other_sources/candles/candle_2,/obj/enviroment/shadow_effects/l,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"cz" = (/turf/enviroment/floors/floor_22,/obj/power_sources/lights/normal_lights/light_1,/turf/locations/begin/red,/area/inside)
+"cA" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/junk_2,/area/inside)
+"cB" = (/turf/enviroment/floors/floor_22,/obj/destructable/doors/door,/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"cC" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/house/tables/table_2/table_2,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"cD" = (/turf/enviroment/walls/wall_14/top,/turf/enviroment/walls/top_2/wall_top_9,/turf/enviroment/walls/lines/line_4,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cE" = (/turf/enviroment/floors/floor_22,/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/walls/wall_14/top,/area/inside)
+"cF" = (/turf/enviroment/walls/wall_14,/turf/enviroment/walls/top_2/wall_top_10,/turf/enviroment/walls/lines/line_5,/area/inside_team_block)
+"cG" = (/turf/enviroment/walls/wall_2,/turf/enviroment/walls/top_2/wall_top_9,/turf/enviroment/walls/lines/line_4,/area/inside_team_block)
+"cH" = (/turf/enviroment/floors/floor_22,/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top_2/wall_top_10,/turf/enviroment/walls/lines/line_5,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cI" = (/turf/enviroment/floors/floor_2,/obj/destructable/b_cades/cades/cades_1{pull_disable = 1},/obj/enviroment/shadow_effects/l,/turf/enviroment/deco/junk_2,/area/inside)
+"cJ" = (/turf/enviroment/walls/wall_14,/turf/enviroment/walls/lines/line_1,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cK" = (/turf/enviroment/walls/wall_14,/obj/enviroment/wall_shadows,/turf/enviroment/deco/house/clocks/clock_1/clock_1,/area/inside)
+"cL" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/deco/house/poster/poster_1/poster_1,/area/inside)
+"cM" = (/turf/enviroment/floors/floor_2,/turf/locations/begin,/obj/enviroment/shadow_effects/t,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cN" = (/turf/enviroment/floors/floor_2,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/junk_2,/area/inside)
+"cO" = (/turf/enviroment/floors/floor_2,/obj/enviroment/shadow_effects/t,/turf/locations/begin,/area/inside)
+"cP" = (/turf/enviroment/floors/floor_2,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/junk_2,/area/inside_team_block)
+"cQ" = (/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_22,/area/inside_team_block)
+"cR" = (/turf/enviroment/floors/floor_22,/obj/enviroment/shadow_effects/t,/turf/locations/begin,/area/inside)
+"cS" = (/turf/enviroment/floors/floor_22,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/junk_1,/area/inside)
+"cT" = (/turf/enviroment/floors/floor_22,/turf/locations/begin,/obj/enviroment/shadow_effects/t,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cU" = (/turf/enviroment/floors/floor_22,/obj/enviroment/shadow_effects/tlc,/turf/enviroment/deco/junk_1,/area/inside)
+"cV" = (/turf/enviroment/floors/floor_2,/obj/other_sources/candles/candle_2,/obj/enviroment/shadow_effects/l,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"cW" = (/turf/enviroment/floors/floor_22,/obj/other_sources/candles/candle_2,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"cX" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/tables/table_2/table_1,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cY" = (/turf/enviroment/floors/floor_2,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"cZ" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"da" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside_team_block)
+"db" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside_team_block)
+"dc" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside)
+"dd" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/house/tables/table_2/table_1,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"de" = (/turf/enviroment/walls/wall_14/top,/turf/enviroment/walls/top_2/wall_top_9,/turf/enviroment/walls/lines/line_4,/area/inside)
+"df" = (/turf/enviroment/walls/wall_14/top,/turf/enviroment/walls/top_2/wall_top_11,/area/inside)
+"dg" = (/turf/enviroment/floors/floor_22,/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top_2/wall_top_11,/area/inside)
+"dh" = (/turf/enviroment/floors/floor_22,/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"di" = (/turf/enviroment/floors/floor_22,/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top_2/wall_top_10,/turf/enviroment/walls/lines/line_5,/area/inside)
+"dj" = (/turf/enviroment/walls/wall_14,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/outside/outside)
+"dk" = (/turf/enviroment/walls/wall_14,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/outside/outside)
+"dl" = (/obj/destructable/windows/window_1,/turf/enviroment/floors/floor_2,/area/outside/outside)
+"dm" = (/obj/enviroment/wall_shadows,/turf/enviroment/walls/wall_14,/area/outside/outside)
+"dn" = (/turf/enviroment/walls/wall_14,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/outside/outside_team_block)
+"do" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/outside/outside_team_block)
+"dp" = (/obj/enviroment/wall_shadows,/turf/enviroment/walls/wall_2,/area/outside/outside)
+"dq" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/outside/outside)
+"dr" = (/obj/destructable/windows/window_1,/turf/enviroment/floors/floor_22,/area/outside/outside)
+"ds" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/outside/outside)
+"dt" = (/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"du" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_1{pull_disable = 1},/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"dv" = (/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_8/grass,/area/outside/outside_team_block)
+"dw" = (/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_24,/area/outside/outside_team_block)
+"dx" = (/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_24,/area/outside/outside)
+"dy" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_1{pull_disable = 1},/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_24,/area/outside/outside)
+"dz" = (/obj/enviroment/shadow_effects/tlc,/turf/enviroment/floors/floor_24,/area/outside/outside)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiakaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiakaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalalalafafafalalalafagahaiamamamaiaiaiamamamaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafanaoaoapaoaoaoaoaoaqaoaoarasatauavatatatatatavatatawaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafajafafafafafafafafafafafafafafafafafafafafafafafafafaxayazaAaBayayayaCaAaDayaEaFaGaHaIaJaGaKaGaLaIaMaGaxaNaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaxaOaPaPaQaRaRaRaPaPaPaSaTaUaVaWaWaWaXaXaXaYaWaWaZaxaNaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiakaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalaxbabbbcbdbebebebbbfbbbgbhbibjbkblbkbmbnbnboblbkbpaxbqaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalbrbsbfbbbdbbbbbbbbbtbbbgbhbibjbkbubkbkbkbkbobkblbjbvbqaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalaxbsbbbbbdbbanbwbwbwbwbwbxbybzbzbAbAbAawbkbBbkbkbjaxbqaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaxbCbbbbbDbEaxbFaybGbHaybIbIaGaGbJbKaGaxbLbMbkbNbOaxaNaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalaxbabbbbbdbPaxbQbRbRbRbRbIbIbSbTbTbTbTaxbUbobkbkbpaxbqaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafbValbrbsbfbWanbwbXbYbebebebebIbIbZbnbnbncacbbAawbkblbjbvbqccaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalaxbsbbbbaxaycdbYbWbbcebtcfcfcgchbNbkcacicjaxckbkbjaxbqaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaxbCbbbbclcmcncocpcqbbbtcfcfcgcrcsbkbnctaWcuckbkbOaxaNaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaxcvbbbbclbsbbbbcpcwbbcxbIbIcycrczbkcAbkbjcBckbkcCaxaNaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalaxbabbbbcDbwbwbwbwcEaoaocFcGbzbzbAbAbAbAbAcHckbkbpaxbqaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalbrcIbfbbcJaycKayayayayayaEaFaGcLaGaGaGbKaGaLckblbjbvbqaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafalaxbsbbbbcMcncncncNcncOaPcPcQaWcRctcSctctctcTcUbkbjaxbqaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaxcVbfbbbdbWbbbfbbbbbbbgbhbibjbkbkbkblbkbkbobkblcWaxaNaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaxbabgbgcXcYbgbgbgcYcYcZdadbdcbObObjbjbjbOddbjbjbpaxaNaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafdeaodfaoaoaoaodfaoaoaoaoarasatbzbAbAdgbAdhdhbAdgbAdiaNaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafdjdkdldjdmdmdkdldjdmdmdmdndodpdpdpdqdrdsdpdpdqdrdsdqaNaiaiaiaiaiaiaiaiaiaiaiakaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafdtdudududtdtdudududtdtdtdvdwdxdxdxdydydydxdxdydydydxdzaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiakaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiakaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiakaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafajafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafagahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaeaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

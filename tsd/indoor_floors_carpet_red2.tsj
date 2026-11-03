@@ -1,0 +1,15 @@
+{ "columns":11,
+ "image":"..\/tilesets\/indoor_floors_carpet_red2.png",
+ "imageheight":96,
+ "imagewidth":352,
+ "margin":0,
+ "name":"indoor_floors_carpet_red2",
+ "objectalignment":"topleft",
+ "spacing":0,
+ "tilecount":33,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

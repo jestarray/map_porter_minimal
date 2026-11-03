@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"..\/tilesets\/indoor_storage_barrels.png",
+ "imageheight":32,
+ "imagewidth":512,
+ "margin":0,
+ "name":"indoor_storage_barrels",
+ "spacing":0,
+ "tilecount":16,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

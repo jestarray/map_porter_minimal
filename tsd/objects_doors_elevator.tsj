@@ -1,0 +1,25 @@
+{ "columns":8,
+ "image":"..\/tilesets\/objects_doors_elevator.png",
+ "imageheight":128,
+ "imagewidth":256,
+ "margin":0,
+ "name":"objects_doors_elevator",
+ "objectalignment":"topleft",
+ "spacing":0,
+ "tilecount":32,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":7,
+         "properties":[
+                {
+                 "name":"bypath",
+                 "type":"string",
+                 "value":"\/obj\/destructable\/elevator_door"
+                }]
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

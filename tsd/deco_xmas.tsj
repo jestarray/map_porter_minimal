@@ -1,0 +1,14 @@
+{ "columns":6,
+ "image":"..\/tilesets\/deco_xmas.png",
+ "imageheight":32,
+ "imagewidth":192,
+ "margin":0,
+ "name":"deco_xmas",
+ "spacing":0,
+ "tilecount":6,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

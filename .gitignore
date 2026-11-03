@@ -1,0 +1,6 @@
+custom_maps_REMAKE/
+all_map_stats.csv
+CUSTOM_TILE_DATA.sx
+*.tiled-session
+compiled/
+map_porter_log.txt

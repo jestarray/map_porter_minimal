@@ -1,0 +1,355 @@
+"aa" = (/turf/enviroment/floors/voids/void,/area/outside/outside_player_block)
+"ab" = (/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"ac" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/outside/objects/trees/tree_1/tf,/area/outside/outside)
+"ad" = (/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"ae" = (/obj/destructable/fences/fences_1/fencew,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"af" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/atl,/area/outside/outside)
+"ag" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/bt,/area/outside/outside)
+"ah" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/ctr,/area/outside/outside)
+"ai" = (/obj/destructable/fences/fences_1/fencee,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"aj" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/hl,/area/outside/outside)
+"ak" = (/turf/enviroment/floors/floor_24,/area/outside/outside)
+"al" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/dr,/area/outside/outside)
+"am" = (/turf/enviroment/walls/top_2/wall_top_5,/area/inside)
+"an" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/wall_8/top,/area/inside)
+"ao" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/wall_8/top,/turf/enviroment/walls/top_2/wall_top_11,/area/outside/outside_in)
+"ap" = (/turf/enviroment/walls/top_2/wall_top_4,/area/inside)
+"aq" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/walls/wall_1/top,/area/inside)
+"ar" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/top_2/wall_top_11,/area/outside/outside_in)
+"as" = (/turf/enviroment/walls/top_2/wall_top_6,/area/inside)
+"at" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/dr,/turf/enviroment/floors/floor_24/others/fb,/area/outside/outside)
+"au" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/fb,/area/outside/outside)
+"av" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/hl,/turf/enviroment/floors/floor_24/others/fb,/area/outside/outside)
+"aw" = (/turf/enviroment/floors/floor_24,/turf/enviroment/floors/floor_24/others/fb,/area/outside/outside)
+"ax" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/hl,/turf/enviroment/floors/floor_24/others/fb,/turf/enviroment/floors/floor_24/others/hl,/area/outside/outside)
+"ay" = (/turf/enviroment/floors/floor_8/grass,/turf/locations/begin,/area/outside/outside)
+"az" = (/turf/enviroment/walls/top_2/wall_top_3,/area/inside)
+"aA" = (/turf/enviroment/walls/wall_8,/turf/enviroment/deco/webs/web_1,/turf/enviroment/walls/lines/line_2,/area/inside)
+"aB" = (/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/floors/floor_8/grass,/area/outside/outside_underlayer)
+"aC" = (/turf/enviroment/walls/wall_8,/turf/enviroment/walls/lines/line_1,/area/inside)
+"aD" = (/turf/enviroment/walls/wall_8,/turf/enviroment/walls/lines/line_2,/area/inside)
+"aE" = (/turf/enviroment/walls/wall_8,/turf/enviroment/deco/webs/web_3,/turf/enviroment/walls/lines/line_1,/turf/enviroment/deco/house/counters/counter_3/counter_7,/area/inside)
+"aF" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/house/clocks/clock_1/clock_1,/turf/enviroment/deco/webs/web_1,/turf/enviroment/walls/lines/line_2,/area/inside)
+"aG" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/house/poster/poster_1/poster_1,/turf/enviroment/walls/lines/line_2,/turf/enviroment/walls/lines/line_1,/area/inside)
+"aH" = (/turf/enviroment/walls/wall_1,/turf/enviroment/walls/lines/line_1,/area/inside)
+"aI" = (/turf/enviroment/walls/wall_1,/turf/enviroment/walls/lines/line_2,/area/inside)
+"aJ" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/house/poster/poster_1/poster_3,/turf/enviroment/walls/lines/line_2,/area/inside)
+"aK" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/house/clocks/clock_1/clock_1,/turf/enviroment/deco/webs/web_3,/turf/enviroment/walls/lines/line_1,/area/inside)
+"aL" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/deco/plants/plant_2,/area/outside/outside)
+"aM" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/washroom/toilet,/area/inside)
+"aN" = (/obj/pickup/ammo/LMacinegunAmmo,/obj/pickup/ammo/LMacinegunAmmo,/obj/pickup/ammo/LMacinegunAmmo,/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/floors/floor_18,/area/inside)
+"aO" = (/turf/enviroment/floors/floor_18,/area/inside)
+"aP" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/junk_1,/area/inside)
+"aQ" = (/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/floors/floor_18,/area/inside)
+"aR" = (/turf/enviroment/deco/house/counters/counter_3/counter_4,/turf/enviroment/deco/washroom/sinks_1/sink_2,/area/inside)
+"aS" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/tables/table_2/table_1,/turf/enviroment/deco/house/computers/computer_1,/area/inside)
+"aT" = (/turf/enviroment/floors/floor_2,/obj/pickup/items/other/Bandages,/obj/pickup/items/other/Bandages,/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/deco/house/chairs/chair_1/chair_4,/area/inside)
+"aU" = (/obj/pickup/melee/tbf,/obj/destructable/b_cades/book_shelfs/book_shelf_1{pull_disable = 1},/turf/enviroment/floors/floor_2,/area/inside)
+"aV" = (/obj/destructable/b_cades/book_shelfs/book_shelf_5s{pull_disable = 1},/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/floors/floor_2,/area/inside)
+"aW" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/tvs/tv_2,/turf/enviroment/deco/gore/blood/blood_2/blood_1,/area/inside)
+"aX" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/tvs/tv_2,/area/inside)
+"aY" = (/obj/pickup/items/other/Herbs/Herb_G,/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/floors/floor_2,/area/inside)
+"aZ" = (/obj/destructable/b_cades/book_shelfs/book_shelf_1{pull_disable = 1},/turf/enviroment/floors/floor_2,/area/inside)
+"ba" = (/turf/enviroment/floors/floor_2,/obj/destructable/b_cades/book_shelfs/book_shelf_1s{pull_disable = 1},/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/deco/house/chairs/chair_1/chair_3,/area/inside)
+"bb" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/tables/table_2/table_1,/obj/pickup/ammo/HMacinegunAmmo,/obj/pickup/ammo/HMacinegunAmmo,/obj/pickup/ammo/HMacinegunAmmo,/obj/pickup/ammo/HMacinegunAmmo,/turf/enviroment/deco/house/computers/computer_1,/area/inside)
+"bc" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/deco/plants/plant_2,/turf/enviroment/deco/halloween/pkins/pkin_1{layer = 4.1},/area/outside/outside)
+"bd" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/gamr_turfs/pack_1/junk_3_1,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"be" = (/turf/enviroment/floors/floor_18,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"bf" = (/turf/enviroment/deco/house/counters/counter_3/counter_4,/turf/enviroment/outside/objects/wires/wire_1/w1,/turf/enviroment/deco/washroom/sinks_1/sink_2,/area/inside)
+"bg" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/tables/table_2/table_2,/obj/pickup/items/other/Herbs/Herb_R,/turf/enviroment/deco/junk_1{tag = "icon-junk_3_4"; icon_state = "junk_3_4"},/area/inside)
+"bh" = (/turf/enviroment/floors/floor_2,/area/inside)
+"bi" = (/obj/pickup/ammo/LMacinegunAmmo,/obj/pickup/ammo/LMacinegunAmmo,/obj/pickup/ammo/LMacinegunAmmo,/obj/pickup/ammo/LMacinegunAmmo,/turf/enviroment/floors/floor_2,/area/inside)
+"bj" = (/turf/enviroment/floors/floor_2,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"bk" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/junk_1,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"bl" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/tables/table_2/table_2,/obj/destructable/b_cades/book_shelfs/book_shelf_1s{pull_disable = 1},/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"bm" = (/turf/enviroment/floors/floor_18,/turf/locations/begin,/area/inside)
+"bn" = (/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/floors/floor_18,/area/inside)
+"bo" = (/turf/enviroment/deco/house/counters/counter_3/counter_ct,/area/inside)
+"bp" = (/obj/pickup/ammo/ShotgunAmmo,/obj/pickup/ammo/ShotgunAmmo,/obj/pickup/ammo/ShotgunAmmo,/turf/enviroment/floors/floor_2,/area/inside)
+"bq" = (/obj/havens,/turf/enviroment/floors/floor_2,/area/inside)
+"br" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/junk_1,/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/deco/gore/blood/blood_2/blood_4,/area/inside)
+"bs" = (/obj/pickup/items/other/foods/Candy,/turf/enviroment/floors/floor_2,/area/inside)
+"bt" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/gamr_turfs/pack_1/junk_4,/area/inside)
+"bu" = (/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/floors/floor_2,/area/inside)
+"bv" = (/turf/enviroment/floors/floor_2,/obj/destructable/b_cades/book_shelfs/book_shelf_1{pull_disable = 1},/turf/enviroment/deco/junk_1{tag = "icon-junk_3_6"; icon_state = "junk_3_6"},/area/inside)
+"bw" = (/turf/enviroment/floors/floor_2,/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"bx" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/deco/halloween/pkins/pkin_1,/turf/enviroment/deco/plants/plant_2,/turf/enviroment/deco/halloween/pkins/pkin_1{layer = 4.1},/area/outside/outside)
+"by" = (/turf/enviroment/floors/floor_18,/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"bz" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/gore/blood/blood_2/blood_3,/area/inside)
+"bA" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/junk_2,/area/inside)
+"bB" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/gamr_turfs/pack_1/junk_2_3,/area/inside)
+"bC" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/webs/web_4,/turf/enviroment/deco/gore/blood/blood_2/blood_4,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"bD" = (/turf/enviroment/floors/floor_2,/turf/locations/begin,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"bE" = (/turf/enviroment/floors/floor_2,/turf/locations/begin,/area/inside)
+"bF" = (/obj/destructable/b_cades/book_shelfs/book_shelf_4s{pull_disable = 1},/turf/enviroment/floors/floor_2,/area/inside)
+"bG" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/gamr_turfs/pack_1/junk_4,/area/inside)
+"bH" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/house/tables/table_2/table_1,/obj/pickup/ammo/Propane,/turf/enviroment/deco/webs/web_2,/area/inside)
+"bI" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/plants/plant_1,/turf/enviroment/deco/webs/web_5,/area/inside)
+"bJ" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/webs/web_4,/area/inside)
+"bK" = (/turf/enviroment/floors/floor_2,/obj/pickup/items/other/Wood,/obj/pickup/items/other/Wood,/obj/pickup/items/other/Wood,/obj/pickup/items/other/Wood,/obj/pickup/items/other/Wood,/turf/enviroment/deco/house/bed_room/beds/bed_1,/area/inside)
+"bL" = (/turf/enviroment/floors/floor_2,/obj/pickup/melee/Crowbar,/turf/enviroment/deco/house/bed_room/beds/bed_1,/area/inside)
+"bM" = (/obj/pickup/ammo/HandgunAmmo,/obj/pickup/ammo/HandgunAmmo,/obj/pickup/ammo/HandgunAmmo,/turf/enviroment/floors/floor_2,/area/inside)
+"bN" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/gamr_turfs/pack_1/junk_3,/area/inside)
+"bO" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/plants/plant_1,/turf/enviroment/deco/webs/web_2,/area/inside)
+"bP" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/top_2/wall_top_1,/area/inside)
+"bQ" = (/turf/enviroment/walls/top_2/wall_top_7,/turf/enviroment/walls/top_2/wall_top_2,/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/top_2/wall_top_1,/area/inside)
+"bR" = (/turf/enviroment/floors/floor_18,/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/top_2/wall_top_11,/area/inside)
+"bS" = (/turf/enviroment/walls/top_2/wall_top_7,/area/inside)
+"bT" = (/turf/enviroment/floors/floor_2,/turf/enviroment/walls/top_2/wall_top_11,/turf/enviroment/walls/wall_1/top,/area/inside)
+"bU" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/top_2/wall_top_2,/turf/enviroment/walls/wall_1/top,/area/inside)
+"bV" = (/turf/enviroment/walls/top_2/wall_top_8,/area/inside)
+"bW" = (/turf/enviroment/walls/wall_1,/area/inside)
+"bX" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/house/poster/poster_1/poster_1,/area/inside)
+"bY" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/house/tvs/tv_1/tv_3,/area/inside)
+"bZ" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/house/tvs/tv_1/tv_4,/turf/enviroment/walls/lines/line_2,/area/inside)
+"ca" = (/obj/destructable/doors/door,/turf/enviroment/floors/floor_18,/area/inside)
+"cb" = (/turf/enviroment/floors/floor_2,/obj/destructable/doors/door,/turf/enviroment/deco/junk_1{tag = "icon-junk_3_6"; icon_state = "junk_3_6"},/area/inside)
+"cc" = (/turf/enviroment/walls/wall_1,/turf/enviroment/outside/objects/poles/pole_1/p2_b,/area/inside)
+"cd" = (/obj/destructable/doors/door,/turf/enviroment/floors/floor_2,/area/inside)
+"ce" = (/turf/enviroment/floors/floor_19,/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"cf" = (/obj/destructable/b_cades/book_shelfs/book_shelf_3s{pull_disable = 1},/turf/enviroment/floors/floor_19,/area/inside)
+"cg" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/junk_3,/turf/enviroment/deco/gore/blood/blood_2/blood_1,/area/inside)
+"ch" = (/obj/pickup/melee/Iron_Bar,/turf/enviroment/floors/floor_19,/area/inside)
+"ci" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/tvs/tv_1/tv_1,/area/inside)
+"cj" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/gamr_turfs/pack_1/junk_2_4,/turf/enviroment/deco/house/tvs/tv_1/tv_2,/area/inside)
+"ck" = (/obj/pickup/ammo/ShotgunAmmo,/obj/pickup/ammo/ShotgunAmmo,/obj/pickup/ammo/ShotgunAmmo,/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/floors/floor_19,/area/inside)
+"cl" = (/turf/enviroment/floors/floor_19,/area/inside)
+"cm" = (/turf/enviroment/floors/floor_22,/obj/destructable/doors/door{dir = 4},/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"cn" = (/turf/enviroment/floors/floor_22,/area/inside)
+"co" = (/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/floors/floor_22,/area/inside)
+"cp" = (/turf/enviroment/floors/floor_22,/obj/pickup/ammo/HHandgunAmmo,/obj/pickup/ammo/HHandgunAmmo,/obj/pickup/ammo/HHandgunAmmo,/turf/enviroment/deco/junk_1{tag = "icon-junk_3_6"; icon_state = "junk_3_6"},/area/inside)
+"cq" = (/turf/enviroment/floors/floor_22,/obj/pickup/ammo/LMacinegunAmmo,/obj/pickup/ammo/LMacinegunAmmo,/obj/pickup/ammo/LMacinegunAmmo,/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/outside/objects/poles/pole_1/p2_b,/area/inside)
+"cr" = (/turf/enviroment/floors/floor_22,/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/deco/junk_2,/area/inside)
+"cs" = (/obj/destructable/b_cades/book_shelfs/book_shelf_1{pull_disable = 1},/turf/enviroment/floors/floor_22,/area/inside)
+"ct" = (/turf/enviroment/floors/floor_22,/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding,/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"cu" = (/obj/destructable/b_cades/book_shelfs/book_shelf_5{pull_disable = 1},/turf/enviroment/floors/floor_19,/area/inside)
+"cv" = (/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/floors/floor_19,/area/inside)
+"cw" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/junk_1{tag = "icon-junk_3_6"; icon_state = "junk_3_6"},/area/inside)
+"cx" = (/turf/enviroment/floors/floor_19,/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/deco/gamr_turfs/pack_1/junk_2_3,/area/inside)
+"cy" = (/turf/enviroment/floors/floor_22,/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/deco/junk_2,/area/inside)
+"cz" = (/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_22,/area/inside)
+"cA" = (/turf/enviroment/floors/floor_22,/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/locations/begin,/area/inside)
+"cB" = (/turf/enviroment/floors/floor_22,/turf/enviroment/outside/objects/poles/pole_1/p2_b,/area/inside)
+"cC" = (/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/floors/floor_22,/area/inside)
+"cD" = (/obj/destructable/b_cades/book_shelfs/book_shelf_2,/turf/enviroment/floors/floor_22,/area/inside)
+"cE" = (/turf/enviroment/floors/floor_22,/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"cF" = (/turf/enviroment/floors/floor_19,/obj/destructable/b_cades/book_shelfs/book_shelf_2{pull_disable = 1},/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"cG" = (/turf/enviroment/floors/floor_19,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"cH" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/junk_3{tag = "icon-junk_3_5"; icon_state = "junk_3_5"},/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"cI" = (/obj/pickup/ammo/ShotgunAmmo,/obj/pickup/ammo/ShotgunAmmo,/obj/pickup/ammo/ShotgunAmmo,/turf/enviroment/floors/floor_22,/area/inside)
+"cJ" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/gamr_turfs/pack_1/junk_2_3,/area/inside)
+"cK" = (/turf/enviroment/floors/floor_22,/turf/enviroment/deco/gamr_turfs/pack_1/junk_4,/area/inside)
+"cL" = (/obj/pickup/ammo/HMacinegunAmmo,/obj/pickup/ammo/HMacinegunAmmo,/obj/pickup/ammo/HMacinegunAmmo,/obj/pickup/ammo/HMacinegunAmmo,/turf/enviroment/floors/floor_22,/area/inside)
+"cM" = (/obj/destructable/b_cades/book_shelfs/book_shelf_4s{pull_disable = 1},/turf/enviroment/floors/floor_22,/area/inside)
+"cN" = (/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/walls/top_2/wall_top_3,/area/inside)
+"cO" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/junk_3{tag = "icon-junk_3_4"; icon_state = "junk_3_4"},/area/inside)
+"cP" = (/turf/enviroment/floors/floor_19,/obj/havens,/turf/locations/begin,/area/inside)
+"cQ" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/gamr_turfs/pack_1/junk_2_4,/area/inside)
+"cR" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/junk_3,/area/inside)
+"cS" = (/turf/enviroment/floors/floor_22,/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/top_2/wall_top_11,/area/inside)
+"cT" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/chairs/chair_1/chair_1,/area/inside)
+"cU" = (/turf/enviroment/walls/top_2/wall_top_3,/turf/enviroment/walls/top_2/wall_top_2,/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/lines/line_6,/area/inside)
+"cV" = (/obj/destructable/doors/door,/turf/enviroment/floors/floor_22,/area/inside)
+"cW" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/gore/blood/blood_2/blood_1,/turf/enviroment/outside/objects/poles/pole_1/p2_b,/turf/enviroment/walls/lines/line_1,/area/inside)
+"cX" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/house/kitchen/stoves/stove_1/stove_2,/area/inside)
+"cY" = (/turf/enviroment/walls/wall_1,/turf/enviroment/outside/objects/wires/wire_1/w2,/turf/enviroment/walls/lines/line_2,/area/inside)
+"cZ" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/house/kitchen/fridges/fridge_1/fridge_2,/obj/pickup/melee/Iron_Bar,/turf/enviroment/walls/lines/line_1,/area/inside)
+"da" = (/turf/enviroment/walls/wall_1,/turf/enviroment/deco/house/counters/counter_2/counter_7,/turf/enviroment/deco/webs/web_3,/area/inside)
+"db" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/tables/table_1/table_1,/obj/pickup/items/other/Land_Mine,/obj/pickup/items/other/Land_Mine,/obj/pickup/items/other/Land_Mine,/turf/enviroment/deco/gamr_turfs/pack_1/junk_3_3,/area/inside)
+"dc" = (/turf/enviroment/floors/floor_19,/obj/pickup/ammo/Mine_Darts,/obj/pickup/ammo/Mine_Darts,/turf/enviroment/deco/house/tables/table_1/table_1,/area/inside)
+"dd" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/tables/table_1/table_2,/obj/pickup/ammo/HMacinegunAmmo,/obj/pickup/ammo/HMacinegunAmmo,/obj/pickup/ammo/HMacinegunAmmo,/obj/pickup/ammo/HMacinegunAmmo,/obj/pickup/ammo/HMacinegunAmmo,/turf/enviroment/deco/junk_1{tag = "icon-junk_3_6"; icon_state = "junk_3_6"},/area/inside)
+"de" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/tables/table_1/table_2,/obj/pickup/items/other/Grenade,/obj/pickup/items/other/Grenade,/obj/pickup/items/other/Grenade,/obj/pickup/items/other/Grenade,/obj/pickup/items/other/Grenade,/turf/enviroment/deco/gamr_turfs/pack_1/junk_3,/area/inside)
+"df" = (/turf/enviroment/walls/wall_1,/turf/enviroment/walls/lines/line_3,/area/inside)
+"dg" = (/turf/enviroment/deco/house/counters/counter_2/counter_2,/turf/enviroment/deco/house/kitchen/cupboards/cupboard_1/cupboard_1,/turf/enviroment/deco/house/kitchen/plates/plate_1,/area/inside)
+"dh" = (/turf/enviroment/deco/house/counters/counter_2/counter_6,/turf/enviroment/deco/house/kitchen/cupboards/cupboard_1/cupboard_6,/turf/enviroment/deco/house/kitchen/plates/plate_1,/area/inside)
+"di" = (/turf/enviroment/floors/floor_18,/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/deco/junk_3{tag = "icon-junk_3_4"; icon_state = "junk_3_4"},/area/inside)
+"dj" = (/turf/enviroment/floors/floor_18,/turf/enviroment/outside/objects/poles/pole_1/p2_b,/area/inside)
+"dk" = (/turf/enviroment/deco/house/counters/counter_2/counter_5,/obj/pickup/items/other/foods/Soda_Pepsi,/obj/pickup/ammo/SniperAmmo2,/turf/enviroment/deco/house/kitchen/cupboards/cupboard_1/cupboard_1,/area/inside)
+"dl" = (/turf/enviroment/deco/house/counters/counter_2/counter_6,/turf/enviroment/deco/house/kitchen/cupboards/cupboard_1/cupboard_6,/turf/enviroment/deco/house/kitchen/microwave,/area/inside)
+"dm" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/house/kitchen/stoves/stove_1/stove_1,/area/inside)
+"dn" = (/turf/enviroment/floors/floor_18,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"do" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/house/kitchen/fridges/fridge_1/fridge_1,/area/inside)
+"dp" = (/turf/enviroment/deco/house/counters/counter_2/counter_4,/obj/pickup/items/other/foods/Orange,/turf/enviroment/deco/house/kitchen/plates/plate_2,/area/inside)
+"dq" = (/obj/destructable/b_cades/book_shelfs/book_shelf_4{pull_disable = 1},/turf/enviroment/floors/floor_19,/area/inside)
+"dr" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/tables/table_1/table_3,/turf/enviroment/deco/house/chairs/chair_1/chair_2,/area/inside)
+"ds" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/tables/table_1/table_4,/turf/enviroment/deco/house/chairs/chair_1/chair_2,/area/inside)
+"dt" = (/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_19,/area/inside)
+"du" = (/obj/pickup/ammo/Propane,/turf/enviroment/floors/floor_18,/area/inside)
+"dv" = (/obj/pickup/items/other/foods/Chips,/turf/enviroment/deco/house/counters/counter_2/counter_ct,/area/inside)
+"dw" = (/obj/destructable/b_cades/book_shelfs/book_shelf_1{pull_disable = 1},/turf/enviroment/floors/floor_19,/area/inside)
+"dx" = (/obj/pickup/items/other/foods/Candy,/turf/enviroment/floors/floor_18,/area/inside)
+"dy" = (/turf/enviroment/floors/floor_18,/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/deco/junk_3{tag = "icon-junk_3_5"; icon_state = "junk_3_5"},/area/inside)
+"dz" = (/turf/enviroment/floors/floor_18,/obj/havens,/turf/locations/begin,/area/inside)
+"dA" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/gamr_turfs/pack_1/junk_2_3,/obj/power_sources/lights/normal_lights/light_1{l_start_on = 1},/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"dB" = (/obj/destructable/b_cades/book_shelfs/book_shelf_3s{pull_disable = 1},/turf/enviroment/floors/floor_18,/area/inside)
+"dC" = (/obj/destructable/b_cades/book_shelfs/book_shelf_5s{pull_disable = 1},/turf/enviroment/floors/floor_19,/area/inside)
+"dD" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/gamr_turfs/pack_1/junk_4,/area/inside)
+"dE" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/gore/blood/blood_2/blood_4,/area/inside)
+"dF" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"dG" = (/obj/destructable/b_cades/book_shelfs/book_shelf_5{pull_disable = 1},/turf/enviroment/floors/floor_18,/area/inside)
+"dH" = (/turf/enviroment/floors/floor_18,/turf/enviroment/deco/plants/plant_1,/area/inside)
+"dI" = (/turf/enviroment/floors/floor_18,/obj/destructable/b_cades/book_shelfs/book_shelf_5{pull_disable = 1},/turf/enviroment/deco/webs/web_2,/area/inside)
+"dJ" = (/turf/enviroment/floors/floor_19,/turf/enviroment/walls/top_2/wall_top_9,/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/lines/line_4,/area/inside)
+"dK" = (/turf/enviroment/floors/floor_19,/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/walls/wall_1/top,/area/inside)
+"dL" = (/turf/enviroment/floors/floor_19,/turf/enviroment/walls/top_2/wall_top_11,/turf/enviroment/walls/wall_1/top,/area/inside)
+"dM" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/top_2/wall_top_9,/turf/enviroment/walls/wall_1/top,/area/inside)
+"dN" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/walls/top_2/wall_top_10,/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/lines/line_5,/area/inside)
+"dO" = (/turf/enviroment/walls/wall_1,/turf/enviroment/walls/lines/line_1,/area/outside/outside)
+"dP" = (/turf/enviroment/walls/wall_1,/area/outside/outside)
+"dQ" = (/turf/enviroment/walls/wall_1,/turf/enviroment/walls/lines/line_2,/area/outside/outside)
+"dR" = (/obj/destructable/doors/door,/obj/other_cool/barricades/boarding,/turf/enviroment/floors/floor_19,/area/outside/outside)
+"dS" = (/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/floors/floor_19,/area/outside/outside)
+"dT" = (/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/floors/floor_18,/area/outside/outside)
+"dU" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_1{pull_disable = 1},/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"dV" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/b_cades/garbage_boxs/garbage_box_2{pull_disable = 1},/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/floors/floor_24/others/hl,/area/outside/outside)
+"dW" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_1{pull_disable = 1},/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/floors/floor_24,/area/outside/outside)
+"dX" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/b_cades/garbage_boxs/garbage_box_1{pull_disable = 1},/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/floors/floor_24/others/dr,/area/outside/outside)
+"dY" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_2{pull_disable = 1},/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"dZ" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_2{pull_disable = 1},/obj/enviroment/shadow_effects/shadows/t,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"ea" = (/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"eb" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/vehicle/tl,/turf/enviroment/floors/floor_24/others/hl,/area/outside/outside)
+"ec" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/dr,/turf/enviroment/floors/floor_24/others/bt,/area/outside/outside)
+"ed" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/hl,/turf/enviroment/floors/floor_24/others/bt,/area/outside/outside)
+"ee" = (/turf/enviroment/floors/floor_24,/turf/enviroment/floors/floor_24/others/bt,/area/outside/outside)
+"ef" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/bt,/turf/enviroment/floors/floor_24/others/hl,/area/outside/outside)
+"eg" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/bt,/turf/enviroment/floors/floor_24/others/dr,/area/outside/outside)
+"eh" = (/turf/enviroment/floors/floor_24,/turf/enviroment/floors/floor_24/others/bt,/turf/enviroment/floors/floor_24/others/dr,/area/outside/outside)
+"ei" = (/turf/enviroment/floors/floor_24,/turf/enviroment/floors/floor_24/others/bt,/turf/enviroment/floors/floor_24/others/hl,/area/outside/outside)
+"ej" = (/turf/enviroment/floors/floor_24,/turf/enviroment/floors/floor_24/others/hl,/area/outside/outside)
+"ek" = (/obj/other_sources/candles/candle_1,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"el" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/deco/plants/plant_2,/obj/other_sources/candles/candle_1,/turf/enviroment/deco/halloween/pkins/pkin_1{layer = 4.1},/area/outside/outside)
+"em" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/deco/halloween/pkins/pkin_1{layer = 4.1},/area/outside/outside)
+"en" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/gbl,/area/outside/outside)
+"eo" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/fb,/turf/enviroment/floors/floor_24/others/hl,/area/outside/outside)
+"ep" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/fb,/turf/enviroment/floors/floor_24/others/dr,/area/outside/outside)
+"eq" = (/turf/enviroment/floors/floor_8/grass,/turf/enviroment/floors/floor_24/others/ebr,/area/outside/outside)
+"er" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/b_cades/garbage_boxs/garbage_box_1{pull_disable = 1},/turf/enviroment/floors/floor_24/others/hl,/area/outside/outside)
+"es" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_2{pull_disable = 1},/turf/enviroment/floors/floor_24,/area/outside/outside)
+"et" = (/obj/destructable/b_cades/garbage_boxs/garbage_box_1{pull_disable = 1},/turf/enviroment/floors/floor_24,/area/outside/outside)
+"eu" = (/turf/enviroment/floors/floor_8/grass,/obj/destructable/b_cades/garbage_boxs/garbage_box_2{pull_disable = 1},/turf/enviroment/floors/floor_24/others/dr,/area/outside/outside)
+"ev" = (/turf/enviroment/floors/floor_27,/turf/enviroment/floors/floor_24/others/gbl,/turf/enviroment/floors/floor_8/grass_egdes/e2,/area/outside/outside)
+"ew" = (/turf/enviroment/floors/floor_27,/turf/enviroment/floors/floor_24/others/fb,/area/outside/outside)
+"ex" = (/turf/enviroment/floors/floor_27,/turf/enviroment/floors/floor_24/others/ebr,/turf/enviroment/floors/floor_8/grass_egdes/e4,/area/outside/outside)
+"ey" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_8/grass_egdes/e2,/area/outside/outside)
+"ez" = (/turf/enviroment/floors/floor_23,/area/outside/outside)
+"eA" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_8/grass_egdes/e4,/area/outside/outside)
+"eB" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_8/grass_egdes/e3,/turf/enviroment/floors/floor_8/grass_egdes/e2,/area/outside/outside)
+"eC" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_8/grass_egdes/e3,/area/outside/outside)
+"eD" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_8/grass_egdes/e3,/turf/enviroment/floors/road_lines/road_line_1,/area/outside/outside)
+"eE" = (/turf/enviroment/floors/floor_23,/obj/destructable/vehicle/tl{gas = 0},/turf/enviroment/floors/floor_8/grass_egdes/e3,/area/outside/outside)
+"eF" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/road_lines/road_line_1,/area/outside/outside)
+"eG" = (/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_23,/area/outside/outside)
+"eH" = (/obj/destructable/vehicle/tl,/turf/enviroment/floors/floor_23,/area/outside/outside)
+"eI" = (/obj/destructable/vehicle/tl{gas = 0},/turf/enviroment/floors/floor_23,/area/outside/outside)
+"eJ" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_8/grass_egdes/e2,/turf/enviroment/floors/floor_8/grass_egdes/e1,/area/outside/outside)
+"eK" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_8/grass_egdes/e1,/area/outside/outside)
+"eL" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_8/grass_egdes/e1,/turf/enviroment/floors/road_lines/road_line_1,/area/outside/outside)
+"eM" = (/obj/effects/spawn_zone,/turf/enviroment/floors/floor_8/grass,/area/outside/outside)
+"eN" = (/turf/enviroment/floors/floor_23,/obj/effects/spawn_zone,/turf/enviroment/floors/floor_8/grass_egdes/e2,/area/outside/outside)
+"eO" = (/obj/effects/spawn_zone,/turf/enviroment/floors/floor_23,/area/outside/outside)
+"eP" = (/turf/enviroment/floors/floor_23,/obj/effects/spawn_zone,/turf/enviroment/floors/floor_8/grass_egdes/e4,/area/outside/outside)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabacabababababababababababababababababababababababababababababababababababababababababababababababacabababababababababababababababababacabababababababababababababacabababababababababababacababababababaa
+aaabababababababababababababababababababababababababababacababababababababacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababacababababababababababababababababababababababababababababababababababababababababababababababababababababababacabababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababacabababababababababababababababababababababababababacababababababababababababaa
+aaabababababababababababababacabababababababababababababababababababababababababababababababababababababababababababacababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababacabababababababababacababababacabababababababababababababababababababababababacabababababababababababababababababababababababababacababaa
+aaabababababababacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababacabababababababababababababababababababaa
+aaabababababababababababababababababababababacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababacababababababababababababababababababababababababababababababababababababababacababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababacababababababababababababababababababababababababababababababababababacabababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababacabababababababacababababababababababababababababababababababababababababababababababababababababababababababababacababababababababababababababababacababababababababababababababababababacabababaa
+aaabababababababababababababababababacababababababababababababababababababababababababababababababacabababababababababababababababababababababababababababababababababababacabababababababababababababababaa
+aaababababababababababababababababababababababababacabababababacabababababababababababababababababababababababababababababababababababababababacabababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadababababaa
+aaabacababababaeafagagagagagagagagagagagagagagagagagagagagagagagagagahababababaeababababababacababababababababababacababababacabaiababababafagagagagagagagagagagagagagagagagagagagagagagagagagahaeababababaa
+aaababababababaeajakakakakakakakakakakakakakakakakakakakakakakakakakalababababaeacababamanaoananaoanapaqaraqaraqapaqaraqaraqasabaiababababajakakakakakakakakakakakakakakakakakakakakakakakakakalaeababababaa
+aaababababababaeajakatauauauavawatauauauavawatauauauaxawatauauauavawalabacababaeabababazaAaBaCaDaBaEazaFaBaGaBaHazaIaBaJaBaKazabaiababababajakatauauauavawatauauauavawatauauauavawatauauauavawalaeababababaa
+aaababababababaeajakalabaLaLajakalabaLabajakalabaLabajakalabaLaLajakalababababaeabababazaMaNaOaPaQaRazaSaTaUaVaWazaXaYaZbabbazabaiababababajakalabaLbcajakalbcbcabajakalabbcabajakalbcbcabajakalaeababababaa
+aaababababababaeajakalbcbcabajakalabbcabajakalabaLbcajakalbcbcabajakalababababaeabababazbdbebebebebfazbgbhbhbhbiazbjbjbjbkblazabaiababacabajakalabaLabajakalabaLabajakalabaLbcajakalabaLabajakalaeabacababaa
+aaababababababaeajakalabaLabajakalabaLbcajakalabaLabajakalabaLabajakalababababaeabababazaOaObmbnaOboazbpbqbrbsbhazbtbhbubqbvbwabaiababababajakalabaLbxajakalabaLbcajakalabaLabajakalabaLbcajakalaeababababaa
+aaabababacababaeajakalabaLbcajakalabaLabajakalabaLbxajakalabaLbcajakalababababaeacababbybzaObAaOaObBazbCbjbDbjbjazbhbhbEbhbFazabaiababababajakalabaLabajakalabbcabajakalbcaLabajakalabbcabajakalaeababababaa
+aaababababababaeajakalabbcabajakalbcaLabajakalabaLabajakalabbcabajakalababababaeabababazaOaOaObGaObHazbIbJbhbhbKazbLbMbNbhbOazabaiacabababajakalbcaLabajakalbcaLabajakalabaLabajakalbcaLabajakalaeababababaa
+aaababababababaeajakalbcaLabajakalabaLabajakalbcaLabajakalbcaLabajakalababacabaeabambPbQaqaqaqbRaqaqbSaqaqbTaqaqbUaqaqbTaqaqbVabaiababababajakalabaLabajakalabaLbcajakalabaLbcajakalabaLbcajakalaeababababaa
+aaababababababaeajakalabaLbcajakalabaLbcajakalabaLabajakalabaLbcajakalababababaeabazbWbWbXbYbZcaaHbWazbWaIcbaHbWbWccaIcdaHbWazabaiababababajakalabbcabajakalabaLabajakalabbcabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabbcabajakalabbcabajakalabaLabajakalababababaeabcecfcgchcicjckclclcmcncncocncncpcqcncrcncsctabaiababababajakalabaLabajakalabaLabajakalabbcabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabbcabajakalabaLabajakalabaLabajakalababababaeabcecucvclclcwclcxclazcncycnczcncAcBcncCcncDcEabaiababababajakalbcaLabajakalabaLabajakalabaLabajakalabaLabajakalaeababacabaa
+aaababababababaeajakalabaLabajakalabaLabajakalbcaLabajakalabaLabajakalababababaeabazcFcGcGcHcGcGcGcGcmcIcncncJcncncBcKcncLcMcNabaiababababajakalbcaLbcajakalabbcabajakalabaLabajakalabbcabajakalaeababababaa
+aaababababababaeajakalabbcabajakalabaLabajakalbcaLbcajakalabbcabajakalababababaeabazclclclcOcPcQcRclbSaqaqcSaqaqaqaqaqcSaqaqbVabaiababababajakalabaLabajakalbcaLabajakalbcaLbcajakalbcaLabajakalaeababababaa
+aaababacabababaeajakalbcaLabajakalbcaLbcajakalabaLabajakalbcaLabajakalacabababaeabazclcvcTcTcTcTcvclcUbWaIcVcWbWbWcXcYcVcZdaazabaiababababajakalabaLabajakalabaLabajakalabbcabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabbcabajakalabaLabajakalabaLabajakalababababaeabazclcldbdcdddeclcldfdgdhdidjdkdldmdnaQdodpazabaiababababajakalabaLabajakalabaLbcajakalabaLabajakalabaLbcajakalaeacabababaa
+aaababababababaeajakalabaLbcajakalabaLabajakalabaLabajakalabaLbcajakalababababaeabazdqcldrdrdsdscldtaOduaOaOdjaOaOaOdnaOaOdvazabaiabacababajakalabbcbcajakalabaLabajakalbcaLabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLabajakalbcaLabajakalabbcbcajakalabaLabajakalababababaeabcedwcxclclclclcvclaOdxaObndjdydzaOdAaOaOdBbyabaiababababajakalabaLabajakalbcaLabajakalabaLabajakalbcaLabajakalaeababababaa
+aaababababababaeajakalbcaLabajakalabaLabajakalabaLabajakalbcaLabajakalababababaeabcedCclclclcldDdEdFazdGdHaOdjaObAaOdnaOaOdIazabaiababababajakalbcaLabajakalabbcabajakalabaLbcajakalabbcabajakalaeababababaa
+aaababababababaeajakalabbcabajakalabaLbcajakalbcaLabajakalabbcabajakalababababaeabdJdKdKdLdLdLdKdKdKdMaqaqaqaqaqaqbRbRaqaqaqdNabaiababababajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabacababaeabdOdPdQdRdSdRdOdPdPdPdPdPdPdPdPdQdTdTdOdPdPdQabaiababababajakalabaLabajakalbcaLbcajakalbcbcabajakalbcaLbcajakalaeababababaa
+aaababababababaeajakalbcaLbcajakalbcbcabajakalabaLabajakalbcaLbcajakalababababaeabababdUdVdWdXdYababababababababdUdZdZdUababababaiababababajakalabaLbcajakalabaLabajakalabaLabajakalabaLabajakalaeababababaa
+aaababababacabaeajakalabaLabajakalabaLabajakalabaLbcajakalabaLabajakalababababaeacabeaabajakalabeaababacababababeaababeaabayacabaiababacabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalababababadadadadadebakaladadadadadadadadadadadadadadadadadadababababajakalabaLabajakalabbcabajakalabaLbcajakalabbcabajakalaeababababaa
+aaababababababaeajakalabbcabajakalabaLbcajakalabaLabajakalabbcabajakalabababababababababajakalababababababababababababababababababababababajakalbcaLabajakalabaLabajakalabbcabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabbcabajakalbcaLabajakalabaLabajakalabababababababababajakalabababababababababacababababababababababababajakalabbcabajakalabaLbcajakalbcaLabajakalabaLbcajakalaeacabababaa
+aaababababababaeajakalabaLbcajakalbcaLabajakalabbcabajakalabaLbcajakalababababacababababajakalabababababababababababababababababacababababajakalabaLbcajakalbcbcabajakalabaLabajakalbcbcabajakalaeababababaa
+aaababababababaeajakalbcbcabajakalabaLabajakalabaLbcajakalbcbcabajakalacababababababababajakalabababacababababababababababababababababababajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalaeababababaa
+aaabacababababaeajakecagagagedeeecagagagedeeecagagagedeeecagagagedeeecagagagagagagagagagedakecagagagagagagagagagagagagagagagagagagagagagagefeeegagagagefeeegagagagefeeegagagagefehegagagagefeialaeababababaa
+aaababababababaeajakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakejakakakakakakakakakakakakakakakakakakakakakakakakakalaeababababaa
+aaababababababaeajakatauauauavawatauauauavawatauauauaxawatauauauavawatauauauavawatauauauaxawakatauauauavawatauauauavawatauauauavawatauauauaxawatauauauavawatauauauavawatauauauavawatauauauavawalaeababababaa
+aaababababababaeajakalabaLaLajakalabaLabajakalabaLabajakalabaLaLajakalabaLabajakalabaLekajakakalekaLabajakalabaLaLajakalabaLabajakalabaLabajakalabaLabajakalabaLaLajakalabaLabajakalabaLaLajakalaeababababaa
+aaabababacababaeajakalabaLabajakalbcaLabajakalabbcabajakalabaLabajakalbcaLabajakalabbcabajakakalabbcabajakalabaLabajakalbcaLabajakalabbcabajakalabbcabajakalabaLabajakalbcaLabajakalabaLabajakalaeababacabaa
+aaababababababaeajakalbcbcabajakalabbcabajakalabaLbcajakalbcbcabajakalabbcabajakalabaLbcajakakalabaLbcajakalbcbcabajakalabbcabajakalabaLbcajakalabaLbcajakalbcbcabajakalabbcabajakalbcbcabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabaLbcajakalabaLabajakalabaLabajakalabaLbcajakalabaLabajakakalabaLabajakalabaLabajakalabaLbcajakalabaLabajakalabaLabajakalabaLabajakalabaLbcajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLbcajakalabaLabajakalabaLbxajakalabaLbcajakalabaLabajakalabaLbxajakakalabaLbxajakalabaLbcajakalabaLabajakalabaLbxajakalabaLbxajakalabaLbcajakalabaLabajakalabaLbcajakalaeababababaa
+aaababababababaeajakalabbcabajakalbcaLabajakalabaLabajakalabbcabajakalbcaLabajakalabaLabajakakalabaLabajakalabbcabajakalbcaLabajakalabaLabajakalabaLabajakalabbcabajakalbcaLabajakalabbcabajakalaeababababaa
+aaababababababaeajakalbcaLabajakalabaLabajakalbcaLabajakalbcaLabajakalabaLabajakalbcaLabajakakalbcaLabajakalbcaLabajakalabaLabajakalbcaLabajakalbcaLabajakalbcaLabajakalabaLabajakalbcaLabajakalaeababababaa
+aaabacababababaeajakalabaLbcajakalabaLbcajakalabaLabajakalabaLbcajakalabaLbcajakalabaLabajakakalabaLabajakalabaLbcajakalabaLbcajakalabaLabajakalabaLabajakalabaLbcajakalabaLbcajakalabaLbcajakalaeababababaa
+aaababababababaeajakalabaLabajakalabbcabajakalabbcabajakalabaLabajakalabbcabajakalabbcabajakakalabbcabajakalabaLabajakalabbcabajakalabbcabajakalabbcabajakalabaLabajakalabbcabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabbcabajakalabaLabajakalabaLabajakalabbcabajakalabaLabajakakalabaLabajakalabaLabajakalabbcabajakalabaLabajakalabaLabajakalabaLabajakalabbcabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabaLabajakalbcaLabajakalabaLabajakalabaLabajakalbcaLabajakakalbcaLabajakalabaLabajakalabaLabajakalbcaLabajakalbcaLabajakalabaLabajakalabaLabajakalabaLabajakalaeabacababaa
+aaababababacabaeajakalabbcabajakalabaLabajakalbcaLbcajakalabbcabajakalabaLabajakalbcaLelajakakalelaLbcajakalabbcabajakalabaLabajakalbcaLbcajakalbcaLbcajakalabbcabajakalabaLabajakalabbcabajakalaeababababaa
+aaababababababaeajakalbcaLabajakalbcaLbcajakalabaLabajakalbcaLabajakalbcaLbcajakalabaLabajakakalabaLabajakalbcaLabajakalbcaLbcajakalabaLabajakalabaLabajakalbcaLabajakalbcaLbcajakalbcaLabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabbcabajakalabaLabajakalabaLabajakalabbcabajakalabaLabajakakalabaLabajakalabaLabajakalabbcabajakalabaLabajakalabaLabajakalabaLabajakalabbcabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLbcajakalabaLabajakalabaLabajakalabaLbcajakalabaLabajakalabaLabajakakalabaLabajakalabaLbcajakalabaLabajakalabaLabajakalabaLabajakalabaLbcajakalabaLabajakalabaLbcajakalaeababababaa
+aaababababababaeajakalabaLabajakalbcaLabajakalabbcbcajakalabaLabajakalbcaLabajakalabbcbcajakakalabbcbcajakalabaLabajakalbcaLabajakalabbcbcajakalabbcbcajakalabaLabajakalbcaLabajakalabaLabajakalaeababababaa
+aaababababababaeajakalbcaLabajakalabaLabajakalabaLabajakalbcaLabajakalabaLabajakalabaLabajakakalabaLabajakalbcaLabajakalabaLabajakalabaLabajakalabaLabajakalbcaLabajakalabaLabajakalbcaLabajakalaeababababaa
+aaababacabababaeajakalabbcabajakalabaLbcajakalbcaLabajakalabbcabajakalabaLbcajakalbcaLabajakakalbcaLabajakalabbcabajakalabaLbcajakalbcaLabajakalbcaLabajakalabbcabajakalabaLbcajakalabbcabajakalaeababababaa
+aaababababababaeajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalaeababababaa
+aaababababababaeajakalbcaLbcajakalbcbcabajakalabaLabajakalbcaLbcajakalbcbcabajakalabaLabajakakalabaLabajakalbcaLbcajakalbcbcabajakalabaLabajakalabaLabajakalbcaLbcajakalbcbcabajakalbcaLbcajakalaeababababaa
+aaababababababaeajakalabaLabajakalabaLabajakalabaLbcajakalabaLabajakalabaLabajakalabaLelajakakalekaLbcajakalabaLabajakalabaLabajakalabaLbcajakalabaLbcajakalabaLabajakalabaLabajakalabaLabajakalaeacabababaa
+aaababababababaeajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabbcabajakalabaLbcajakalabaLabajakalabbcabajakalabaLbcajakalabaLabajakakalabaLabajakalabbcabajakalabaLbcajakalabaLabajakalabaLabajakalabbcabajakalabaLbcajakalabbcabajakalaeababababaa
+aaababababacabaeajakalabaLabajakalabbcabajakalbcaLabajakalabaLabajakalabbcabajakalbcaLabajakakalbcaLabajakalabaLabajakalabbcabajakalbcaLabajakalbcaLabajakalabaLabajakalabbcabajakalabaLabajakalaeababababaa
+aaababababababaeajakalabaLbcajakalbcaLabajakalabbcabajakalabaLbcajakalbcaLabajakalabbcabajakakalabbcabajakalabaLbcajakalbcaLabajakalabbcabajakalabbcabajakalabaLbcajakalbcaLabajakalabaLbcajakalaeababababaa
+aaababababababaeajakalbcbcabajakalabaLabajakalabaLbcajakalbcbcabajakalabaLabajakalabaLbcajakakalemaLbcajakalbcbcabajakalabaLabajakalabaLbcajakalabaLbcajakalbcbcabajakalabaLabajakalbcbcabajakalaeababababaa
+aaababababababaeajakecagagagedeeecagagagedeeecagagagedeeecagagagedeeecagagagedeeecagagagedeeeeecagagagedeeecagagagedeeecagagagedeeecagagagedeeecagagagedeeecagagagedeeecagagagedeeecagagagedeealaeababababaa
+aaababababababaeajakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakalaeababababaa
+aaababababababaeenauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauaueoakakepauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauaueqaeababababaa
+aaabacababababadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadereseteuadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadababababaa
+aaabababababababababababababababababababababababababababacabababababababababababababababevewewexababababababababababababababababababacabababababababababababababababababababababababababababababababacababaa
+aaababababababababababababababacababababababababababababababababababababababababababacabeyezezeAacababababababababababababababababababababababababacababababababababacababababababababababababababababababaa
+aaabababababababababacabababababababababababacabababababababababababababababababababababeyezezeAabababababababababacabababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababacabababababababababeyezezeAababababababababababababababababababababababababababababababababababababababababacababababababababababababaa
+aaabababacabababeBeCeDeCeCeDeCeCeDeCeCeDeCeCeDeEeCeDeCeCeDeCeCeDeEeCeDeCeCeDeCeCeDeEeCeDezezezeAababababababababababababababababababababababababababababababacababababababababababababababababababababababaa
+aaabababababababeyezeFezezeFezezeFezezeFezezeFezezeFezezeFezezeFezezeFezezeFezezeFezezeFezezezeAabababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababeyezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezeAababababababababababababacababababababababacabababababababababababababababababababababababababababababababaa
+aaabababababababeyezezezezezezezezezezezezezezezezezezezezezezezezezezezeGezezezezezezezezezezeAababababababababababababababababababababababababababababababababababacababababababababababababacabababababaa
+aaabababababababeyezezezezezezezezezezezezeGezezezezezezezezezezezezezezezezezezezezezezezezezeAababababababacababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababeyezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezeAabababababababababababababababababacabababababababababababababababababababababababababababababababababababaa
+aaabababababacabeyezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezezeAabababababababababababababababababababababababababababacabababababababababababababababacabababababababababaa
+aaabababababababeyezeFezezeFezezeFeHezeFezezeFezezeFezezeFeHezeFezezeFezezeFeIezeFeIezeFezezezeAabababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababeJeKeLeKeKeLeKeKeLeKeKeLeKeKeLeKeKeLeKeKeLeKeKeLeKeKeLeKeKeLeKeKeLeKeKeLezezezeAabababababababababababacabababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababeyezezeAabababacabababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabacabababababababababababababababababababababababababababababababacabababababababababeyezezeAababababababababababababababababababababacababababababababababacababababababacababababababababababababababaa
+aaabababababababababababababababababababacabababababababababababababababababababababababeyezezeAabababababababababababababababababababababababababababababababababababababababababababababababababacabababaa
+aaabababababababababababababababababababababababababababababababababababababababababababeyezezeAabababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababacabababababababacabababababababababababababababababababababababacababababababeyezezeAabababababababababababababababacabababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababacabababababababababababababababababeyezezeAababababababababababababababababababababababababacababababababababacabababababababababababababababababababaa
+aaeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeNeOeOePeMeMeMeMeMeMeMeMeMaceMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMaceMeMeMeMeMeMeMeMeMeMaa
+aaeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMaceMeNeOeOePaceMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMeMaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

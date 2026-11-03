@@ -1,0 +1,15 @@
+{ "columns":4,
+ "image":"..\/tilesets\/indoor_furniture_seats_churchbench.png",
+ "imageheight":96,
+ "imagewidth":128,
+ "margin":0,
+ "name":"indoor_furniture_seats_churchbench",
+ "objectalignment":"topleft",
+ "spacing":0,
+ "tilecount":12,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

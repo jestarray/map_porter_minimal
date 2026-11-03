@@ -1,0 +1,25 @@
+{ "columns":14,
+ "image":"..\/tilesets\/hazards_webs.png",
+ "imageheight":32,
+ "imagewidth":448,
+ "margin":0,
+ "name":"hazards_webs",
+ "spacing":0,
+ "tilecount":14,
+ "tiledversion":"1.12.2",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":8,
+         "properties":[
+                {
+                 "name":"bypath",
+                 "type":"string",
+                 "value":"\/obj\/other_cool\/ran_stuff\/traps\/spider_web_trap"
+                }],
+         "type":"WebTrap"
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.11"
+}

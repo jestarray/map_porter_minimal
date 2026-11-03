@@ -1,0 +1,15 @@
+{ "columns":16,
+ "image":"..\/tilesets\/deco_trash_janitor.png",
+ "imageheight":96,
+ "imagewidth":512,
+ "margin":0,
+ "name":"deco_trash_janitor",
+ "objectalignment":"topleft",
+ "spacing":0,
+ "tilecount":48,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

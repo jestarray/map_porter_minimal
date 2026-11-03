@@ -1,0 +1,350 @@
+"aa" = (/turf/enviroment/floors/floor_17,/obj/effects/spawn_zone,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"ab" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/effects/spawn_zone,/turf/enviroment/deco/junk_2,/area/inside)
+"ac" = (/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/voids/void,/area/inside)
+"ad" = (/turf/enviroment/walls/top/wall_top_2,/area/inside)
+"ae" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/effects/spawn_zone,/turf/enviroment/deco/junk_3,/area/inside)
+"af" = (/turf/enviroment/floors/floor_17,/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"ag" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/destructable/fences/fences_1/fencen,/turf/enviroment/deco/junk_3,/area/inside)
+"ah" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/other_sources/candles/candle_2,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"ai" = (/turf/enviroment/floors/floor_17,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"aj" = (/turf/enviroment/floors/floor_17,/obj/other_sources/candles/candle_2,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"ak" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/towers/tower_1,/area/inside)
+"al" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/deco/junk_3,/area/inside)
+"am" = (/turf/enviroment/walls/wall_2{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/obj/enviroment/wall_shadows,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 32; y_loc = 45; z_loc = 2},/area/inside)
+"an" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/deco/arrows/arrow_down2{density = 1},/area/inside)
+"ao" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"ap" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/deco/junk_2,/area/inside)
+"aq" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/obj/other_sources/candles/candle_2,/turf/enviroment/outside/objects/towers/tower_1,/area/inside)
+"ar" = (/turf/enviroment/walls/wall_2,/turf/enviroment/outside/objects/towers/tower_1,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/inside)
+"as" = (/turf/enviroment/walls/wall_2,/turf/enviroment/outside/objects/towers/tower_1,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/inside)
+"at" = (/turf/enviroment/walls/wall_2{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/obj/enviroment/wall_shadows,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 48; y_loc = 45; z_loc = 2},/area/inside)
+"au" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"av" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/deco/junk_1,/area/inside)
+"aw" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"ax" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/obj/other_sources/candles/candle_2,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"ay" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"az" = (/turf/enviroment/floors/floor_17,/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"aA" = (/turf/enviroment/walls/top/wall_top_4,/area/inside)
+"aB" = (/turf/enviroment/walls/top/wall_top_1,/turf/enviroment/walls/wall_2/top,/area/inside)
+"aC" = (/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top/wall_top_1,/area/inside)
+"aD" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top/wall_top_1,/area/inside)
+"aE" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top/wall_top_8,/turf/enviroment/walls/lines/line_5,/area/inside)
+"aF" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/walls/top/wall_top_12,/area/inside)
+"aG" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/walls/top/wall_top_12,/turf/enviroment/deco/junk_3,/area/inside)
+"aH" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top/wall_top_9,/turf/enviroment/walls/lines/line_4,/area/inside)
+"aI" = (/turf/enviroment/walls/top/wall_top_5,/area/inside)
+"aJ" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/junk_2,/area/inside)
+"aK" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/junk_1,/area/inside)
+"aL" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"aM" = (/turf/enviroment/floors/floor_17,/obj/enviroment/shadow_effects/t,/obj/effects/spawn_zone,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"aN" = (/obj/enviroment/wall_shadows,/turf/enviroment/walls/wall_2,/area/inside)
+"aO" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/enviroment/shadow_effects/t,/obj/effects/spawn_zone,/turf/enviroment/deco/junk_1,/area/inside)
+"aP" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/outside/objects/wires/wire_1/w2,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/junk_2,/area/inside)
+"aQ" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/enviroment/shadow_effects/t,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"aR" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/destructable/fences/fences_1/fencew,/obj/destructable/fences/fences_1/fencen,/obj/enviroment/shadow_effects/t,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"aS" = (/turf/enviroment/floors/floor_17,/obj/destructable/fences/fences_1/fencew,/obj/destructable/fences/fences_1/fencen,/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"aT" = (/turf/enviroment/floors/floor_17,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"aU" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"aV" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/enviroment/shadow_effects/t,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"aW" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/destructable/fences/fences_1/fencew,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"aX" = (/turf/enviroment/floors/floor_17,/obj/destructable/fences/fences_1/fencew,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"aY" = (/turf/enviroment/floors/floor_17,/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"aZ" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/havens{de_on = 1},/turf/enviroment/deco/junk_3,/area/inside)
+"ba" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/destructable/fences/fences_1/fencew,/obj/destructable/fences/fences_1/fencen,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"bb" = (/turf/enviroment/floors/floor_17,/obj/destructable/fences/fences_1/fencew,/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"bc" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/destructable/fences/fences_1/fencew,/turf/enviroment/deco/junk_2,/area/inside)
+"bd" = (/turf/enviroment/walls/wall_2{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 38; y_loc = 33; z_loc = 2},/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/inside)
+"be" = (/turf/enviroment/walls/wall_2{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 42; y_loc = 33; z_loc = 2},/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/inside)
+"bf" = (/turf/enviroment/floors/floor_17,/obj/other_sources/candles/candle_2,/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"bg" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/deco/junk_3,/area/inside)
+"bh" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/other_sources/candles/candle_2,/turf/enviroment/deco/junk_1,/area/inside)
+"bi" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/obj/effects/spawn_zone,/turf/enviroment/deco/junk_1,/area/inside)
+"bj" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/area/inside)
+"bk" = (/turf/enviroment/floors/floor_17,/obj/effects/spawn_zone,/turf/enviroment/deco/junk_1,/area/inside)
+"bl" = (/turf/enviroment/floors/voids/void,/area/inside)
+"bm" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"bn" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"bo" = (/turf/enviroment/floors/floor_17,/obj/effects/spawn_zone,/turf/enviroment/deco/junk_3,/area/inside)
+"bp" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/herbs,/obj/effects/spawn_zone,/turf/enviroment/deco/junk_1,/area/inside)
+"bq" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/walls/top/wall_top_15,/area/inside)
+"br" = (/turf/enviroment/floors/floor_17,/obj/other_sources/candles/candle_1,/turf/enviroment/deco/junk_2,/area/inside)
+"bs" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/outside/objects/poles/pole_2/pf,/area/inside)
+"bt" = (/turf/enviroment/floors/floor_17,/obj/destructable/fences/fences_1/fencen,/turf/enviroment/deco/junk_3,/area/inside)
+"bu" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/walls/top/wall_top_16,/area/inside)
+"bv" = (/turf/enviroment/floors/floor_17,/obj/destructable/fences/fences_1/fencen,/turf/enviroment/deco/junk_2,/area/inside)
+"bw" = (/turf/enviroment/floors/floor_17,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/deco/junk_1,/area/inside)
+"bx" = (/turf/enviroment/floors/floor_17,/mob/player/NPC/Mob/Soldier,/turf/enviroment/deco/junk_3,/area/inside)
+"by" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/deco/junk_2,/area/inside)
+"bz" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/inside)
+"bA" = (/turf/enviroment/walls/top/wall_top_1,/area/inside)
+"bB" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 32; y_loc = 35; z_loc = 2},/area/inside)
+"bC" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 48; y_loc = 35; z_loc = 2},/area/inside)
+"bD" = (/turf/enviroment/walls/top/wall_top_9,/area/inside)
+"bE" = (/turf/enviroment/walls/top/wall_top_8,/area/inside)
+"bF" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top/wall_top_1,/turf/enviroment/walls/lines/line_5,/area/inside)
+"bG" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/walls/wall_2/top,/turf/enviroment/walls/top/wall_top_1,/turf/enviroment/walls/lines/line_4,/area/inside)
+"bH" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/items_ammo,/obj/other_sources/candles/candle_2,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"bI" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/inside)
+"bJ" = (/turf/enviroment/walls/wall_1,/turf/enviroment/outside/objects/towers/tower_1,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"bK" = (/turf/enviroment/walls/wall_1,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/towers/tower_1,/area/inside)
+"bL" = (/turf/enviroment/walls/wall_1,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"bM" = (/turf/enviroment/walls/wall_1,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"bN" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/outside/objects/wires/wire_1/w1,/turf/enviroment/deco/junk_2,/area/inside)
+"bO" = (/turf/enviroment/floors/floor_17,/turf/enviroment/floors/sewage{density = 0},/turf/enviroment/outside/objects/wires/wire_1/w1,/turf/enviroment/deco/junk_1,/area/inside)
+"bP" = (/turf/enviroment/walls/wall_1,/obj/enviroment/wall_shadows,/obj/other_sources/candles/candle_2,/turf/enviroment/deco/house/poster/poster_1/poster_1,/area/inside)
+"bQ" = (/turf/enviroment/walls/wall_1,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/inside)
+"bR" = (/turf/enviroment/walls/wall_1,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/inside)
+"bS" = (/turf/enviroment/floors/floor_17,/obj/enviroment/shadow_effects/t,/obj/effects/spawn_zone,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"bT" = (/obj/effects/spawn_zone,/turf/enviroment/floors/floor_17,/area/inside)
+"bU" = (/turf/enviroment/floors/voids/void_2,/area/inside)
+"bV" = (/turf/enviroment/floors/floor_17,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/junk_2,/area/inside)
+"bW" = (/turf/enviroment/floors/floor_17,/obj/enviroment/shadow_effects/t,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"bX" = (/turf/enviroment/floors/floor_17,/obj/enviroment/shadow_effects/t,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"bY" = (/turf/enviroment/floors/floor_17,/obj/enviroment/shadow_effects/t,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"bZ" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_3,/area/inside)
+"ca" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_2,/area/inside)
+"cb" = (/turf/enviroment/floors/floor_17,/obj/enviroment/shadow_effects/t,/turf/enviroment/deco/junk_3,/area/inside)
+"cc" = (/turf/enviroment/floors/floor_17,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/obj/enviroment/shadow_effects/t,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cd" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_1,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"ce" = (/turf/enviroment/floors/floor_17,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"cf" = (/turf/enviroment/floors/voids/void_2,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"cg" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_3,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"ch" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_1,/area/inside)
+"ci" = (/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/floor_17,/area/inside)
+"cj" = (/turf/enviroment/floors/floor_17,/obj/effects/spawn_zone,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"ck" = (/turf/enviroment/floors/floor_17,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cl" = (/turf/enviroment/floors/floor_17,/mob/player/NPC/Mob/Soldier,/turf/enviroment/deco/junk_1,/area/inside)
+"cm" = (/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_17,/area/inside)
+"cn" = (/turf/enviroment/floors/floor_17,/obj/destructable/fences/fences_1/fencee,/turf/enviroment/deco/junk_2,/area/inside)
+"co" = (/obj/other_sources/candles/candle_1,/turf/enviroment/floors/floor_17,/area/inside)
+"cp" = (/turf/enviroment/floors/floor_17,/obj/destructable/fences/fences_1/fencee,/turf/enviroment/deco/junk_1,/area/inside)
+"cq" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/deco/junk_3,/area/inside)
+"cr" = (/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_17,/area/inside)
+"cs" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_2,/turf/enviroment/deco/junk_3,/obj/effects/spawn_zone,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"ct" = (/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_17,/area/inside)
+"cu" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/outside/outside)
+"cv" = (/turf/enviroment/walls/top/wall_top_3,/area/inside)
+"cw" = (/turf/enviroment/walls/top/wall_top_1,/turf/enviroment/walls/wall_1/top,/area/inside)
+"cx" = (/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/top/wall_top_1,/area/inside)
+"cy" = (/turf/enviroment/walls/top/wall_top_1,/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/top/wall_top_8,/turf/enviroment/walls/lines/line_5,/area/inside)
+"cz" = (/turf/enviroment/walls/wall_2{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/obj/enviroment/wall_shadows,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 32; y_loc = 43; z_loc = 1},/area/outside/outside)
+"cA" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/deco/arrows/arrow_down{density = 1},/area/outside/outside)
+"cB" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/outside/objects/poles/pole_2/pf,/area/outside/outside)
+"cC" = (/turf/enviroment/walls/wall_2{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/obj/enviroment/wall_shadows,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 48; y_loc = 43; z_loc = 1},/area/outside/outside)
+"cD" = (/turf/enviroment/walls/wall_1/top,/turf/enviroment/walls/top/wall_top_9,/turf/enviroment/walls/lines/line_4,/area/inside)
+"cE" = (/obj/enviroment/wall_shadows,/turf/enviroment/walls/wall_1,/area/inside)
+"cF" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/outside/outside)
+"cG" = (/turf/enviroment/floors/floor_17,/obj/other_sources/candles/candle_1,/turf/enviroment/deco/junk_3,/area/inside)
+"cH" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/deco/junk_3,/area/inside)
+"cI" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_2,/area/inside)
+"cJ" = (/turf/enviroment/walls/wall_1,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cK" = (/turf/enviroment/walls/wall_2,/obj/enviroment/wall_shadows,/turf/enviroment/walls/lines/line_1,/area/inside)
+"cL" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_3,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cM" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cN" = (/obj/enviroment/shadow_effects/t,/obj/effects/spawn_zone,/turf/enviroment/floors/floor_17,/area/inside)
+"cO" = (/turf/enviroment/floors/floor_17,/obj/other_sources/candles/candle_2,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cP" = (/turf/enviroment/floors/floor_17,/obj/havens{de_on = 1},/turf/enviroment/deco/junk_2,/area/inside)
+"cQ" = (/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_17,/area/inside)
+"cR" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"cS" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/obj/other_cool/ran_stuff/items_ammo,/obj/other_sources/candles/candle_2,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"cT" = (/obj/other_sources/candles/candle_1,/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_17,/area/inside)
+"cU" = (/obj/destructable/fences/fences_1/fencee,/obj/destructable/fences/fences_1/fencen,/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_17,/area/inside)
+"cV" = (/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_17,/area/inside)
+"cW" = (/turf/enviroment/floors/floor_17,/obj/other_sources/candles/candle_1,/turf/enviroment/deco/junk_1,/area/inside)
+"cX" = (/obj/other_cool/ran_stuff/herbs,/obj/enviroment/shadow_effects/t,/turf/enviroment/floors/floor_17,/area/inside)
+"cY" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_3,/obj/effects/spawn_zone,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"cZ" = (/turf/enviroment/floors/floor_17,/area/inside)
+"da" = (/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_17,/area/inside)
+"db" = (/obj/havens{de_on = 1},/turf/enviroment/floors/floor_17,/area/inside)
+"dc" = (/turf/enviroment/floors/floor_17,/obj/effects/spawn_zone,/turf/enviroment/deco/junk_2,/area/inside)
+"dd" = (/turf/enviroment/floors/floor_17,/obj/destructable/fences/fences_1/fencee,/turf/enviroment/deco/junk_3,/area/inside)
+"de" = (/turf/enviroment/floors/floor_17,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"df" = (/turf/enviroment/floors/floor_17,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"dg" = (/obj/destructable/fences/fences_1/fencee,/turf/enviroment/floors/floor_17,/area/inside)
+"dh" = (/turf/enviroment/floors/floor_17,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"di" = (/obj/other_sources/candles/candle_2,/turf/enviroment/floors/floor_17,/area/inside)
+"dj" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_1,/turf/enviroment/deco/junk_3,/area/inside)
+"dk" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"dl" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/obj/other_cool/ran_stuff/items_ammo,/obj/other_sources/candles/candle_2,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"dm" = (/turf/enviroment/floors/floor_17,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/outside/objects/wires/wire_1/w1,/area/inside)
+"dn" = (/turf/enviroment/walls/wall_2{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/obj/enviroment/wall_shadows,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 38; y_loc = 32; z_loc = 1},/area/inside)
+"do" = (/turf/enviroment/walls/wall_2{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/obj/enviroment/wall_shadows,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 42; y_loc = 32; z_loc = 1},/area/inside)
+"dp" = (/obj/destructable/fences/fences_1/fencee,/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_17,/area/inside)
+"dt" = (/obj/enviroment/wall_shadows,/turf/enviroment/walls/wall_2,/area/outside/outside)
+"dy" = (/obj/enviroment/wall_shadows,/turf/enviroment/floors/voids/void,/area/inside)
+"dB" = (/turf/enviroment/floors/voids/void_2,/area/outside/outside)
+"dC" = (/turf/enviroment/floors/voids/void_2,/turf/enviroment/outside/objects/poles/pole_2/pf,/area/outside/outside)
+"dE" = (/turf/enviroment/floors/voids/void_2,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"dF" = (/turf/enviroment/floors/voids/void_2,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"dG" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_2,/turf/enviroment/deco/junk_3,/area/inside)
+"dH" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_2,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"dO" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_3,/turf/enviroment/outside/objects/wires/wire_1/w2,/area/inside)
+"dQ" = (/turf/enviroment/floors/floor_17,/turf/enviroment/deco/junk_1,/turf/enviroment/outside/objects/poles/pole_2/p2_b{layer = 8},/area/inside)
+"dT" = (/turf/enviroment/floors/voids/void_2{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 32; y_loc = 37; z_loc = 1},/area/outside/outside)
+"dU" = (/turf/enviroment/floors/voids/void_2{density = 0},/turf/enviroment/floors/special/ladders/ladder_1/l,/turf/enviroment/floors/stairs/down_stairs{icon_state = ""; x_loc = 48; y_loc = 37; z_loc = 1},/area/outside/outside)
+
+(1,1,1) = {"
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblacacacacacacblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaaaaaaaaabaaaaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaaaaaaaaaaaaaaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaeaaaaaaaaaaaaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaaaaaaaaaaaaaaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjavbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjalbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjavadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjapbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjavbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaoaoaoaoaoaoaoadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjapadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjalbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjavbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladapbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjalbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjavbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladafagafafafafafadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladahaoaoaoaoaoahadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjapbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladafafafafafafafadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladavbjbjalbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaiaiaiaiaiaiaiadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladajbjbjbjbjbjajadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblaAaBaCaBaBaCaCaDaEaFaGaFaHaDaCaCaBaBaBaBaIblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaBadakamanaqaNaNaNarbjbjbjasaNaNaNaqanatakadaBaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCbl
+dyaNaNaNakaNaNaNakaNaNaNakauaNaNakaNawaNakaNaxaNakaNaNaNaqadayazaJazazazazaKbjbjaLazazazazaJazazazadaqaNaNaNakaNaxaNakaNaNaNakawaNaNakaNaNaNakauaNaNakaNaNaNakdy
+blaMaOaMaMazazazazazazazazaPazazazazaQazazazaRazazaSazaTazadbjaUbjbjbjbjbjbjbjajbjbjbjbjbjbjalbjbjadbjaTaKaSazazaRazazazazazazaQazazazaKazazazaVazazazaMaMaMaMac
+blaaaaaaaabjapbjbjalbjbjbjbmbjbjbjbjbnavbjalaWapbjaXbjaiavbqbjalbjaYbjbjbsaybjbjbjbjbsbjbjbjbjavbjbubjaibjaXalbjaWbjbjbjbjbjapbnbjbjbjbjbjbjalbmbjbjavaaaaaeaabl
+blaaaaaaaabjbjbjbjbjbjbjbjbmbjbjbjavbnbjbjbjaWbjbjaXbjaibjbqbjavaLbjbsbjbjbjapbjbjavbjbjbsaYbjbjbjbubjaibjaXbjbjaWbjavbjbjbjbjbnbjbjalbjbjbjbjbmbjbjbjaaaaaaaabl
+blaaaaaeaabjbjbjbjbjavbjbjbmalbjbjbjbnbjbjbjaWbjbjaXbjaialbqbjbjbjbjbsbjbjbjbjaZbjbjbjbjbsbjaLbjbjbubjaibjaXbjbjaWbjbjbjbjbjbjbnavbjbjbjbjbjbjbmbjbjbjaaaaaaaabl
+blaaaaaaaabjavbjbjbjbjbjbjbmbjbjbjbjbnbjbjbjbabjavbbbjaibjadbjbjbjbjbjbjbsbjbjbjbjaybsbjbjbjbjbjbjadbjaibjbcbjbjbabjbjbjbjalbjbnbjbjbjbjbjapbjbmbjbjbjaaabaaaabl
+blbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAaIbjapbjaYbjbjbjbjbjbjbjbjbjaYbjaUavbjbjaAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbBbjajalbjbjavbjajbjbjbjalbjajbjbCayadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblbDbAbAbAbAbAaIaLbjbjbjbjavbjaAbAbAbAbAbAbEblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaDbFaFaFaFbGaDadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaNbdbjbjbjbeaNadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladajazbjbjapazbfadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaibgaiaiaiaiaiadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjavbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladafafafafafafafadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaoaoaoaoaoaoaoadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladajbjapbjalbjbhadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladafafafafafafafadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjapbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjavbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjalbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaobNaoaoaobOaoadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjalbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjavbjapbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjbjadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbjbjbjbjbjbjaladblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaaaaaaaaaaaaaaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaaaaaaaaaabiaaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladabaaaaaaaaaaaaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaaaaaeaaaaaaaaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladaaaaaaaaaaaaaaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+"}
+
+(1,1,2) = {"
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblacacblblblblblblblacacacblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbTbkbTbUbUbUbUbUbUbUbTbTbTadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbTbobTbUbUbUbUbUbUbUbTbobTadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbTbTbTbUbUbUbUbUbUbUbTbTbTadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbTbTbTbUbUbUbUbUbUbUbTbpbTadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcacZbZbUbUbUbUbUbUbUcZcZcaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcacZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcecdcecfcfcfcfcfcfcfcgceceadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcabUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZchcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZbZcZbUbUbUbUbUbUbUcZbZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZchcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUbZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcicZbUbUbUbUbUbUbUcZchcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcacZchbUbUbUbUbUbUbUcZbZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcececgcfcfcfcfcfcfcfcececeadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZbrbUbUbUbUbUbUbUcocZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcmcmcmbUbUbUbUbUbUbUbtcmcmadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZchcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcocZcZbUbUbUbUbUbUbUcZcZcoadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcmbtcmbUbUbUbUbUbUbUcmbvcmadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcrcrcrbUbUbUbUbUbUbUbwcrcradblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZctcZbUbUbUbUbUbUbUcZbxcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblcvcecececfcfcfcfcfcfcfcecececvblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcxcwcwcwcwcwcycrcrcrcrbybzbHbIbZcrcrcrcrcDcwcwcwcwcwcxcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwcwbl
+dycEcEbJcEcEcEbKcEcEbLbKcEcEbMbKcEcEcEbKcEcEcEbKcEcEcEcJbKcEbPcEbQcZcZbZcZcZcZcZcacZcZcZcZcZbRcEbPcEbKcJcEcEcEbKcEcEcEbKcEcEcEbJcEcEbLbKcEcEcEbKcEcEcEbKbMcEcEdy
+blcNcNbScNbVcQcQcQcQbWcQcQcQbXbVcQcQcTcUcQcQcUcQcVcQcQbYcXcbcQcQcQcZcZchcZdacZdbcZcZcZcZcZbZcQcQcXcQcQcccQcQcVcQcUcQcQcUcTcQcQbXcQcQbWcQcQcQcQcQcQcQcQcNbScNcNac
+blbTbkcjbTcibZcZcZcZdecZchcZdfcZcZcZcZdgcZbZdgcZcrctchckcZcacZcZcZcZcZdicZbZbzbzbIcZchdicZcZcZcZcZcZdjckcZclcrcZcncZcZcpcZcZcqdfcZcZdecZbZchcZcZcZcZcZbTcsbTbkbl
+blbobTcjbTcacZcZcZcZdecZcZcZdfcZcZcZcZdpcZcZdpcocrbZcZckcZcZcuczcAdtdtdtcBdtdtdtdtdtcBdtdtdtcAcCcFcZcZckcZcZcrcGdpcZcZdpcZcZcadfchcZdecZcZcZcZcZcZcZbZbkcjbTbTbl
+dyaNaNawcHaNaNaNaNaNauaNaNaNawaNaNaNaNaNaNaNaNaNaNaNcIckcZcZdBdBdBdBdCdBdBdBdBdBdBdBdBdBdCdBdBdBdBcZcZckcKaNaNaNaNaNaNaNaNaNaNawaNaNauaNaNaNaNaNaNaNaNaNawaNaNdy
+blbUbUdEbUbUbUbUbUbUdFbUbUbUdEbUbUbUbUbUbUbUbUbUbUbUbUdechcZdBdBdBdBdCdBdBdBdBdBdBdBdBdBdCdBdBdBdBdGcZdHbUbUbUbUbUbUbUbUbUbUbUdEbUbUdFbUbUbUbUbUbUbUbUbUdEbUbUbl
+blbUbUdEbUbUbUbUbUbUdFbUbUbUdEbUbUbUbUbUbUbUbUbUbUbUbUcLcZcZdBdBdBdBdBdBdCdBdBdBdBdBdCdBdBdBdBdBdBdacZcMbUbUbUbUbUbUbUbUbUbUbUdEbUbUdFbUbUbUbUbUbUbUbUbUdEbUbUbl
+blbUbUdEbUbUbUbUbUbUdFbUbUbUdEbUbUbUbUbUbUbUbUbUbUbUbUcOcPcRdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBcZdbcSbUbUbUbUbUbUbUbUbUbUbUdEbUbUdFbUbUbUbUbUbUbUbUbUdEbUbUbl
+blbUbUdEbUbUbUbUbUbUdFbUbUbUdEbUbUbUbUbUbUbUbUbUbUbUbUdecZdadBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBchcZdObUbUbUbUbUbUbUbUbUbUbUdEbUbUdFbUbUbUbUbUbUbUbUbUdEbUbUbl
+blbUbUdEbUbUbUbUbUbUdFbUbUbUdEbUbUbUbUbUbUbUbUbUbUbUbUckcZdjdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBbzcZckbUbUbUbUbUbUbUbUbUbUbUdEbUbUdFbUbUbUbUbUbUbUbUbUdEbUbUbl
+blbkbTcjbTbZcZcZcZcZdecZcZcZdfcZcZcZcZdpcZcZdpcGcrcZcZckcZcZdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBcZcZckcZcZcrcWdpcZcZdpcZcZcZdQcZcZdebZcZcZcZcZcZcacZbTcjbTbTbl
+blbTbTcYdccZcZcZcZchdecZcZcZdfcZbZcicZdgcZcZdgcacrclcZckbZcZdBdTdBdBdBdBdBdBdBdBdBdBdBdBdBdBdBdUdBcZcZckchctcrcZddcZcZdgcZcZcZdfcZcZdecZcZcZcZcZcZcZcibkcYbTbTbl
+blbTdccjbTcZcZcZcZcZdecZcZcadfcZcZcZcodpcZcZdpcZcrcZcZckcZcZcZcZcZcZdibZcZcZcZdacZcZcZcZdicZcZbZcacZcZckcZcZcrcZdpcZcZdpcocZcZdfcZcZdecZcacZcZcZcZcZcZbTcjbTdcbl
+blbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAaIcicZdibZcZcZcZcZchcZcZdbcZcZbZcZcZcZcZcZdicZciaAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbAbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblbDbAbAbAbAaIdhdhdhdhcedkdldmcedhdhdhdhaAbAbAbAbAbEblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZcKdnaNaNaNdocIcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZbxcZbUbUbUbUbUbUbUcZclcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcrbwcrbUbUbUbUbUbUbUcrcrcradblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcocZbZbUbUbUbUbUbUbUcZcZcoadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcmcmcmbUbUbUbUbUbUbUcmcmcmadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcmcmcmbUbUbUbUbUbUbUcmbtcmadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcWbUbUbUbUbUbUbUcocZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcedmcecfcfcfcfcfcfcfcececeadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcacZbZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZbZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcacZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZbZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZchbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZcZcaadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZcZbUbUbUbUbUbUbUcZbZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcacZbZbUbUbUbUbUbUbUcZchcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcecececfcfcfcfcfcfcfcedmceadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladcZcZchbUbUbUbUbUbUbUcZcZcZadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbTbTbTbUbUbUbUbUbUbUbTbkbTadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbTbTbTbUbUbUbUbUbUbUbTbTbTadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbTbobTbUbUbUbUbUbUbUbTbTbTadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbladbTbTdcbUbUbUbUbUbUbUbTbobTadblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+"}

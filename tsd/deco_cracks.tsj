@@ -1,0 +1,14 @@
+{ "columns":2,
+ "image":"..\/tilesets\/deco_cracks.png",
+ "imageheight":160,
+ "imagewidth":64,
+ "margin":0,
+ "name":"deco_cracks",
+ "spacing":0,
+ "tilecount":10,
+ "tiledversion":"1.12.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.11"
+}

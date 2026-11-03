@@ -1,0 +1,337 @@
+"aa" = (/turf/enviroment/floors/voids/void,/area/inside)
+"ab" = (/turf/enviroment/floors/floor_13,/area/outside/outside)
+"ac" = (/turf/enviroment/walls/top/wall_top_4,/area/inside)
+"ad" = (/turf/enviroment/walls/top/wall_top_1,/area/inside)
+"ae" = (/turf/enviroment/walls/top/wall_top_5,/area/inside)
+"af" = (/turf/enviroment/floors/floor_13,/turf/enviroment/outside/objects/trees/tree_1/tf,/area/outside/outside)
+"ag" = (/turf/enviroment/walls/top/wall_top_2,/area/inside)
+"ah" = (/turf,/area/inside)
+"ai" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/top/wall_top_1,/turf/enviroment/walls/wall_17/top,/area/inside)
+"aj" = (/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_13,/area/outside/outside)
+"ak" = (/turf/enviroment/walls/wall_17,/area/inside)
+"al" = (/turf/enviroment/walls/wall_17,/turf/enviroment/deco/house/poster/poster_1/poster_2,/area/inside)
+"am" = (/turf/enviroment/walls/wall_17,/turf/enviroment/deco/house/clocks/clock_1/clock_1,/area/inside)
+"an" = (/turf/enviroment/walls/wall_17/top,/obj/enviroment/shadow_effects/lines/line_2,/turf/enviroment/walls/top/wall_top_8,/area/inside)
+"ao" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/park/rocks/rocks/rocks_1,/area/outside/outside)
+"ap" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/junk_1,/area/outside/outside)
+"aq" = (/turf/enviroment/floors/floor_2,/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"ar" = (/turf/enviroment/floors/floor_2,/area/inside)
+"as" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/desks/desk_1,/area/inside)
+"at" = (/turf/enviroment/walls/wall_17,/turf/enviroment/deco/house/poster/poster_1/poster_1,/area/inside)
+"au" = (/obj/enviroment/shadow_effects/lines/line_2,/turf/enviroment/walls/wall_17,/area/inside)
+"av" = (/turf/enviroment/floors/floor_19,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"aw" = (/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_13,/area/outside/outside)
+"ax" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"ay" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/house/bed_room/beds/bed_1,/area/inside)
+"az" = (/turf/enviroment/floors/floor_30,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/inside)
+"aA" = (/turf/enviroment/floors/floor_30,/area/inside)
+"aB" = (/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/floor_30,/area/inside)
+"aC" = (/turf/enviroment/floors/floor_30,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"aD" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"aE" = (/turf/enviroment/floors/floor_30,/obj/destructable/doors/door_3,/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"aF" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"aG" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/fb,/turf/enviroment/floors/floor_13/hl,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_2/pf,/area/outside/outside)
+"aH" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/outside/outside)
+"aI" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/dr,/turf/enviroment/floors/floor_13/fb,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/pf,/area/outside/outside)
+"aJ" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/fb,/turf/enviroment/floors/floor_13/gbl,/area/outside/outside)
+"aK" = (/obj/destructable/doors/door_3,/turf/enviroment/floors/floor_19,/area/inside)
+"aL" = (/turf/enviroment/floors/floor_19,/area/inside)
+"aM" = (/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/floors/floor_19,/area/inside)
+"aN" = (/turf/enviroment/floors/floor_30,/turf/enviroment/deco/house/tables/table_2/table_2,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"aO" = (/turf/enviroment/floors/floor_30,/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"aP" = (/turf/enviroment/floors/floor_30,/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"aQ" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/bt,/area/outside/outside)
+"aR" = (/turf/enviroment/floors/floor_23,/area/outside/outside)
+"aS" = (/turf/enviroment/floors/floor_23,/turf/enviroment/deco/junk_1,/area/outside/outside)
+"aT" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/hl,/area/outside/outside)
+"aU" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/outside/outside)
+"aV" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/dr,/area/outside/outside)
+"aW" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/gbl,/area/outside/outside)
+"aX" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"aY" = (/turf/enviroment/floors/floor_2,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/inside)
+"aZ" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/bt,/turf/enviroment/floors/floor_13/dr,/area/outside/outside)
+"ba" = (/turf/enviroment/walls/top/wall_top_9,/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/walls/wall_17/top,/area/inside)
+"bb" = (/turf/enviroment/floors/floor_2,/turf/enviroment/walls/top/wall_top_12,/turf/enviroment/walls/wall_17/top,/area/inside)
+"bc" = (/turf/enviroment/floors/floor_2,/turf/enviroment/walls/wall_17/top,/turf/enviroment/walls/top/wall_top_1,/area/inside)
+"bd" = (/turf/enviroment/walls/top/wall_top_6,/area/inside)
+"be" = (/turf/enviroment/floors/floor_2,/turf/enviroment/walls/wall_17/top,/turf/enviroment/walls/top/wall_top_12,/area/inside)
+"bf" = (/turf/enviroment/walls/wall_17/top,/turf/enviroment/walls/top/wall_top_1,/area/inside)
+"bg" = (/turf/enviroment/floors/floor_30,/turf/enviroment/walls/wall_17/top,/turf/enviroment/walls/top/wall_top_1,/area/inside)
+"bh" = (/turf/enviroment/floors/floor_30,/turf/locations/begin,/area/inside)
+"bi" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_17/top,/turf/enviroment/walls/top/wall_top_1,/area/inside)
+"bj" = (/turf/enviroment/walls/top/wall_top_7,/area/inside)
+"bk" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_17/top,/turf/enviroment/walls/top/wall_top_12,/area/outside/outside_in)
+"bl" = (/turf/enviroment/floors/floor_23,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/pf,/area/outside/outside)
+"bm" = (/obj/enviroment/shadow_effects/lines/line_1,/obj/enviroment/shadow_effects/lines/line_2,/turf/enviroment/walls/wall_17,/area/outside/outside)
+"bn" = (/obj/destructable/doors/door_3,/turf/enviroment/floors/floor_2,/area/outside/outside)
+"bo" = (/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/walls/wall_17,/area/outside/outside)
+"bp" = (/turf/enviroment/walls/wall_17,/area/outside/outside)
+"bq" = (/obj/destructable/doors/door_3,/turf/enviroment/floors/floor_2,/area/inside)
+"br" = (/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/walls/wall_17,/area/inside)
+"bs" = (/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_30,/area/inside)
+"bt" = (/obj/destructable/doors/door_4,/turf/enviroment/floors/floor_19,/area/inside)
+"bu" = (/obj/enviroment/shadow_effects/lines/line_1,/obj/power_sources/o_switch{l_id_num = 1},/turf/enviroment/walls/wall_17,/area/inside)
+"bv" = (/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/floors/floor_13,/area/outside/outside_underlayer)
+"bw" = (/turf/enviroment/walls/wall_17,/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/deco/house/clocks/clock_1/clock_1,/area/inside)
+"bx" = (/turf/enviroment/floors/floor_30,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/inside)
+"by" = (/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/floor_19,/area/inside)
+"bz" = (/turf/enviroment/floors/floor_13,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/deco/junk_1,/area/outside/outside)
+"bA" = (/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/floors/floor_30,/area/inside)
+"bB" = (/turf/enviroment/floors/floor_19,/obj/destructable/doors/door_3,/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"bC" = (/turf/enviroment/floors/floor_19,/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"bD" = (/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_19,/area/inside)
+"bE" = (/turf/enviroment/floors/floor_30,/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"bF" = (/turf/enviroment/floors/floor_30,/obj/other_cool/ran_stuff/items_ammo,/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"bG" = (/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_30,/area/inside)
+"bH" = (/obj/destructable/fences/fences_1/fencee,/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_13,/area/outside/outside)
+"bI" = (/turf/enviroment/walls/top/wall_top_1,/turf/enviroment/walls/wall_17/top,/area/inside)
+"bJ" = (/turf/enviroment/floors/floor_30,/turf/enviroment/walls/top/wall_top_1,/turf/enviroment/walls/wall_17/top,/area/inside)
+"bK" = (/turf/enviroment/floors/floor_30,/turf/enviroment/walls/wall_17/top,/turf/enviroment/walls/top/wall_top_12,/area/inside)
+"bL" = (/turf/enviroment/floors/floor_30,/turf/enviroment/walls/top/wall_top_12,/turf/enviroment/walls/wall_17/top,/area/inside)
+"bM" = (/turf/enviroment/floors/floor_19,/turf/enviroment/walls/top/wall_top_1,/turf/enviroment/walls/wall_17/top,/area/inside)
+"bN" = (/turf/enviroment/floors/floor_19,/turf/enviroment/walls/wall_17/top,/turf/enviroment/walls/top/wall_top_12,/area/inside)
+"bO" = (/obj/destructable/fences/fences_1/fencee,/turf/enviroment/floors/floor_13,/area/outside/outside)
+"bP" = (/turf/enviroment/floors/floor_19,/turf/enviroment/walls/top/wall_top_9,/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/walls/wall_17/top,/area/inside)
+"bQ" = (/turf/enviroment/floors/floor_30,/turf/enviroment/walls/top/wall_top_8,/obj/enviroment/shadow_effects/lines/line_2,/turf/enviroment/walls/wall_17/top,/area/inside)
+"bR" = (/obj/destructable/fences/fences_1/fencee{j_disable = 1},/turf/enviroment/walls/wall_17,/area/outside/outside)
+"bS" = (/obj/power_sources/doors/shutter{l_id_num = 1},/turf/enviroment/floors/floor_19,/area/outside/outside)
+"bT" = (/obj/enviroment/shadow_effects/lines/line_1,/obj/power_sources/o_switch{l_id_num = 1},/turf/enviroment/walls/wall_17,/area/outside/outside)
+"bU" = (/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/walls/wall_17,/area/outside/outside)
+"bV" = (/obj/enviroment/shadow_effects/lines/line_2,/turf/enviroment/walls/wall_17,/area/outside/outside)
+"bW" = (/obj/destructable/doors/door_3,/turf/enviroment/floors/floor_30,/area/outside/outside)
+"bX" = (/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/floors/floor_19,/area/outside/outside)
+"bY" = (/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/floors/floor_30,/area/outside/outside)
+"bZ" = (/obj/enviroment/shadow_effects/lines/line_1,/obj/destructable/fences/fences_1/fencee{j_disable = 1},/turf/enviroment/walls/wall_17,/area/outside/outside)
+"ca" = (/obj/enviroment/shadow_effects/lines/line_2,/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/walls/wall_17,/area/outside/outside)
+"cb" = (/obj/pickup/items/special/Gasoline_Tank,/turf/enviroment/floors/floor_13,/area/outside/outside)
+"cc" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/other/pumps/gas_pump_1,/area/outside/outside)
+"cd" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/dr,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"ce" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/hl,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"cf" = (/turf/enviroment/floors/floor_23,/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_13/dr,/area/outside/outside)
+"cg" = (/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_23,/area/outside/outside)
+"ch" = (/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_23,/area/outside/outside)
+"ci" = (/obj/destructable/fences/fences_1/fencen,/obj/destructable/fences/fences_1/fencee,/turf/enviroment/floors/floor_13,/area/outside/outside)
+"cj" = (/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_13,/area/outside/outside)
+"ck" = (/turf/enviroment/floors/floor_13,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_2/pf,/area/outside/outside)
+"cl" = (/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/floors/floor_23,/area/outside/outside)
+"cm" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/fb,/turf/enviroment/floors/floor_13/dr,/area/outside/outside)
+"cn" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/fb,/turf/enviroment/floors/floor_13/hl,/area/outside/outside)
+"co" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/dr,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"cp" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/hl,/turf/enviroment/deco/junk_1,/area/outside/outside)
+"cq" = (/turf/enviroment/floors/floor_23,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"cr" = (/turf/enviroment/floors/floor_23,/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_13/dr,/area/outside/outside)
+"cs" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/hl,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_2/pf,/area/outside/outside)
+"ct" = (/turf/enviroment/floors/floor_23,/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_13/bt,/area/outside/outside)
+"cu" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/bt,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_2/pf,/area/outside/outside)
+"cv" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/bt,/turf/enviroment/floors/floor_13/hl,/area/outside/outside)
+"cw" = (/turf/enviroment/floors/floor_13,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/pf,/area/outside/outside)
+"cx" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_8/grass_egdes/br,/turf/enviroment/floors/floor_13/ebr,/area/outside/outside)
+"cy" = (/turf/enviroment/floors/floor_35,/area/outside/outside)
+"cz" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/industrial/barrels/barrels_1,/area/outside/outside)
+"cA" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/park/rocks/rocks/rocks_1,/area/outside/outside)
+"cB" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_8/grass_egdes/bl,/turf/enviroment/floors/floor_13/gbl,/area/outside/outside)
+"cC" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/markets/boxs/boxs_2/box_1,/area/outside/outside)
+"cD" = (/turf/enviroment/floors/floor_23,/turf/enviroment/walls/top/wall_top_12,/turf/enviroment/walls/wall_17/top,/area/outside/outside_in)
+"cE" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/dr,/turf/enviroment/floors/floor_13/bt,/area/outside/outside)
+"cF" = (/obj/havens{de_on = 1},/turf/enviroment/floors/floor_35,/area/outside/outside)
+"cG" = (/obj/destructable/doors/door_3,/turf/enviroment/floors/floor_30,/area/outside/outside_underlayer)
+"cH" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"cI" = (/turf/enviroment/floors/floor_35,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_2/pf,/area/outside/outside)
+"cJ" = (/turf/enviroment/floors/floor_30,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_4/table_1,/area/inside)
+"cK" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/bt,/turf/enviroment/deco/junk_1,/area/outside/outside)
+"cL" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_8/grass_egdes/tl,/turf/enviroment/floors/floor_13/atl,/area/outside/outside)
+"cM" = (/turf/enviroment/floors/floor_30,/turf/enviroment/deco/house/tables/table_4/table_2,/area/inside)
+"cN" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/tables/table_4/table_2,/area/inside)
+"cO" = (/turf/enviroment/floors/floor_19,/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/deco/house/tables/table_4/table_2,/area/inside)
+"cP" = (/turf/enviroment/floors/floor_30,/turf/enviroment/deco/house/tables/table_4/table_2,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_4/table_1,/area/inside)
+"cQ" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/tl,/area/outside/outside)
+"cR" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/t,/area/outside/outside)
+"cS" = (/turf/enviroment/walls/top_2/wall_top_5,/area/inside)
+"cT" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_15/top,/turf/enviroment/walls/top_2/wall_top_1,/area/inside)
+"cU" = (/turf/enviroment/floors/floor_23,/turf/enviroment/walls/wall_15/top,/turf/enviroment/walls/top_2/wall_top_11,/area/outside/outside_in)
+"cV" = (/turf/enviroment/walls/top_2/wall_top_6,/area/inside)
+"cW" = (/turf/enviroment/floors/floor_13,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"cX" = (/turf/enviroment/floors/floor_30,/obj/destructable/windows/window_1,/turf/enviroment/walls/top_2/wall_top_12,/area/inside)
+"cY" = (/turf/enviroment/floors/floor_19,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_4/table_1,/area/inside)
+"cZ" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/l,/area/outside/outside)
+"da" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/park/rocks/rocks/rocks_2,/area/outside/outside)
+"db" = (/turf/enviroment/walls/top_2/wall_top_3,/area/inside)
+"dc" = (/turf/enviroment/walls/wall_15,/area/inside)
+"dd" = (/turf/enviroment/walls/wall_15,/obj/enviroment/shadow_effects/lines/line_2,/turf/enviroment/deco/house/poster/poster_1/poster_2,/area/inside)
+"de" = (/obj/destructable/windows/window_1,/obj/other_cool/barricades/boarding{start_boarded = 1},/turf/enviroment/floors/floor_23,/area/outside/outside_underlayer)
+"df" = (/obj/destructable/doors/door_3,/turf/enviroment/floors/floor_23,/area/outside/outside_underlayer)
+"dg" = (/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/walls/wall_15,/area/inside)
+"dh" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/fb,/turf/enviroment/floors/floor_13/bt,/area/outside/outside)
+"di" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/tables/table_4/table_2,/obj/other_cool/ran_stuff/items_ammo,/turf/enviroment/deco/house/tables/table_4/table_1,/area/inside)
+"dj" = (/turf/enviroment/walls/wall_15,/turf/enviroment/deco/house/poster/poster_1/poster_2,/area/inside)
+"dk" = (/obj/enviroment/shadow_effects/lines/line_2,/turf/enviroment/walls/wall_15,/area/inside)
+"dl" = (/turf/enviroment/walls/wall_15,/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/deco/house/poster/poster_1/poster_1,/area/inside)
+"dm" = (/turf/enviroment/floors/floor_30,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/deco/house/tables/table_2/table_1,/area/inside)
+"dn" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/junk_1,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_1/pf,/area/outside/outside)
+"do" = (/obj/destructable/b_cades/cades/cades_3{j_disable = 1; pull_disable = 1},/turf/enviroment/floors/floor_13,/area/outside/outside)
+"dp" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/markets/boxs/boxs_2/box_2,/area/outside/outside)
+"dq" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/tr,/area/outside/outside)
+"dr" = (/turf/enviroment/floors/floor_30,/turf/enviroment/walls/wall_17/top,/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/walls/top/wall_top_9,/area/inside)
+"ds" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/r,/area/outside/outside)
+"dt" = (/turf/enviroment/floors/floor_23,/obj/destructable/doors/door_4,/turf/enviroment/floors/floor_13/dr,/area/outside/outside)
+"du" = (/obj/destructable/doors/door_4,/turf/enviroment/floors/floor_23,/area/outside/outside)
+"dv" = (/turf/enviroment/floors/floor_23,/obj/destructable/doors/door_4,/turf/enviroment/floors/floor_13/hl,/area/outside/outside)
+"dw" = (/turf/enviroment/floors/floor_30,/turf/enviroment/floors/floor_13/dr,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"dx" = (/turf/enviroment/floors/floor_30,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"dy" = (/turf/enviroment/floors/floor_30,/turf/enviroment/floors/floor_13/hl,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"dz" = (/obj/other_cool/ran_stuff/herbs,/turf/enviroment/floors/floor_13,/area/outside/outside)
+"dA" = (/turf/enviroment/floors/floor_30,/turf/enviroment/floors/floor_13/dr,/area/outside/outside)
+"dB" = (/turf/enviroment/floors/floor_30,/area/outside/outside)
+"dC" = (/turf/enviroment/floors/floor_30,/turf/enviroment/floors/floor_13/hl,/area/outside/outside)
+"dD" = (/turf/enviroment/floors/floor_30,/obj/other_cool/ran_stuff/herbs,/turf/enviroment/deco/house/tables/table_2/table_2,/area/inside)
+"dE" = (/turf/enviroment/floors/floor_30,/turf/enviroment/walls/top/wall_top_12,/turf/enviroment/walls/wall_17/top,/area/outside/outside_in)
+"dF" = (/mob/player/NPC/Mob/Soldier,/turf/enviroment/floors/floor_13,/area/outside/outside)
+"dG" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/bb,/turf/enviroment/walls/wall_16/t,/area/outside/outside)
+"dH" = (/turf/enviroment/walls/wall_15,/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/walls/top_2/wall_top_9,/area/inside)
+"dI" = (/turf/enviroment/floors/floor_30,/turf/enviroment/walls/wall_15/top,/turf/enviroment/walls/top_2/wall_top_1,/area/inside)
+"dJ" = (/turf/enviroment/floors/floor_30,/turf/enviroment/walls/wall_15/top,/turf/enviroment/walls/top_2/wall_top_11,/area/inside)
+"dK" = (/turf/enviroment/walls/wall_15,/obj/enviroment/shadow_effects/lines/line_2,/turf/enviroment/walls/top_2/wall_top_10,/area/inside)
+"dL" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/bl,/area/outside/outside)
+"dM" = (/obj/enviroment/shadow_effects/lines/line_1,/turf/enviroment/walls/wall_15,/area/outside/outside)
+"dN" = (/obj/enviroment/shadow_effects/lines/line_2,/turf/enviroment/walls/wall_15,/area/outside/outside)
+"dO" = (/obj/power_sources/lights/normal_lights/light_2,/obj/enviroment/shadow_effects/lines/line_3,/turf/enviroment/walls/wall_15,/area/outside/outside)
+"dP" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/bl,/turf/enviroment/walls/wall_16/l,/area/outside/outside)
+"dQ" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/br,/turf/enviroment/walls/wall_16/r,/area/outside/outside)
+"dR" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/bbr,/turf/enviroment/walls/wall_16/t,/area/outside/outside)
+"dS" = (/obj/enviroment/shadow_effects/lines/line_1,/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/walls/wall_15,/area/outside/outside)
+"dT" = (/obj/enviroment/shadow_effects/lines/line_2,/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/walls/wall_15,/area/outside/outside)
+"dU" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/bbl,/area/outside/outside)
+"dV" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/wall_16/bbr,/area/outside/outside)
+"dW" = (/turf/enviroment/floors/floor_19,/turf/enviroment/deco/house/tables/table_4/table_2,/obj/other_cool/ran_stuff/items_ammo,/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/deco/house/tables/table_4/table_1,/area/inside)
+"dX" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/fb,/turf/enviroment/deco/junk_1,/area/outside/outside)
+"dY" = (/turf/enviroment/floors/floor_23,/turf/enviroment/deco/junk_1,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_2/pf,/turf/enviroment/floors/floor_13/hl,/area/outside/outside)
+"dZ" = (/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_13,/area/outside/outside)
+"ea" = (/turf/enviroment/floors/floor_23,/mob/player/NPC/Mob/Soldier{rw = 1},/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"eb" = (/obj/havens{de_on = 1},/turf/enviroment/floors/floor_23,/area/outside/outside)
+"ec" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/dr,/turf/enviroment/floors/floor_13/bt,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"ed" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/hl,/turf/enviroment/floors/floor_13/bt,/area/outside/outside)
+"ee" = (/turf/enviroment/floors/floor_23,/turf/enviroment/outside/objects/poles/street_poles/street_pole_1/p_2/pf,/turf/enviroment/floors/floor_13/hl,/area/outside/outside)
+"ef" = (/turf/enviroment/floors/floor_13,/turf/enviroment/walls/top_2/wall_top_1,/turf/enviroment/walls/wall_15/top,/area/inside)
+"eg" = (/turf/enviroment/floors/floor_23,/turf/enviroment/floors/floor_13/hl,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"eh" = (/turf/enviroment/walls/wall_15/top,/turf/enviroment/walls/top_2/wall_top_1,/area/inside)
+"ei" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/junk_1,/turf/enviroment/deco/park/rocks/rocks/rocks_1,/area/outside/outside)
+"ej" = (/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/walls/wall_15,/area/inside)
+"ek" = (/turf/enviroment/floors/floor_23,/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_13/dr,/area/outside/outside)
+"el" = (/turf/enviroment/floors/floor_23,/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_13/hl,/area/outside/outside)
+"em" = (/turf/enviroment/walls/wall_15,/turf/enviroment/deco/house/poster/poster_1/poster_1,/area/inside)
+"en" = (/turf/enviroment/walls/wall_15,/turf/enviroment/deco/house/clocks/clock_1/clock_1,/area/inside)
+"eo" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/park/rocks/rocks/rocks_2,/turf/enviroment/deco/park/rocks/rocks/rocks_1,/area/outside/outside)
+"ep" = (/obj/destructable/b_cades/cades/cades_3{j_disable = 1; pull_disable = 1},/turf/enviroment/floors/floor_30,/area/inside)
+"eq" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/junk_2,/turf/enviroment/deco/park/rocks/rocks/rocks_1,/area/outside/outside)
+"er" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/junk_1,/turf/enviroment/deco/markets/boxs/boxs_2/box_3,/area/outside/outside)
+"es" = (/turf/enviroment/floors/floor_23,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_13/dr,/area/outside/outside)
+"et" = (/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_23,/area/outside/outside)
+"eu" = (/turf/enviroment/floors/floor_23,/obj/destructable/b_cades/cades/cades_2{pull_disable = 1},/turf/enviroment/floors/floor_13/hl,/area/outside/outside)
+"ev" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/park/rocks/rocks/rocks_1,/turf/enviroment/deco/park/rocks/rocks/rocks_2,/area/outside/outside)
+"ew" = (/turf/enviroment/floors/floor_19,/obj/other_cool/ran_stuff/items_ammo,/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/deco/house/tables/table_4/table_1,/area/inside)
+"ex" = (/obj/destructable/b_cades/cades/cades_3{j_disable = 1; pull_disable = 1},/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/floors/floor_30,/area/inside)
+"ey" = (/turf/enviroment/floors/floor_13,/turf/enviroment/deco/park/rocks/rocks/rocks_1,/turf/enviroment/outside/objects/trees/tree_1/tf,/area/outside/outside)
+"ez" = (/turf/enviroment/walls/wall_15,/turf/enviroment/walls/top_2/wall_top_1,/area/inside)
+"eA" = (/obj/destructable/fences/fences_1/fencen,/turf/enviroment/floors/floor_23,/area/outside/outside)
+"eB" = (/obj/power_sources/lights/normal_lights/light_2,/turf/enviroment/walls/wall_15,/area/outside/outside)
+"eC" = (/turf/enviroment/walls/wall_15,/area/outside/outside)
+"eD" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/t,/area/outside/outside)
+"eE" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/tr,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"eF" = (/turf/enviroment/floors/floor_35,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"eG" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/junk_2,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"eH" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/tl,/turf/enviroment/floors/floor_13/fb,/area/outside/outside)
+"eI" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/r,/area/outside/outside)
+"eJ" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/l,/area/outside/outside)
+"eK" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/junk_1,/area/outside/outside)
+"eL" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/tl,/area/outside/outside)
+"eM" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/tr,/area/outside/outside)
+"eN" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/t,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"eO" = (/turf/enviroment/floors/floor_35{density = 1},/area/outside/outside)
+"eP" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/bl,/area/outside/outside)
+"eQ" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/b,/area/outside/outside)
+"eR" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/br,/area/outside/outside)
+"eS" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/bbl,/area/outside/outside)
+"eT" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/bb,/area/outside/outside)
+"eU" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/bbr,/area/outside/outside)
+"eV" = (/obj/effects/spawn_zone,/turf/enviroment/floors/floor_35,/area/outside/outside)
+"eW" = (/obj/effects/spawn_zone,/turf/enviroment/floors/floor_23,/area/outside/outside)
+"eX" = (/obj/other_cool/ran_stuff/rocks,/turf/enviroment/floors/floor_35,/area/outside/outside)
+"eY" = (/turf/enviroment/floors/floor_35,/turf/enviroment/walls/wall_16/l,/turf/enviroment/deco/park/rocks/rocks/rocks_1,/area/outside/outside)
+"eZ" = (/turf/enviroment/floors/floor_35,/turf/enviroment/deco/park/rocks/rocks/rocks_2,/area/outside/outside)
+"fa" = (/turf/enviroment/floors/floor_23,/obj/effects/spawn_zone,/turf/enviroment/deco/junk_2,/area/outside/outside)
+"fb" = (/turf/enviroment/floors/voids/void,/turf/other/de_map_settings{de_set_map_author = "Darker Emerald"; de_set_season = "Summer"},/area/inside)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabababababababababababacadadadadadadadadadadadadadadadadadadadadadadadaeababababababababababababababababababababababababaa
+aaafafabafabafabafabafabagahahahahahahahahahahahahahahahahahahahahahahahagabafabafabafabafabafabafabafabafabafabafabafafabaa
+aaafabafabafabafabafafabagaiaiaiaiaiaiaiaeahahahahahahahahahacaiaiaiaiaiagafabafabafabafabafabafabafabafabafabafabafafafabaa
+aaababababababababababajagakalakakamakakagaiaiaiaiaiaiaiaiaianakakamakakagababababababababababababababababababababaoafafabaa
+aaabapababababababababajaqararasarasarasagakakakalakakakatakauavavavavavagababababawababababababaxabababababapababababafabaa
+aaababababababababababajagarayarayarayaragazaAaAaAaBaCaCaCaCaCaDaDaDaDaDaEaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaGababaHababafafabaa
+aaabaIaFaJababababababajaqarararararararaKaLaLaMaLaLaNaOaPaOaNaLaLaMaLaLaEaQaRaRaRaSaRaRaRaRaRaRaRaRaRaRaTababaUaUababafabaa
+aaabaVaRaRaWabaxabababajagararaXaYarararagaAaAaAaAaLaOaAaAaAaOaAaAaLaAaAagabaZaQaQaQaQaQaQaQaQaQaQaQaRaRaTababaUaHababafabaa
+aaabaVaRaRaRaWabababababbabbbcbcbdbcbebcbfbgbgaeaAaLbhaAbhaAbhaAbhaLaAaAbabibibibjbibkbibibkbiaeababaVaRaTababaUaUabafafabaa
+aaabaVaRaRaRblaWababababbmbnbobpagaubqbralamakagbsbtbsbsbsbsbsbsbsbtbsbsbuakalakagaubvbwaubvbragababaVaRaTababaHaxababafabaa
+aaabaVaRaRaRaRaRaWabababababababagaCaLaCaCaCaCagaAaLaAaAaAazbxaAaAaLaAaAaAaCaCaCagbyaLaLaLaLaLagajabaVaRaTababababababafabaa
+aaabaVaRaRaRaRaRaRaWababbzajajajagaOaLaOaOaPaOagaAaLbAaAaAaAbAaAaAaLaAaAaAaPaOaObBaLaLaLaLaMaLbCajabaVaRaTababaoababafafabaa
+aaabaVaRaRaSaRaRaRblaWabababababagaAaLaLaLaLaLbBaLaLaLbDbDbDbDbDbDbDaLaLaLaLaLaLbBaLaMaLaLaLaLbCajabaVaRaTababababababafabaa
+aaabaVaRaRaQaRaRaRaRaRaWababababbEaAbFaCaCbGbGagaBaAaAbGaLaLaLaLaLbGaAaAaAaAaAaAagbyaLaLaLaLaLagajabaVaRaTababababababafabaa
+aaabaVaRaTbHaVaSaRaRaRaRaWabababagaAaOaOaOaAacbIbJbJbJbJbKbKbKbKbKbJbJbJbJbLbJbJbIbMbNbMbMbNbManababaVaRaTababababapafafabaa
+aaabaVaRaTbOaVaRaRaRaRaRblaWababbPbJbLbJbJbLbQbpbpbpbpbRbSbSbSbSbSbTbRbUbVbWbobUbRbVbXbobVbXbobVababaVaRaTababababababafabaa
+aaabaVaRaTbHaVaRaRaRaRaRaRaRaWabbobVbYbZbVbYcacbcccbabbOcdaFaFaFceabbOabababababbOajajajajajajabababcfaRaTababababababafabaa
+aaabaVaRaRaFaRcgaRchaRaRaRaQaRaFaFaFcebOabababababababbOaVaRaRaSaTabcicjcjcjcjcjciabababababababababaVaRaTabaoabababafafabaa
+aaabaVaRaRaQaRaRaRaRaRaRaTciaVaRaRaRaTbOababababckababbOaVaRclaRaTababababababababababababcmaFaFaFaFchaRaRaFaFaFaFcnabafabaa
+aaabaVaRaTbHcoaRaRaRaRaRcpbOaZaQaRcqaTbOababababaxababbOaVaRaRaRaTabababababababababaoababaVaSaRaRaRaRaRaRchaRaRaRaTabafabaa
+aaabaVaRaTbOaVaRaRchaRaRaTbOcjciaVaRaTbOapababababababbOaVaRaRaRaTababababababapabaxabababaVaRaRaQaQaQaQaQaQaQaRaRaTafafabaa
+aaabaVaRaTbOaVaRaRaRaRaRaTbOabbOaVaRaTbOabababababababbOcraRaRaRaTabababaoababababababababaVaRcsabababababababaVaRaTabafabaa
+aaabaVaRaTbOaZaRaRaQctcucvbOabbOaVaRaTbOcwababababababbOaVaRaRcqaTcxcyczcycycyczczcAcyczcBaVaRaTabababababababaVaRaTabafabaa
+aaabaVaRaTcicjaVaRcjcjcjcjbHcjciaVaRaTcicjcjcjcjcjcjcjciaVchclaRaTcycyczczcycycCczcycyczcyaVaRaTabababaHacbibibicDbibibiaeaa
+aaabcEaRaRaFaFaRaRaFaFaFaFaFaFaFaRaRaRaFaFaFaFaFaFaFaFaFaRaRaRaRaRaFaFaFcncycFcyczcycyczczaVaRaTababaUaUagakamakcGakakakagaa
+aaababaVaSaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaTcHcycIcycycycycyaVaRaTabaxabaHagcJcJaAaAcJcJcJagaa
+aaababaZaQaQaRaRaRaQaQaQaQaQaQaQaQaQaQaQaQcKaQaQaQaQaRaRaRaRaRaRaRaRaRaRaTczcCcycycyczcAcLaVaRaTabababapagcMcNaLaLcOcNcPagaa
+aaabcwabababaVaRaTababababababababcQcRcRcRcRcRcScTcTcUcUcUcUcUcTcTcVaRaRaRaFaFaFaFaFaFaFaFaRaRaRaFaFcncWcXaAcYaLcYcYaLcPagaa
+aacScTcTcTcTcUcUcUcTcTcVabaxabababcZdaababababdbdcdddededfdededgdcdbaVaRaRaRaRaRaRaSaRaRaRaRaRaRaRaRaRdhaEaAdiaMcNcNaLcPagaa
+aadbdcdjdcdkdedfdedldcdbabababababcZabababababdbdmaCaAaAaAaAaAaCdmdbaZaQaQaQaQaQaQaQaQaQaQaQaQaQaRaRaTabcXaAdicYcYcYaLcPagaa
+aadbdmaCaAaAaAaAaAaAaBdbababdnababcZabababdoabdbaNaOaAaAaAaAaAaOaNdbcwabababababaoababababababcwaVaRaTabagaAcMcMcMcMaAcPagaa
+aadbaNaOaAbsbsbsbsbsbsdbabababababcZaUdpabababdbaNaAaAbAaAaAaAaAaNdbcRcRcRcRcRcRcRcRcRcRcRcRdqabaVaRaTabdrbgbgbLbLbLbgbganaa
+aadbaNaAaAbAaAaAaAaAaCdbababababaocZdpaUckababdbaNbGaCaCbGaCaCbGaNdbdpaUababababababababdoabdscjdtdudvcjbobUbpbWbWbWbpbpbVaa
+aadbaNbGaCaCbGaCaCbGaNdbcQcRcRcRcRababdpdoababdbaNaAaOaOaAaPaOaAaNdbaHaHdpababdaabababababaodsabaVaRaTababaUabdwdxdyabdzaoaa
+aadbaNaAaOaOaAaPaOaAaNdbcZabdoababababaoabababdbaNaAaAaAaAaAaAaAaNdbaUdpaHaUababababababababdsabaVaRaTabapababdAdBdCabdzaoaa
+aadbaOaAaAaAaAaAaAaAaNdbcZababababapabababababdbdDaAaAaAaAaAaAaAdDdbababdoababcwababdoabababdsabaVaRaTabacbibidEdEdEbibiaeaa
+aadbaAaAaAaAaAaAaAaAaOdbcZababababababababababdbaAaAaAaAaAaAaAaAaAdbababababababababababaoabdsdFaVaRaTdFagakakcGcGcGakakagaa
+aadbaAaAaAaAaAaAaAaAaAdbcZabdaabdsdGdGdGdGdGdGdHdIdJdIdJdJdJdIdJdIdKababababababababababababdscjdtdudvcjagcJcJaAaAaAcJcJagaa
+aadHdIdJdIdIdJdIdIdJdIdKdLabababdsaoaUabaUabaUdMdNbYdObYbWbYdObYdMdNdPaodQdGdGdGdGdGdGdGdGdGdRabaVaRaTabagcPcNaLcYaLcNcPagaa
+aadMdNbYdSdNbWdMdTbYdMdNdUdGdGdGdRaUabapcwababaoabababcdaFceababababdUdGdVdzababababababawababcwaVaRaTabagcMaLaLdWaLaLcPagaa
+aaaoabababcdaFceababababababaHaHabababababcmaFaFaFaFaFaRaRaRaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFdXaRaRaRaFaEaAaLaLdiaLaLcPagaa
+aaababababaVaRaTabababaxababaUaUabawabababaVaRaRaRaRaRaRaRaSaRaRaRaRaRaRaRaRaRaRaRchaRaRaRaRaRaRaRaRaRaRaEaAaLaLdWaLaLcPagaa
+aaababapabaVaRaTabababababababababababababaVaRaRaQaQaQaQaRaRaRaRaRaQaQaQaQaRaRaQaQaQaQaQaRaRaQaQaQaQaQaQaEaAaLaLdiaLaLcPagaa
+aaababababaVaRaTaoabababababababababababcwaVaRaTaoababaoaVaRaRaRaTaoababaoaVdYabababdZabaVaTababababababagcJaLaLcNaLaLcPagaa
+aaababababaVaRaRaFaFaFaFaFaFaFeaaFaFaFaFaFaRaRaTababababaVaRaRaRaTababababaVaTabdpdpaUabaVaTabababababaUagcPcJcJcJcJcJcPagaa
+aaababababaVaRaRaRaRaRaRaRaRaRaRaRaRaRaRebaRaRaTababababaZaRaRaRcvababababaVaTabdpaUdpabaVaTabababababaUdrbgbgbgbgbgbgbganaa
+aaababababecaQaQaRaRaRaRchaQaQaQaQaQaRaRaSaRaRedabababababaVaReeabababababaVaTabdpdpdpabaVaTaxababababaobobpbpbpbpbpbpbpbVaa
+aaaHabababababcwaVaRaRaRaTababababcwaVaRaRaRaTabababababcmaRaRaRcnababababaVaTabababababaVaTababapabababaoaoaUdpaUaHaoaoaoaa
+aaaUaUabcSefcVabaVaRaRaRaTabcSefcVabaVaRaRaRegabcSefcVabaVaRaRaRaTabcSefefcUcUefefehefefcUcUefefcVabaxabaoeiaUabaoaUdpafabaa
+aadadaabdbejdbcjekdududuelcjdbejdbcjekdududuelcjdbejdbcjekdududuelcjdbdcdjdfdfemdcdcendcdfdfdcdcdbabababaHaoaoaoababaoafabaa
+aaaoeoabdbepcXabaVaRaRaRaTdzcXepcXdzaVaRaRaRaTabcXepcXabaVaRaRaRaTdzcXaAaAaAaAaAaAaAaAaAaAaAcJcJdbababababdaababaUaoabafabaa
+aadaabaodbepcXabaVaSaRaRaTabcXepcXabaVaRaRaRaTabcXepcXabaVaRcqaRaTabcXaAcYaMcYcYaAaAaAaLaLaLcNcPdbaxababaoaoeqdaabaxerafabaa
+aaaoaoabdbepdbajesetcleteuajdbepdbajesetcleteuajdbepdbajesetcleteuajdbaAdiaLcNcNaAdbcJaLaLaMaLcMcXabababaHaoaoababaoabafabaa
+aaaoevaodbepdbabaVaRaRaRaTabdbepdbabaVaRaRaRaTabdbepdbabaVaRaRaRaTabdbaAdiaLaLaLaAdbcPaLaLaLaLaAcXabababaodaabaoabaoabafabaa
+aadaabaodbepcXabaVaRaRaRaTabcXepcXabaVaRaRaRaTabcXepcXabaVaRaRaRaTabcXaAdiaLewcYaAdbcPaLaLaLaLcPdbabababapaoaoaUababaHafabaa
+aaaodaabdbexcXabaVaRaRaRaTabcXexcXabaVaRaRaRaTabcXexcXabaVaRaRaRaTabcXaAcMaAcMcMaAdbcPcYcJcJcJcJdbabababaoaoaoaodaabaoeyabaa
+aaabdaabdHezdKcjekeAeAeAelcjdHezdKcjekeAeAeAelcjdHezdKcjekeAeAeAelcjdHezezezezezezezezezezezezezdKababababaoaoababaoaoafabaa
+aaaoaoaodMeBdNabaVaRclaRaTabdMeBdNabaVaRclaRaTabdMeBdNabaVaRclaRaTabdMeBeCeCeCeCeCeCeCeCeCeCeCeCdNabaxababaoaUabaoaoaoafabaa
+aaeDeDeDeDeDeEeFaRaRaRaRaReFeFeFeFeFaRaRaRaRaReFeFeFeFeFaRaRaRaRaReFeFeGeFeFeFeFeFeFeFeFeFeFeFeFeFeFeFeFeHeDeDeDeDeDeDeDeDaa
+aacHcAcycycyeIcyaRaRaRaRaRcHcycycycyaRaRaRaRaRcycycycycyaRaRaRaRaRcycycycycycycycycycycHcycycycycycycycyeJcycycycycycycycyaa
+aacycycycycHeIcyaRaRaRaRaRcycycycycyaRaRaRaRaRcycycycycyaRaRaRaRaRcycycycycycycycycycycycycycycycycycycyeJcycycycyeKcycycyaa
+aacycycycycyeIcyaRaRaRaRaRcyeLeDeMcyaRaRaRaSaRcyeLeDeMcyaRaRaRaRaRcyeLeDeDeDeDeDeDeDeDeDeDeDeDeNeDeDeDeDeOcycycycycycycycyaa
+aacycycycycyeIcyaRaRaRaRaRcyeJcAeIcHaRaRaRaRaRcyeJcAeIcyaRaRaRcqaRcyeJcAcycycycycycycycycycycycycycAcycycycycycycycycycycyaa
+aacycycycycAeIcyaSaRaRaRaRcyePeQeRcyaRaRaRaRaRcyePeQeRcyaRaRaRaRaRcyeJcycycycycycycycycycycAcycycycycycycycycycycycycycycyaa
+aacAcycycycyeIcyaRaRaRaRaRcyeSeTeUcyaRaRaRaRaRcyeSeTeUcyaRaRaRaRaRcyeJcycycycycycycycycHcycycycycycycycycycycycycycycycycyaa
+aacycycHcycyeIcyaRaRaRaRaRcycycycycyaRaRaRaRaRcycycycycyaRaRaRaRaRcyeJcycycycycycycycycycycycycycycycycycycycAcycycycHcycyaa
+aacycycycycyeIeVeWeWeWeWeWeVeVeVeVeVeWeWeWeWeWeVeVeVeVeVeWeWeWeWeWeVeJcycycycycAcycycycycycycycycyeXcycycycycycycycycycycyaa
+aacycycAcycyeIeVeWeWeWeWeWeVeVeVeVeVeWeWeWeWeWeVeVeVeVeVeWeWeWeWeWeVeYcycycycycycycycycycycyeKcycycycycycycycycyeZcycycycyaa
+aacyeKcycycyeIeVeWeWfaeWeWeVeVeVeVeVeWfaeWeWeWeVeVeVeVeVeWeWeWeWeWeVeJcycycHcycycycycycycycycycycycycAcycycycycycycycycycyaa
+aacycycycycAeIeVeWeWeWeWeWeVeVeVeVeVeWeWeWeWeWeVeVeVeVeVeWeWeWfaeWeVeJcycycycycycycycycycycycycycycycycycycycycycycycycycyaa
+fbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

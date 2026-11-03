@@ -1,0 +1,15 @@
+{ "columns":5,
+ "image":"..\/tilesets\/indoor_bathroom_shower.png",
+ "imageheight":128,
+ "imagewidth":160,
+ "margin":0,
+ "name":"indoor_bathroom_shower",
+ "objectalignment":"topleft",
+ "spacing":0,
+ "tilecount":20,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

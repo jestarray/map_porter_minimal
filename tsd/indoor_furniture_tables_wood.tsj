@@ -1,0 +1,15 @@
+{ "columns":15,
+ "image":"..\/tilesets\/indoor_furniture_tables_wood.png",
+ "imageheight":96,
+ "imagewidth":480,
+ "margin":0,
+ "name":"indoor_furniture_tables_wood",
+ "objectalignment":"topleft",
+ "spacing":0,
+ "tilecount":45,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

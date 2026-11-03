@@ -1,0 +1,24 @@
+{ "columns":6,
+ "image":"..\/tilesets\/outdoor_nature_floors_grass_snow.png",
+ "imageheight":96,
+ "imagewidth":192,
+ "margin":0,
+ "name":"outdoor_nature_floors_grass_snow",
+ "spacing":0,
+ "tilecount":18,
+ "tiledversion":"1.12.1",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":7,
+         "properties":[
+                {
+                 "name":"sfx_step",
+                 "type":"string",
+                 "value":"footstep_snowgrass"
+                }]
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.11"
+}

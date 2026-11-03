@@ -1,0 +1,25 @@
+{ "columns":16,
+ "image":"..\/tilesets\/wall_posters_art.png",
+ "imageheight":32,
+ "imagewidth":512,
+ "margin":0,
+ "name":"wall_posters_art",
+ "objectalignment":"topleft",
+ "spacing":0,
+ "tilecount":16,
+ "tiledversion":"1.9.1",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":5,
+         "properties":[
+                {
+                 "name":"bypath",
+                 "type":"string",
+                 "value":"\/turf\/enviroment\/deco\/house\/poster\/poster_1\/poster_7"
+                }]
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

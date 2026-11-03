@@ -1,0 +1,998 @@
+{ "compressionlevel":-1,
+ "height":1,
+ "infinite":false,
+ "layers":[
+        {
+         "draworder":"topdown",
+         "id":10,
+         "name":"STAMPS",
+         "objects":[],
+         "opacity":1,
+         "tintcolor":"#ff00ff",
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        },
+    
+        {
+         "id":2,
+         "layers":[
+                {
+                 "data":[0],
+                 "height":1,
+                 "id":1,
+                 "name":"bot_0",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":1,
+                 "x":0,
+                 "y":0
+                },
+            
+                {
+                 "data":[0],
+                 "height":1,
+                 "id":3,
+                 "name":"bot_1",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":1,
+                 "x":0,
+                 "y":0
+                },
+            
+                {
+                 "data":[0],
+                 "height":1,
+                 "id":4,
+                 "name":"bot_2",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":1,
+                 "x":0,
+                 "y":0
+                },
+            
+                {
+                 "data":[0],
+                 "height":1,
+                 "id":11,
+                 "name":"bot_3",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":1,
+                 "x":0,
+                 "y":0
+                },
+            
+                {
+                 "data":[0],
+                 "height":1,
+                 "id":5,
+                 "name":"top_0",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":1,
+                 "x":0,
+                 "y":0
+                },
+            
+                {
+                 "data":[0],
+                 "height":1,
+                 "id":6,
+                 "name":"top_1",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":1,
+                 "x":0,
+                 "y":0
+                },
+            
+                {
+                 "data":[0],
+                 "height":1,
+                 "id":7,
+                 "name":"top_2",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":1,
+                 "x":0,
+                 "y":0
+                },
+            
+                {
+                 "data":[0],
+                 "height":1,
+                 "id":8,
+                 "name":"markers",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":1,
+                 "x":0,
+                 "y":0
+                },
+            
+                {
+                 "draworder":"topdown",
+                 "id":9,
+                 "name":"inst",
+                 "objects":[],
+                 "opacity":1,
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }],
+         "name":"floor_0",
+         "opacity":1,
+         "type":"group",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":12,
+ "nextobjectid":2,
+ "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"author",
+         "type":"string",
+         "value":""
+        },
+    
+        {
+         "name":"desc",
+         "type":"string",
+         "value":""
+        },
+    
+        {
+         "name":"season",
+         "type":"string",
+         "value":""
+        },
+    
+        {
+         "name":"time_of_day",
+         "type":"string",
+         "value":""
+        },
+    
+        {
+         "name":"weather",
+         "type":"string",
+         "value":""
+        }],
+ "renderorder":"right-down",
+ "tiledversion":"1.12.2",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/tsd\/1destroyed.tsj"
+        },
+    
+        {
+         "firstgid":2,
+         "source":"..\/tsd\/1void.tsj"
+        },
+    
+        {
+         "firstgid":5,
+         "source":"..\/tsd\/cades.tsj"
+        },
+    
+        {
+         "firstgid":140,
+         "source":"..\/tsd\/cades2.tsj"
+        },
+    
+        {
+         "firstgid":204,
+         "source":"..\/tsd\/deco_cracks.tsj"
+        },
+    
+        {
+         "firstgid":214,
+         "source":"..\/tsd\/deco_gore_blood.tsj"
+        },
+    
+        {
+         "firstgid":235,
+         "source":"..\/tsd\/deco_gore_blood_spat.tsj"
+        },
+    
+        {
+         "firstgid":244,
+         "source":"..\/tsd\/deco_gore_body.tsj"
+        },
+    
+        {
+         "firstgid":340,
+         "source":"..\/tsd\/deco_gore_smear.tsj"
+        },
+    
+        {
+         "firstgid":364,
+         "source":"..\/tsd\/deco_toys_plushies.tsj"
+        },
+    
+        {
+         "firstgid":380,
+         "source":"..\/tsd\/deco_trash.tsj"
+        },
+    
+        {
+         "firstgid":412,
+         "source":"..\/tsd\/deco_trash_janitor.tsj"
+        },
+    
+        {
+         "firstgid":460,
+         "source":"..\/tsd\/deco_xmas.tsj"
+        },
+    
+        {
+         "firstgid":466,
+         "source":"..\/tsd\/emerge.tsj"
+        },
+    
+        {
+         "firstgid":476,
+         "source":"..\/tsd\/fence_chain.tsj"
+        },
+    
+        {
+         "firstgid":524,
+         "source":"..\/tsd\/floors_liquid_lava.tsj"
+        },
+    
+        {
+         "firstgid":548,
+         "source":"..\/tsd\/floors_liquid_sewage.tsj"
+        },
+    
+        {
+         "firstgid":572,
+         "source":"..\/tsd\/floors_liquid_water.tsj"
+        },
+    
+        {
+         "firstgid":596,
+         "source":"..\/tsd\/hazards_fire.tsj"
+        },
+    
+        {
+         "firstgid":604,
+         "source":"..\/tsd\/hazards_poison.tsj"
+        },
+    
+        {
+         "firstgid":615,
+         "source":"..\/tsd\/hazards_puddle_acid.tsj"
+        },
+    
+        {
+         "firstgid":621,
+         "source":"..\/tsd\/hazards_webs.tsj"
+        },
+    
+        {
+         "firstgid":635,
+         "source":"..\/tsd\/indoor_bathroom.tsj"
+        },
+    
+        {
+         "firstgid":683,
+         "source":"..\/tsd\/indoor_bathroom_shower.tsj"
+        },
+    
+        {
+         "firstgid":703,
+         "source":"..\/tsd\/indoor_cases.tsj"
+        },
+    
+        {
+         "firstgid":715,
+         "source":"..\/tsd\/indoor_crates.tsj"
+        },
+    
+        {
+         "firstgid":731,
+         "source":"..\/tsd\/indoor_dining_kitchen.tsj"
+        },
+    
+        {
+         "firstgid":795,
+         "source":"..\/tsd\/indoor_dining_kitchen_utensils.tsj"
+        },
+    
+        {
+         "firstgid":811,
+         "source":"..\/tsd\/indoor_dining_misc.tsj"
+        },
+    
+        {
+         "firstgid":843,
+         "source":"..\/tsd\/indoor_floors.tsj"
+        },
+    
+        {
+         "firstgid":907,
+         "source":"..\/tsd\/indoor_floors_carpet.tsj"
+        },
+    
+        {
+         "firstgid":925,
+         "source":"..\/tsd\/indoor_floors_carpet_animal_64x64.tsj"
+        },
+    
+        {
+         "firstgid":929,
+         "source":"..\/tsd\/indoor_floors_carpet_black.tsj"
+        },
+    
+        {
+         "firstgid":959,
+         "source":"..\/tsd\/indoor_floors_carpet_blue.tsj"
+        },
+    
+        {
+         "firstgid":989,
+         "source":"..\/tsd\/indoor_floors_carpet_green.tsj"
+        },
+    
+        {
+         "firstgid":1019,
+         "source":"..\/tsd\/indoor_floors_carpet_purple.tsj"
+        },
+    
+        {
+         "firstgid":1049,
+         "source":"..\/tsd\/indoor_floors_carpet_red.tsj"
+        },
+    
+        {
+         "firstgid":1079,
+         "source":"..\/tsd\/indoor_floors_carpet_red2.tsj"
+        },
+    
+        {
+         "firstgid":1112,
+         "source":"..\/tsd\/indoor_floors_catwalk.tsj"
+        },
+    
+        {
+         "firstgid":1139,
+         "source":"..\/tsd\/indoor_floors_industrial.tsj"
+        },
+    
+        {
+         "firstgid":1157,
+         "source":"..\/tsd\/indoor_floors_lattice.tsj"
+        },
+    
+        {
+         "firstgid":1184,
+         "source":"..\/tsd\/indoor_furniture_beds.tsj"
+        },
+    
+        {
+         "firstgid":1216,
+         "source":"..\/tsd\/indoor_furniture_seats_chairs.tsj"
+        },
+    
+        {
+         "firstgid":1312,
+         "source":"..\/tsd\/indoor_furniture_seats_churchbench.tsj"
+        },
+    
+        {
+         "firstgid":1324,
+         "source":"..\/tsd\/indoor_furniture_seats_couches1.tsj"
+        },
+    
+        {
+         "firstgid":1388,
+         "source":"..\/tsd\/indoor_furniture_seats_couches2.tsj"
+        },
+    
+        {
+         "firstgid":1424,
+         "source":"..\/tsd\/indoor_furniture_tables.tsj"
+        },
+    
+        {
+         "firstgid":1600,
+         "source":"..\/tsd\/indoor_furniture_tables_alm.tsj"
+        },
+    
+        {
+         "firstgid":1645,
+         "source":"..\/tsd\/indoor_furniture_tables_black.tsj"
+        },
+    
+        {
+         "firstgid":1690,
+         "source":"..\/tsd\/indoor_furniture_tables_brass.tsj"
+        },
+    
+        {
+         "firstgid":1717,
+         "source":"..\/tsd\/indoor_furniture_tables_fancy_black.tsj"
+        },
+    
+        {
+         "firstgid":1762,
+         "source":"..\/tsd\/indoor_furniture_tables_fancy_blue.tsj"
+        },
+    
+        {
+         "firstgid":1807,
+         "source":"..\/tsd\/indoor_furniture_tables_fancy_green.tsj"
+        },
+    
+        {
+         "firstgid":1852,
+         "source":"..\/tsd\/indoor_furniture_tables_fancy_purple.tsj"
+        },
+    
+        {
+         "firstgid":1897,
+         "source":"..\/tsd\/indoor_furniture_tables_fancy_red.tsj"
+        },
+    
+        {
+         "firstgid":1942,
+         "source":"..\/tsd\/indoor_furniture_tables_fwood.tsj"
+        },
+    
+        {
+         "firstgid":1987,
+         "source":"..\/tsd\/indoor_furniture_tables_glass.tsj"
+        },
+    
+        {
+         "firstgid":2032,
+         "source":"..\/tsd\/indoor_furniture_tables_glass2.tsj"
+        },
+    
+        {
+         "firstgid":2077,
+         "source":"..\/tsd\/indoor_furniture_tables_greyscale.tsj"
+        },
+    
+        {
+         "firstgid":2122,
+         "source":"..\/tsd\/indoor_furniture_tables_metal.tsj"
+        },
+    
+        {
+         "firstgid":2167,
+         "source":"..\/tsd\/indoor_furniture_tables_poker.tsj"
+        },
+    
+        {
+         "firstgid":2212,
+         "source":"..\/tsd\/indoor_furniture_tables_prison.tsj"
+        },
+    
+        {
+         "firstgid":2257,
+         "source":"..\/tsd\/indoor_furniture_tables_purple.tsj"
+        },
+    
+        {
+         "firstgid":2284,
+         "source":"..\/tsd\/indoor_furniture_tables_pwood.tsj"
+        },
+    
+        {
+         "firstgid":2329,
+         "source":"..\/tsd\/indoor_furniture_tables_reinforced.tsj"
+        },
+    
+        {
+         "firstgid":2374,
+         "source":"..\/tsd\/indoor_furniture_tables_white.tsj"
+        },
+    
+        {
+         "firstgid":2419,
+         "source":"..\/tsd\/indoor_furniture_tables_wood.tsj"
+        },
+    
+        {
+         "firstgid":2464,
+         "source":"..\/tsd\/indoor_furniture_tables_wood2.tsj"
+        },
+    
+        {
+         "firstgid":2509,
+         "source":"..\/tsd\/indoor_furniture_tables_wood3.tsj"
+        },
+    
+        {
+         "firstgid":2554,
+         "source":"..\/tsd\/indoor_library_bookshelves.tsj"
+        },
+    
+        {
+         "firstgid":2570,
+         "source":"..\/tsd\/indoor_light_objects.tsj"
+        },
+    
+        {
+         "firstgid":2602,
+         "source":"..\/tsd\/indoor_lockers.tsj"
+        },
+    
+        {
+         "firstgid":2826,
+         "source":"..\/tsd\/indoor_medical.tsj"
+        },
+    
+        {
+         "firstgid":2890,
+         "source":"..\/tsd\/indoor_medical_viro.tsj"
+        },
+    
+        {
+         "firstgid":2922,
+         "source":"..\/tsd\/indoor_music.tsj"
+        },
+    
+        {
+         "firstgid":2954,
+         "source":"..\/tsd\/indoor_office.tsj"
+        },
+    
+        {
+         "firstgid":3018,
+         "source":"..\/tsd\/indoor_plants.tsj"
+        },
+    
+        {
+         "firstgid":3066,
+         "source":"..\/tsd\/indoor_storage.tsj"
+        },
+    
+        {
+         "firstgid":3146,
+         "source":"..\/tsd\/indoor_storage_barrels.tsj"
+        },
+    
+        {
+         "firstgid":3162,
+         "source":"..\/tsd\/indoor_tech_computers.tsj"
+        },
+    
+        {
+         "firstgid":3194,
+         "source":"..\/tsd\/indoor_tech_washing_machines.tsj"
+        },
+    
+        {
+         "firstgid":3226,
+         "source":"..\/tsd\/items_ammo.tsj"
+        },
+    
+        {
+         "firstgid":3258,
+         "source":"..\/tsd\/items_ammo_special.tsj"
+        },
+    
+        {
+         "firstgid":3274,
+         "source":"..\/tsd\/items_attachments.tsj"
+        },
+    
+        {
+         "firstgid":3290,
+         "source":"..\/tsd\/items_bodybags.tsj"
+        },
+    
+        {
+         "firstgid":3322,
+         "source":"..\/tsd\/items_containers.tsj"
+        },
+    
+        {
+         "firstgid":3338,
+         "source":"..\/tsd\/items_guns_ar.tsj"
+        },
+    
+        {
+         "firstgid":3402,
+         "source":"..\/tsd\/items_guns_lmg.tsj"
+        },
+    
+        {
+         "firstgid":3418,
+         "source":"..\/tsd\/items_guns_magnums.tsj"
+        },
+    
+        {
+         "firstgid":3434,
+         "source":"..\/tsd\/items_guns_pistols.tsj"
+        },
+    
+        {
+         "firstgid":3466,
+         "source":"..\/tsd\/items_guns_riffle.tsj"
+        },
+    
+        {
+         "firstgid":3514,
+         "source":"..\/tsd\/items_guns_shotguns.tsj"
+        },
+    
+        {
+         "firstgid":3530,
+         "source":"..\/tsd\/items_guns_smg.tsj"
+        },
+    
+        {
+         "firstgid":3578,
+         "source":"..\/tsd\/items_guns_special.tsj"
+        },
+    
+        {
+         "firstgid":3610,
+         "source":"..\/tsd\/items_keys.tsj"
+        },
+    
+        {
+         "firstgid":3626,
+         "source":"..\/tsd\/items_materials.tsj"
+        },
+    
+        {
+         "firstgid":3641,
+         "source":"..\/tsd\/items_medical.tsj"
+        },
+    
+        {
+         "firstgid":3657,
+         "source":"..\/tsd\/items_melee.tsj"
+        },
+    
+        {
+         "firstgid":3705,
+         "source":"..\/tsd\/items_misc.tsj"
+        },
+    
+        {
+         "firstgid":3721,
+         "source":"..\/tsd\/items_throwables.tsj"
+        },
+    
+        {
+         "firstgid":3753,
+         "source":"..\/tsd\/items_tools.tsj"
+        },
+    
+        {
+         "firstgid":3785,
+         "source":"..\/tsd\/items_traps.tsj"
+        },
+    
+        {
+         "firstgid":3817,
+         "source":"..\/tsd\/items_wearables.tsj"
+        },
+    
+        {
+         "firstgid":3833,
+         "source":"..\/tsd\/objects_32x64.tsj"
+        },
+    
+        {
+         "firstgid":3881,
+         "source":"..\/tsd\/objects_doors.tsj"
+        },
+    
+        {
+         "firstgid":3945,
+         "source":"..\/tsd\/objects_doors_elevator.tsj"
+        },
+    
+        {
+         "firstgid":3977,
+         "source":"..\/tsd\/objects_doors_shutters.tsj"
+        },
+    
+        {
+         "firstgid":4004,
+         "source":"..\/tsd\/objects_statues_64x96.tsj"
+        },
+    
+        {
+         "firstgid":4007,
+         "source":"..\/tsd\/objects_switches.tsj"
+        },
+    
+        {
+         "firstgid":4023,
+         "source":"..\/tsd\/objects_trees_64x96.tsj"
+        },
+    
+        {
+         "firstgid":4031,
+         "source":"..\/tsd\/objects_vehicles.tsj"
+        },
+    
+        {
+         "firstgid":4047,
+         "source":"..\/tsd\/outdoor_cave.tsj"
+        },
+    
+        {
+         "firstgid":4065,
+         "source":"..\/tsd\/outdoor_city_floors.tsj"
+        },
+    
+        {
+         "firstgid":4097,
+         "source":"..\/tsd\/outdoor_city_floors_road.tsj"
+        },
+    
+        {
+         "firstgid":4118,
+         "source":"..\/tsd\/outdoor_city_floors_road_decals.tsj"
+        },
+    
+        {
+         "firstgid":4126,
+         "source":"..\/tsd\/outdoor_city_floors_sidewalk.tsj"
+        },
+    
+        {
+         "firstgid":4138,
+         "source":"..\/tsd\/outdoor_city_objects_32x128.tsj"
+        },
+    
+        {
+         "firstgid":4146,
+         "source":"..\/tsd\/outdoor_city_objects_street_light.tsj"
+        },
+    
+        {
+         "firstgid":4147,
+         "source":"..\/tsd\/outdoor_city_objects_wires.tsj"
+        },
+    
+        {
+         "firstgid":4151,
+         "source":"..\/tsd\/outdoor_grave_house.tsj"
+        },
+    
+        {
+         "firstgid":4166,
+         "source":"..\/tsd\/outdoor_grave_stones.tsj"
+        },
+    
+        {
+         "firstgid":4184,
+         "source":"..\/tsd\/outdoor_grave_stones2.tsj"
+        },
+    
+        {
+         "firstgid":4196,
+         "source":"..\/tsd\/outdoor_hedge.tsj"
+        },
+    
+        {
+         "firstgid":4223,
+         "source":"..\/tsd\/outdoor_industrial.tsj"
+        },
+    
+        {
+         "firstgid":4247,
+         "source":"..\/tsd\/outdoor_nature_floors_dirt.tsj"
+        },
+    
+        {
+         "firstgid":4265,
+         "source":"..\/tsd\/outdoor_nature_floors_dirt2.tsj"
+        },
+    
+        {
+         "firstgid":4283,
+         "source":"..\/tsd\/outdoor_nature_floors_grass.tsj"
+        },
+    
+        {
+         "firstgid":4301,
+         "source":"..\/tsd\/outdoor_nature_floors_grass_snow.tsj"
+        },
+    
+        {
+         "firstgid":4319,
+         "source":"..\/tsd\/outdoor_nature_floors_grass_snow2.tsj"
+        },
+    
+        {
+         "firstgid":4337,
+         "source":"..\/tsd\/outdoor_nature_floors_grass_tall.tsj"
+        },
+    
+        {
+         "firstgid":4355,
+         "source":"..\/tsd\/outdoor_nature_floors_sand.tsj"
+        },
+    
+        {
+         "firstgid":4373,
+         "source":"..\/tsd\/outdoor_nature_floors_snow.tsj"
+        },
+    
+        {
+         "firstgid":4391,
+         "source":"..\/tsd\/outdoor_nature_objects.tsj"
+        },
+    
+        {
+         "firstgid":4407,
+         "source":"..\/tsd\/outdoor_nest.tsj"
+        },
+    
+        {
+         "firstgid":4434,
+         "source":"..\/tsd\/outdoor_rock64.tsj"
+        },
+    
+        {
+         "firstgid":4435,
+         "source":"..\/tsd\/outdoor_roof.tsj"
+        },
+    
+        {
+         "firstgid":4459,
+         "source":"..\/tsd\/police_tape.tsj"
+        },
+    
+        {
+         "firstgid":4475,
+         "source":"..\/tsd\/sports.tsj"
+        },
+    
+        {
+         "firstgid":4523,
+         "source":"..\/tsd\/stairs.tsj"
+        },
+    
+        {
+         "firstgid":4571,
+         "source":"..\/tsd\/testtube_38x64.tsj"
+        },
+    
+        {
+         "firstgid":4574,
+         "source":"..\/tsd\/testtube_76x64.tsj"
+        },
+    
+        {
+         "firstgid":4577,
+         "source":"..\/tsd\/testtube_76x96.tsj"
+        },
+    
+        {
+         "firstgid":4580,
+         "source":"..\/tsd\/testtube_114x64.tsj"
+        },
+    
+        {
+         "firstgid":4583,
+         "source":"..\/tsd\/wall_fixtures.tsj"
+        },
+    
+        {
+         "firstgid":4599,
+         "source":"..\/tsd\/wall_fixtures_clocks.tsj"
+        },
+    
+        {
+         "firstgid":4615,
+         "source":"..\/tsd\/wall_fixtures_curtains.tsj"
+        },
+    
+        {
+         "firstgid":4631,
+         "source":"..\/tsd\/wall_fixtures_lockers.tsj"
+        },
+    
+        {
+         "firstgid":4655,
+         "source":"..\/tsd\/wall_posters.tsj"
+        },
+    
+        {
+         "firstgid":4687,
+         "source":"..\/tsd\/wall_posters_ads.tsj"
+        },
+    
+        {
+         "firstgid":4703,
+         "source":"..\/tsd\/wall_posters_art.tsj"
+        },
+    
+        {
+         "firstgid":4719,
+         "source":"..\/tsd\/wall_posters_graffiti.tsj"
+        },
+    
+        {
+         "firstgid":4751,
+         "source":"..\/tsd\/wall_posters_hazards.tsj"
+        },
+    
+        {
+         "firstgid":4783,
+         "source":"..\/tsd\/wall_posters_humans.tsj"
+        },
+    
+        {
+         "firstgid":4799,
+         "source":"..\/tsd\/wall_posters_info.tsj"
+        },
+    
+        {
+         "firstgid":4831,
+         "source":"..\/tsd\/wall_posters_weps.tsj"
+        },
+    
+        {
+         "firstgid":4847,
+         "source":"..\/tsd\/wall_tops.tsj"
+        },
+    
+        {
+         "firstgid":4895,
+         "source":"..\/tsd\/wall_windows_framed.tsj"
+        },
+    
+        {
+         "firstgid":4900,
+         "source":"..\/tsd\/wall_windows_full.tsj"
+        },
+    
+        {
+         "firstgid":4907,
+         "source":"..\/tsd\/walls.tsj"
+        },
+    
+        {
+         "firstgid":5067,
+         "source":"..\/tsd\/walls_wframe.tsj"
+        },
+    
+        {
+         "firstgid":5147,
+         "source":"..\/tsd\/waypoints_arrows.tsj"
+        },
+    
+        {
+         "firstgid":5150,
+         "source":"..\/tsd\/waypoints_text.tsj"
+        },
+    
+        {
+         "firstgid":5158,
+         "source":"..\/tsd\/wboards.tsj"
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":"1.11",
+ "width":1
+}
